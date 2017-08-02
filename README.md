@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Bacteremia](web/pages/bacteremia.md)
+[Bacteremia](docs/bacteremia.md)
 
 You can use the [editor on GitHub](https://github.com/knights-lab/MLRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
