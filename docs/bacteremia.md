@@ -1,19 +1,23 @@
-## Bacteremia Data Set
-Fecal samples from patients with non-Hodgkin lymphoma undergoing allogeneic hematopoietic stem cell transplantation (HSCT) prior to administration of chemotherapy. Classification goal is to predict if the patient developed bacteremia (bloodstream infection).
+# Montassier 2016
 
-### Data Characteristics
-| Num Samples  | Num Subjects | Area | Attribute Data Type | Num Attributes | Tasks | Missing Values?
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 28  | 28 | Bacteremia | Categorical | 1 | Classification | No
+# Bacteremia vs no bacteremia
 
-### Dataset Information
 
-### Attribute Information
-Treatment: bact = developed bacteremia, NObact = did not develop bacteremia
+| Details        |             |
+| -------------: |-------------|
+| Description      | Bacteremia vs no bacteremia |
+| Number of samples     | 28      |
+| Number of subjects | 28      |
+| Study design | Cross-Sectional |
+| Field | Bacteremia|
+| Attributes | * Treatment: NObact, bact |
+| Suggestions | 
 
-### Raw Sequence Source
-https://www.ncbi.nlm.nih.gov/sra/SRX733464
+### Additional details
 
-### Citation
-Montassier, E. Pretreatment gut microbiome predicts chemotherapy-related bloodstream infection. _Genome Medicine_ 8, 49 (2016).
-[comment]: <> (Author Surname, Author Initial. Title. Publication Title Volume number, Pages Used (Year Published).)
+| 16s hypervariable region | V56 |
+| Targeted amplicon size | 280 |
+| Sequencing Technology | 454 |
+| Fraction of sequences mapped to database |  |
+| Raw Sequences | https://www.ncbi.nlm.nih.gov/sra/SRX733464 |
+| Literature Source | https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0301-4 |
