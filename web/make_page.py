@@ -4,6 +4,10 @@ import sys
 import os
 import csv
 from jinja2 import Environment, FileSystemLoader
+import markdown
+from flask import Flask
+from flask import render_template
+
 
 PATH = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE_ENVIRONMENT = Environment(
@@ -20,6 +24,10 @@ varnames = ['project_name', 'project_id', 'v_region', 'target_size', 'raw_data_s
     'num_subjects', 'study_design_notes', 'area', 'attribute_data_type', 'attributes_values', 'short_desc', 'long_desc',
     'literature_source', 'sequencing_technology', 'study_design', 'num_attributes', 'tasks', 'percent_db_hits']
 
+md_template = """
+some code here
+"""
+
 
 def create_pages(fn):
     with open(fn, "r") as f:
@@ -31,14 +39,13 @@ def create_pages(fn):
 
 
 def create_new_page(metadata):
-    fname = "pages/" + metadata['project_id'] + ".html"
+    fname = "pages/" + metadata['project_id'] + ".md"
 
     metadata['attributes'] = metadata['attributes_values'].split(";")
 
     with open(fname, 'w') as f:
-        html = render_template('base.html', metadata)
-        f.write(html)
-
+        md = render_template('base.md', metadata)
+        f.write(md)
 
 def main():
     #create_pages(sys.argv[1])
