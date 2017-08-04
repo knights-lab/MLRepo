@@ -2,26 +2,27 @@
 
 # Available Datasets
 
-* (docs/cho.md)[Cho 2012]
 
-* (docs/claesson.md)[Claesson 2012]
+* [Cho 2012](docs/cho.md)
 
-* (docs/david.md)[David 2014]
+* [Claesson 2012](docs/claesson.md)
 
-* (docs/dethlefsen.md)[Dethlefsen 2011]
+* [David 2014](docs/david.md)
 
-* (docs/gevers.md)[Gevers 2014]
+* [Dethlefsen 2011](docs/dethlefsen.md)
 
-* (docs/hmp.md)[HMP 2012]
+* [Gevers 2014](docs/gevers.md)
 
-* (docs/kostic.md)[Kostic 2012]
+* [HMP 2012](docs/hmp.md)
 
-* (docs/bacteremia.md)[Montassier 2016]
+* [Kostic 2012](docs/kostic.md)
 
-* (docs/sokol.md)[Morgan 2012]
+* [Montassier 2016](docs/bacteremia.md)
 
-* (docs/turnbaugh_twins.md)[Turnbaugh 2009]
+* [Morgan 2012](docs/sokol.md)
 
-* (docs/bushman_cafe.md)[Wu 2011]
+* [Turnbaugh 2009](docs/turnbaugh_twins.md)
 
-* (docs/yatsunenko.md)[Yatsunenko 2012]
+* [Wu 2011](docs/bushman_cafe.md)
+
+* [Yatsunenko 2012](docs/yatsunenko.md)
