@@ -1,40 +1,28 @@
-## Welcome to GitHub Pages
+### Machine Learning Repository for Microbiome Datasets
 
-[Bacteremia](docs/bacteremia.md)
-[Global Gut](docs/yatsunenko.md)
+# Available Datasets
 
-You can use the [editor on GitHub](https://github.com/knights-lab/MLRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    * (docs/cho.md)[Cho 2012]
 
-### Markdown
+    * (docs/claesson.md)[Claesson 2012]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    * (docs/david.md)[David 2014]
 
-```markdown
-Syntax highlighted code block
+    * (docs/dethlefsen.md)[Dethlefsen 2011]
 
-# Header 1
-## Header 2
-### Header 3
+    * (docs/gevers.md)[Gevers 2014]
 
-- Bulleted
-- List
+    * (docs/hmp.md)[HMP 2012]
 
-1. Numbered
-2. List
+    * (docs/kostic.md)[Kostic 2012]
 
-**Bold** and _Italic_ and `Code` text
+    * (docs/bacteremia.md)[Montassier 2016]
 
-[Link](url) and ![Image](src)
-```
+    * (docs/sokol.md)[Morgan 2012]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    * (docs/turnbaugh_twins.md)[Turnbaugh 2009]
 
-### Jekyll Themes
+    * (docs/bushman_cafe.md)[Wu 2011]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/knights-lab/MLRepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    * (docs/yatsunenko.md)[Yatsunenko 2012]
