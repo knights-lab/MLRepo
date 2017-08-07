@@ -1,6 +1,6 @@
 # HMP 2012
 
-# Up to 18 body sites across 242 healthy subjects at 1-2 time points
+### Up to 18 body sites across 242 healthy subjects at 1-2 time points
 
 
 | Details        |             |
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 569 |
 | Sequencing Technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | https://qiita.ucsd.edu/ 969 |
-| Literature Source | http://www.nature.com/nature/journal/v486/n7402/full/nature11234.html |
+| Raw Sequences | [https://qiita.ucsd.edu/ 969](https://qiita.ucsd.edu/ 969) |
+| Literature Source | [http://www.nature.com/nature/journal/v486/n7402/full/nature11234.html](http://www.nature.com/nature/journal/v486/n7402/full/nature11234.html) |

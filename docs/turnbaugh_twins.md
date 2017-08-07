@@ -1,6 +1,6 @@
 # Turnbaugh 2009
 
-# 31 monozygotic twin pairs, 23 dizygotic twin pairs, and 46 mothers
+### 31 monozygotic twin pairs, 23 dizygotic twin pairs, and 46 mothers
 
 
 | Details        |             |
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 330 |
 | Sequencing Technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | https://qiita.ucsd.edu/ 77 |
-| Literature Source | http://www.ncbi.nlm.nih.gov/pubmed/19043404 |
+| Raw Sequences | [https://qiita.ucsd.edu/ 77](https://qiita.ucsd.edu/ 77) |
+| Literature Source | [http://www.ncbi.nlm.nih.gov/pubmed/19043404](http://www.ncbi.nlm.nih.gov/pubmed/19043404) |

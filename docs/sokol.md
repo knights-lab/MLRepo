@@ -1,6 +1,6 @@
 # Morgan 2012
 
-# Healthy vs. CD vs. UC
+### Healthy vs. CD vs. UC
 
 
 | Details        |             |
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 569 |
 | Sequencing Technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | https://qiita.ucsd.edu/ 1460 |
-| Literature Source | https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-9-r79 |
+| Raw Sequences | [https://qiita.ucsd.edu/ 1460](https://qiita.ucsd.edu/ 1460) |
+| Literature Source | [https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-9-r79](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-9-r79) |

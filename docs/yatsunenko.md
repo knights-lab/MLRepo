@@ -1,6 +1,6 @@
 # Yatsunenko 2012
 
-# USA vs. Malwai vs. Venezuela, Age
+### USA vs. Malwai vs. Venezuela, Age
 
 
 | Details        |             |
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 282 |
 | Sequencing Technology | Illumina |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401 |
-| Literature Source | http://www.ncbi.nlm.nih.gov/pubmed/22699611 |
+| Raw Sequences | [http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401](http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401) |
+| Literature Source | [http://www.ncbi.nlm.nih.gov/pubmed/22699611](http://www.ncbi.nlm.nih.gov/pubmed/22699611) |

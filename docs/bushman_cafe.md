@@ -1,6 +1,6 @@
 # Wu 2011
 
-# Controlled HighFat or LowFat feeding on 10 subjects over 10 days
+### Controlled HighFat or LowFat feeding on 10 subjects over 10 days
 
 
 | Details        |             |
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 311 |
 | Sequencing Technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | https://qiita.ucsd.edu/ 1010 |
-| Literature Source | http://www.sciencemag.org/content/334/6052/105.short |
+| Raw Sequences | [https://qiita.ucsd.edu/ 1010](https://qiita.ucsd.edu/ 1010) |
+| Literature Source | [http://www.sciencemag.org/content/334/6052/105.short](http://www.sciencemag.org/content/334/6052/105.short) |
