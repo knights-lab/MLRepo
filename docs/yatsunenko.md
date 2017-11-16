@@ -10,7 +10,7 @@
 | Number of subjects | 531      |
 | Study design | Cross-Sectional |
 | Field | Geography, Age, Gender|
-| Attributes | * COUNTRY: GAZ:Venezuela, GAZ:United States of America, GAZ:Malawi *  AGE: continuous |
+| Attributes | COUNTRY: GAZ:Venezuela, GAZ:United States of America, GAZ:Malawi; AGE: continuous|
 | Suggestions | Subset by AGE > 3 and AGE <= 3
 
 ### Additional details

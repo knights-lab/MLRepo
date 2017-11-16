@@ -10,7 +10,7 @@
 | Number of subjects | 178      |
 | Study design | Cross-Sectional |
 | Field | Age|
-| Attributes | * AGE: elderly, young |
+| Attributes | AGE: elderly, young|
 | Suggestions | 
 
 ### Additional details

@@ -10,7 +10,7 @@
 | Number of subjects | 668      |
 | Study design | Cross-Sectional |
 | Field | IBD|
-| Attributes | * DIAGNOSIS: no, IC, CD, UC *  BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum *  |
+| Attributes | DIAGNOSIS: no, IC, CD, UC; BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum;|
 | Suggestions | Subset by BODY_SITE
 
 ### Additional details

@@ -10,7 +10,7 @@
 | Number of subjects | 231      |
 | Study design | Cross-Sectional |
 | Field | IBD|
-| Attributes | * ULCERATIVE_COLIT_OR_CROHNS_DIS: Crohn's disease, Healthy, Ulcerative Colitis *  BODY_SITE: UBERON:ileal mucosa, UBERON:feces, UBERON:mucosa of descending colon |
+| Attributes | ULCERATIVE_COLIT_OR_CROHNS_DIS: Crohn's disease, Healthy, Ulcerative Colitis; BODY_SITE: UBERON:ileal mucosa, UBERON:feces, UBERON:mucosa of descending colon|
 | Suggestions | Subset by BODY_SITE
 
 ### Additional details

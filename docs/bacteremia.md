@@ -10,7 +10,7 @@
 | Number of subjects | 28      |
 | Study design | Cross-Sectional |
 | Field | Bacteremia|
-| Attributes | * Treatment: NObact, bact |
+| Attributes | Treatment: NObact, bact|
 | Suggestions | 
 
 ### Additional details

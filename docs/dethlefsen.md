@@ -10,7 +10,7 @@
 | Number of subjects | 3      |
 | Study design | Longitudinal |
 | Field | Antibiotics|
-| Attributes | * HOST_SUBJECT_ID: F, E, D *  ANTIBIOTIC: preCp, Interim, SecondCp, FirstWPC, FirstCp, PostCp, SecondWPC *  COLLECTION_DATE |
+| Attributes | HOST_SUBJECT_ID: F, E, D; ANTIBIOTIC: preCp, Interim, SecondCp, FirstWPC, FirstCp, PostCp, SecondWPC; COLLECTION_DATE|
 | Suggestions | SampleID contains sample date
 
 ### Additional details

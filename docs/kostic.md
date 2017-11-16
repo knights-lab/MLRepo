@@ -10,7 +10,7 @@
 | Number of subjects | 95      |
 | Study design | Paired |
 | Field | Colorectal Cancer|
-| Attributes | * DIAGNOSIS: Healthy, Tumor |
+| Attributes | DIAGNOSIS: Healthy, Tumor|
 | Suggestions | Control for HOST_SUBJECT_ID
 
 ### Additional details

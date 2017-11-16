@@ -10,7 +10,7 @@
 | Number of subjects | 47      |
 | Study design | Cross-Sectional |
 | Field | Antibiotics|
-| Attributes | * Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin *  Source: cecal, fecal |
+| Attributes | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin; Source: cecal, fecal|
 | Suggestions | Control for Source (sample type)
 
 ### Additional details
