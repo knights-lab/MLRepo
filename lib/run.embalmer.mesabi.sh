@@ -20,8 +20,8 @@ fi
 # only make dir if it doesn't already exist
 mkdir -p ${OUTPUT}
     
-echo "emb12 -r /scratch/gabe/databases/${DB}.edx -a /scratch/gabe/databases/${DB}.acx -b /scratch/gabe/databases/${DB}.tax -q ${SEQS} -o ${OUTPUT}/embalmer_output.b6 -n -m CAPITALIST -bs -i ${ID} -fr -f -sa ${XPARAM}"
-emb12 -r /scratch/gabe/databases/${DB}.edx -a /scratch/gabe/databases/${DB}.acx -b /scratch/gabe/databases/${DB}.tax -q ${SEQS} -o ${OUTPUT}/embalmer_output.b6 -n -m CAPITALIST -bs -i ${ID} -fr -f -sa ${XPARAM}
+echo "emb12 -r /scratch.global/gabe/databases/${DB}.edx -a /scratch.global/gabe/databases/${DB}.acx -b /scratch.global/gabe/databases/${DB}.tax -q ${SEQS} -o ${OUTPUT}/embalmer_output.b6 -n -m CAPITALIST -bs -i ${ID} -fr -f -sa ${XPARAM}"
+emb12 -r /scratch.global/gabe/databases/${DB}.edx -a /scratch.global/gabe/databases/${DB}.acx -b /scratch.global/gabe/databases/${DB}.tax -q ${SEQS} -o ${OUTPUT}/embalmer_output.b6 -n -m CAPITALIST -bs -i ${ID} -fr -f -sa ${XPARAM}
 
 # CONVERT blast alignment to OTU and Taxa table
 echo "embalmulate ${OUTPUT}/embalmer_output.b6  ${OUTPUT}/otutable.txt ${OUTPUT}/taxatable.txt GGtrim"

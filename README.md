@@ -3,26 +3,46 @@
 # Available Datasets
 
 
-* (docs/cho.md)[Cho 2012]
+* [Chlortetracycline vs Control vs Penicillin vs Vancomycin vs VancomycinPenicillin, cecal](docs/cho_antibiotics_cecal.md)
 
-* (docs/claesson.md)[Claesson 2012]
+* [Chlortetracycline vs Control vs Penicillin vs Vancomycin vs VancomycinPenicillin, fecal](docs/cho_antibiotics_fecal.md)
 
-* (docs/david.md)[David 2014]
+* [Elderly vs Young](docs/claesson_elderly.md)
 
-* (docs/dethlefsen.md)[Dethlefsen 2011]
+* [animal vs plant diet, day 5](docs/david_animal_plant.md)
 
-* (docs/gevers.md)[Gevers 2014]
+* [control vs CD, rectum](docs/gevers_control_cd_rectum.md)
 
-* (docs/hmp.md)[HMP 2012]
+* [control vs CD, ileum](docs/gevers_control_cd_ileum.md)
 
-* (docs/kostic.md)[Kostic 2012]
+* [Predict PCDAI in 6 months using CD rectum](docs/gevers_pcdai_rectum.md)
 
-* (docs/bacteremia.md)[Montassier 2016]
+* [Predict PCDAI in 6 months using CD ileum](docs/gevers_pcdai_ileum.md)
 
-* (docs/sokol.md)[Morgan 2012]
+* [male vs female, stool](docs/hmp_male_female.md)
 
-* (docs/turnbaugh_twins.md)[Turnbaugh 2009]
+* [gastrointestinal vs oral](docs/hmp_gastro_oral.md)
 
-* (docs/bushman_cafe.md)[Wu 2011]
+* [stool vs tongue](docs/hmp_stool_tongue.md)
 
-* (docs/yatsunenko.md)[Yatsunenko 2012]
+* [sub plaque vs supra plaque](docs/hmp_sub_supra.md)
+
+* [healthy vs tumor, paired](docs/kostic_healthy_tumor.md)
+
+* [bacteremia vs no bacteremia](docs/bacteremia_nobacteremia.md)
+
+* [healthy vs CD vs UC, stool](docs/sokol_healthy_cd_uc.md)
+
+* [Lean vs Obese, MZ/DZ/Mom](docs/turnbaugh_lean_obese_all.md)
+
+* [Lean vs Obese, MZ only](docs/turnbaugh_lean_obese_mz.md)
+
+* [highfat vs lowfat diet](docs/bushman_diet.md)
+
+* [Infant Age](docs/yatsunenko_infantage.md)
+
+* [male vs female, USA](docs/yatsunenko_male_female.md)
+
+* [US vs Malawi, adults only](docs/yatsunenko_us_malawi.md)
+
+* [Malawi vs Venezuela, adults only](docs/yatsunenko_malawi_venezuela.md)

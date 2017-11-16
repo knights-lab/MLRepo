@@ -1,6 +1,6 @@
 # Gevers 2014
 
-# 
+### 
 
 
 | Details        |             |
@@ -10,7 +10,7 @@
 | Number of subjects | 668      |
 | Study design | Cross-Sectional |
 | Field | IBD|
-| Attributes | * DIAGNOSIS: no, IC, CD, UC *  BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum *  |
+| Attributes | DIAGNOSIS: no, IC, CD, UC; BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum;|
 | Suggestions | Subset by BODY_SITE
 
 ### Additional details
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 282 |
 | Sequencing Technology | Illumina |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | https://qiita.ucsd.edu/ 1939 |
-| Literature Source | https://www.ncbi.nlm.nih.gov/pubmed/24629344 |
+| Raw Sequences | [https://qiita.ucsd.edu/ 1939](https://qiita.ucsd.edu/ 1939) |
+| Literature Source | [https://www.ncbi.nlm.nih.gov/pubmed/24629344](https://www.ncbi.nlm.nih.gov/pubmed/24629344) |

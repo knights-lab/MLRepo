@@ -1,6 +1,6 @@
 # Cho 2012
 
-# Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics
+### Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics
 
 
 | Details        |             |
@@ -10,7 +10,7 @@
 | Number of subjects | 47      |
 | Study design | Cross-Sectional |
 | Field | Antibiotics|
-| Attributes | * Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin *  Source: cecal, fecal |
+| Attributes | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin; Source: cecal, fecal|
 | Suggestions | Control for Source (sample type)
 
 ### Additional details
@@ -19,5 +19,5 @@
 | Targeted amplicon size | 177 |
 | Sequencing Technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | https://www.ncbi.nlm.nih.gov/bioproject/168618 |
-| Literature Source | http://www.ncbi.nlm.nih.gov/pubmed/22914093 |
+| Raw Sequences | [https://www.ncbi.nlm.nih.gov/bioproject/168618](https://www.ncbi.nlm.nih.gov/bioproject/168618) |
+| Literature Source | [http://www.ncbi.nlm.nih.gov/pubmed/22914093](http://www.ncbi.nlm.nih.gov/pubmed/22914093) |

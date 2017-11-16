@@ -1,6 +1,0 @@
-Bacteremia Data Set
-Fecal samples from patients with non-Hodgkin lymphoma undergoing allogeneic hematopoietic stem cell transplantation (HSCT) prior to administration of chemotherapy. Classification goal is to predict if the patient developed bacteremia (bloodstream infection).
-bact = developed bacteremia, NObact = did not develop bacteremia
-https://www.ncbi.nlm.nih.gov/sra/SRX733464
-Montassier, E. Pretreatment gut microbiome predicts chemotherapy-related bloodstream infection. _Genome Medicine_ 8, 49 (2016)
-
