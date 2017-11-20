@@ -76,8 +76,3 @@
 
 * [Malawi vs Venezuela, adults only](docs/yatsunenko_malawi_venezuela.md)
 
-
-## 
-
-* [](docs/.md)
-
