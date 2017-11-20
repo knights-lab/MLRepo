@@ -1,4 +1,4 @@
-# [HMP 2012]( ../docs/hmp.md )
+# [HMP 2012]( ../docs/hmp.html )
 
 ### stool vs tongue
 ## Stool and tongue of healthy adults

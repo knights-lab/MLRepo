@@ -1,4 +1,4 @@
-# [HMP 2012]( ../docs/hmp.md )
+# [HMP 2012]( ../docs/hmp.html )
 
 ### sub plaque vs supra plaque
 ## Subgingival and supragingival plague of healthy adults

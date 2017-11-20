@@ -1,4 +1,4 @@
-# [HMP 2012]( ../docs/hmp.md )
+# [HMP 2012]( ../docs/hmp.html )
 
 ### male vs female, stool
 ## Healthy male and female adults

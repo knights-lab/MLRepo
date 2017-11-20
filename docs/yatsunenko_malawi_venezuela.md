@@ -1,4 +1,4 @@
-# [Yatsunenko 2012]( ../docs/yatsunenko.md )
+# [Yatsunenko 2012]( ../docs/yatsunenko.html )
 
 ### Malawi vs Venezuela, adults only
 ## Individuals living in Malawi or Venezuela

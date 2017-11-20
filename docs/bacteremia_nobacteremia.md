@@ -1,4 +1,4 @@
-# [Montassier 2016]( ../docs/bacteremia.md )
+# [Montassier 2016]( ../docs/bacteremia.html )
 
 ### bacteremia vs no bacteremia
 ## Patients prior to chemotherapy who did or did not develop bacteremia

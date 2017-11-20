@@ -1,4 +1,4 @@
-# [Turnbaugh 2009]( ../docs/turnbaugh_twins.md )
+# [Turnbaugh 2009]( ../docs/turnbaugh_twins.html )
 
 ### Lean vs Obese, MZ only
 ## Lean or obese monozygotic twins

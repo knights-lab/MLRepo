@@ -1,4 +1,4 @@
-# [Gevers 2014]( ../docs/gevers.md )
+# [Gevers 2014]( ../docs/gevers.html )
 
 ### PCDAI using baseline CD ileum
 ## PCDAI scores at 6 months post sampling

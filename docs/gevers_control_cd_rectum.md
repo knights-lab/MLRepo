@@ -1,4 +1,4 @@
-# [Gevers 2014]( ../docs/gevers.md )
+# [Gevers 2014]( ../docs/gevers.html )
 
 ### control vs CD, rectum
 ## Healthy controls and Crohn's Disease patients

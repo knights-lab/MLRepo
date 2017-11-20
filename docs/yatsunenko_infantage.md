@@ -1,4 +1,4 @@
-# [Yatsunenko 2012]( ../docs/yatsunenko.md )
+# [Yatsunenko 2012]( ../docs/yatsunenko.html )
 
 ### Infant Age
 ## Infants (up to Age 3) from the US
