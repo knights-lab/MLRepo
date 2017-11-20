@@ -4,7 +4,7 @@
 ## Elderly or young adults
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Age
 | Number of samples | 167
 | Sample Type | human stool

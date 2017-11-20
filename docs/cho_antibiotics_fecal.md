@@ -4,7 +4,7 @@
 ## Five groups of mice treated with four different antibiotics or no antibiotics
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Antibiotics
 | Number of samples | 45
 | Sample Type | mouse pellets

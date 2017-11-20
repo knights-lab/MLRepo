@@ -4,7 +4,7 @@
 ## Individuals after completing a high fat or low fat diet intervention
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Diet
 | Number of samples | 10
 | Sample Type | human stool

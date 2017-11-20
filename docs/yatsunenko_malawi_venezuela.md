@@ -4,7 +4,7 @@
 ## Individuals living in Malawi or Venezuela
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Geography
 | Number of samples | 91
 | Sample Type | human stool

@@ -4,7 +4,7 @@
 ## Individuals living in the US or Malawi
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Geography
 | Number of samples | 278
 | Sample Type | human stool

@@ -4,7 +4,7 @@
 ## Subgingival and supragingival plague of healthy adults
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Body Habitat
 | Number of samples | 408
 | Sample Type | oral

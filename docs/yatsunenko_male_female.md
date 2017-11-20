@@ -4,7 +4,7 @@
 ## Males and females from the US
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Gender
 | Number of samples | 255
 | Sample Type | human stool

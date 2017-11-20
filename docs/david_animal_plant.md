@@ -4,7 +4,7 @@
 ## Individuals after completing an animal or plant diet intervention
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Diet
 | Number of samples | 18
 | Sample Type | human stool

@@ -4,7 +4,7 @@
 ## Infants (up to Age 3) from the US
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Age
 | Number of samples | 49
 | Sample Type | human stool

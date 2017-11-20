@@ -4,7 +4,7 @@
 ## PCDAI scores at 6 months post sampling
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | IBD
 | Number of samples | 68
 | Sample Type | ileal biopsies

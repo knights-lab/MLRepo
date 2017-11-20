@@ -4,7 +4,7 @@
 ## Colorectal carcinoma tumors and adjacent nonaffected tissues
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Cancer
 | Number of samples | 172
 | Sample Type | colon biopsies

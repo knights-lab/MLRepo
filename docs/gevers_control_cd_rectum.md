@@ -4,7 +4,7 @@
 ## Healthy controls and Crohn's Disease patients
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | IBD
 | Number of samples | 160
 | Sample Type | rectal biopsies

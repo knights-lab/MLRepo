@@ -4,7 +4,7 @@
 ## Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | IBD
 | Number of samples | 128
 | Sample Type | human stool

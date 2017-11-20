@@ -4,7 +4,7 @@
 ## Healthy male and female adults
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Gender
 | Number of samples | 180
 | Sample Type | human stool

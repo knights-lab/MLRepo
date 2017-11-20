@@ -4,7 +4,7 @@
 ## Lean or obese monozygotic twins
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Obesity
 | Number of samples | 59
 | Sample Type | human stool

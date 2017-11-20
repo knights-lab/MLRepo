@@ -4,7 +4,7 @@
 ## Stool and tongue of healthy adults
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Body Habitat
 | Number of samples | 404
 | Sample Type | human stool, oral

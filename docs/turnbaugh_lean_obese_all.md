@@ -4,7 +4,7 @@
 ## Lean or Obese individuals (monozygotic or dyzygotic twins or their mothers)
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Obesity
 | Number of samples | 138
 | Sample Type | human stool

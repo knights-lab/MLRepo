@@ -4,7 +4,7 @@
 ## Patients prior to chemotherapy who did or did not develop bacteremia
 
 | Details        |             |
-| -------------: |-------------|
+| -----------------------: |-------------|
 | Topic Area | Bacteremia
 | Number of samples | 28
 | Sample Type | human stool
