@@ -1,3 +1,4 @@
 /web
-/datasets
 readme - local.txt
+*.Rapp.history
+datasets/hmp/gg/otutable.txt

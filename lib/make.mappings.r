@@ -163,6 +163,8 @@ filter.data <- function(m, o, min.depth=1000)
     write.mapping("kostic/mapping.txt", m[m$HOST_SUBJECT_ID %in% ids, c("HOST_SUBJECT_ID", "DIAGNOSIS")])
     
 # david
+    # cross over study design
+    # Diet: Plant, Animal; Day: -4 to -1 (baseline), 0 to 4 (diet), 5 to 10 (washout)
     ret <- load.data("david/mapping-orig.txt", "david/gg/otutable.txt")
     sort(colSums(ret$o), decreasing=T) 
     ret2 <- filter.data(ret$m, ret$o, 100) 
