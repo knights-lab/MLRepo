@@ -8,7 +8,7 @@
 | **Number of samples**         | 140                                         |
 | **Sample Type**               | ileal biopsies                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | DIAGNOSIS: no, CD                                           |
+| **Group Variables**           | DIAGNOSIS: no, CD                                          |
 | **Subset Details**            | Samples represent those from the RISK collection only, and individuals without immunosuppression and not taking steroids; representative samples per site per person chosen arbitrarily                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-ileum.txt]( ../datasets/gevers/mapping-ileum.txt)        |

@@ -8,7 +8,7 @@
 | **Number of samples**         | 28                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | Treatment: bact, NObact                                           |
+| **Group Variables**           | Treatment: bact, NObact                                          |
 | **Subset Details**            |                                   |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping.txt]( ../datasets/bacteremia/mapping.txt)        |

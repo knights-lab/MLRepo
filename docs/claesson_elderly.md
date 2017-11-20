@@ -8,7 +8,7 @@
 | **Number of samples**         | 167                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | AGE: Elderly, Young                                           |
+| **Group Variables**           | AGE: Elderly, Young                                          |
 | **Subset Details**            | Elderly adults confounded by residence type, data not shown                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping.txt]( ../datasets/claesson/mapping.txt)        |

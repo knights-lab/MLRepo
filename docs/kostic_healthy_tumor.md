@@ -8,7 +8,7 @@
 | **Number of samples**         | 172                                         |
 | **Sample Type**               | colon biopsies                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | DIAGNOSIS: Healthy, Tumor; HOST_SUBJECT_ID                                           |
+| **Group Variables**           | DIAGNOSIS: Healthy, Tumor; HOST_SUBJECT_ID                                          |
 | **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping.txt]( ../datasets/kostic/mapping.txt)        |

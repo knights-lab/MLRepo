@@ -8,7 +8,7 @@
 | **Number of samples**         | 18                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | Diet: Plant, Animal                                           |
+| **Group Variables**           | Diet: Plant, Animal                                          |
 | **Subset Details**            | Cross over design? Subset by day (e.g. Day == 4), control for SubjectFood (subject ID), ignore food samples                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping.txt]( ../datasets/david/mapping.txt)        |

@@ -8,7 +8,7 @@
 | **Number of samples**         | 47                                         |
 | **Sample Type**               | mouse cecal contents                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin                                           |
+| **Group Variables**           | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin                                          |
 | **Subset Details**            |                                   |
 | **Notes**                     | Classify samples between antibiotic and control groups for large effect, or between antibiotics for small effect                                         |
 | **Mapping File**              | [mapping-cecal.txt]( ../datasets/cho/mapping-cecal.txt)        |

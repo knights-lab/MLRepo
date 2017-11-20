@@ -8,7 +8,7 @@
 | **Number of samples**         | 160                                         |
 | **Sample Type**               | rectal biopsies                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | DIAGNOSIS: no, CD                                           |
+| **Group Variables**           | DIAGNOSIS: no, CD                                          |
 | **Subset Details**            | Samples represent those from the RISK collection only, and individuals without immunosuppression and not taking steroids; representative samples per site per person chosen arbitrarily                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-rectum.txt]( ../datasets/gevers/mapping-rectum.txt)        |

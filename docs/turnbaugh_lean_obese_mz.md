@@ -8,7 +8,7 @@
 | **Number of samples**         | 59                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | OBESITYCAT: Lean, Obese                                           |
+| **Group Variables**           | OBESITYCAT: Lean, Obese                                          |
 | **Subset Details**            | Monozygotic Twins Only                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-obese-lean-MZ.txt]( ../datasets/turnbaugh_twins/mapping-obese-lean-MZ.txt)        |

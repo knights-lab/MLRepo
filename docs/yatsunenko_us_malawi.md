@@ -8,7 +8,7 @@
 | **Number of samples**         | 278                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | COUNTRY: GAZ:United States of America, GAZ:Malawi                                           |
+| **Group Variables**           | COUNTRY: GAZ:United States of America, GAZ:Malawi                                          |
 | **Subset Details**            | Individuals are older than age 3, and are all living in the US or Malawi                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-usa-malawi.txt]( ../datasets/yatsunenko/mapping-usa-malawi.txt)        |

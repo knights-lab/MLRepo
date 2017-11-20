@@ -8,7 +8,7 @@
 | **Number of samples**         | 2070                                         |
 | **Sample Type**               | human stool, oral                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | HMPBODYSUPERSITE: Oral, Gastrointestinal_tract, HOST_SUBJECT_ID                                           |
+| **Group Variables**           | HMPBODYSUPERSITE: Oral, Gastrointestinal_tract, HOST_SUBJECT_ID                                          |
 | **Subset Details**            | Multiple samples provided per body site per individual, control for HOST_SUBJECT_ID                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-gastro-oral.txt]( ../datasets/hmp/mapping-gastro-oral.txt)        |

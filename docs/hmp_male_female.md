@@ -8,7 +8,7 @@
 | **Number of samples**         | 180                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | SEX: male, female                                           |
+| **Group Variables**           | SEX: male, female                                          |
 | **Subset Details**            | Only one representative sample per body site per person provided                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-sex.txt]( ../datasets/hmp/mapping-sex.txt)        |

@@ -8,7 +8,7 @@
 | **Number of samples**         | 68                                         |
 | **Sample Type**               | ileal biopsies                                         |
 | **Data Type**                 | Continuous                                           |
-| **Group Variables **          | PCDAI                                           |
+| **Group Variables**           | PCDAI                                          |
 | **Subset Details**            | Samples represent those from the RISK collection only, and individuals without immunosuppression and not taking steroids; representative samples per site per person chosen arbitrarily                                  |
 | **Notes**                     | predict PCDAI scores based on samples                                         |
 | **Mapping File**              | [mapping-pcdai-ileum]( ../datasets/gevers/mapping-pcdai-ileum)        |

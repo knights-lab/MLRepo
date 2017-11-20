@@ -8,7 +8,7 @@
 | **Number of samples**         | 255                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | SEX: male, female                                           |
+| **Group Variables**           | SEX: male, female                                          |
 | **Subset Details**            | Individuals are older than age 3, and are all living in the US                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-sex.txt]( ../datasets/yatsunenko/mapping-sex.txt)        |

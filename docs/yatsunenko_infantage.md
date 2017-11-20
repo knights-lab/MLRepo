@@ -8,7 +8,7 @@
 | **Number of samples**         | 49                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Continuous                                           |
-| **Group Variables **          | AGE                                           |
+| **Group Variables**           | AGE                                          |
 | **Subset Details**            | Individuals are aged 3 or younger and are all living in the US                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-baby-age.txt]( ../datasets/yatsunenko/mapping-baby-age.txt)        |

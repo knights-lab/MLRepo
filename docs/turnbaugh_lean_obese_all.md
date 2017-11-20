@@ -8,7 +8,7 @@
 | **Number of samples**         | 138                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | OBESITYCAT: Lean, Obese; ZYGOSITY: MZ, DZ, Mom                                           |
+| **Group Variables**           | OBESITYCAT: Lean, Obese; ZYGOSITY: MZ, DZ, Mom                                          |
 | **Subset Details**            |                                   |
 | **Notes**                     | May want to control for ZYGOSITY                                         |
 | **Mapping File**              | [mapping-obese-lean-all.txt]( ../datasets/turnbaugh_twins/mapping-obese-lean-all.txt)        |

@@ -8,7 +8,7 @@
 | **Number of samples**         | 404                                         |
 | **Sample Type**               | human stool, oral                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | HMPBODYSUBSITE: Stool, Tongue_dorsum; HOST_SUBJECT_ID                                           |
+| **Group Variables**           | HMPBODYSUBSITE: Stool, Tongue_dorsum; HOST_SUBJECT_ID                                          |
 | **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-stool-tongue-paired.txt]( ../datasets/hmp/mapping-stool-tongue-paired.txt)        |

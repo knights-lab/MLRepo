@@ -8,7 +8,7 @@
 | **Number of samples**         | 408                                         |
 | **Sample Type**               | oral                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | HMPBODYSUBSITE: Subgingival_plaque, Supragingival_plaque; HOST_SUBJECT_ID                                           |
+| **Group Variables**           | HMPBODYSUBSITE: Subgingival_plaque, Supragingival_plaque; HOST_SUBJECT_ID                                          |
 | **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping-sub-supragingivalplaque.txt]( ../datasets/hmp/mapping-sub-supragingivalplaque.txt)        |

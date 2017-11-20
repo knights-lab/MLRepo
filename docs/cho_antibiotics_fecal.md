@@ -8,7 +8,7 @@
 | **Number of samples**         | 45                                         |
 | **Sample Type**               | mouse pellets                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin                                           |
+| **Group Variables**           | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin                                          |
 | **Subset Details**            |                                   |
 | **Notes**                     | Classify samples between antibiotic and control groups for large effect, or between antibiotics for small effect                                         |
 | **Mapping File**              | [mapping-fecal.txt]( ../datasets/cho/mapping-fecal.txt)        |

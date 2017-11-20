@@ -8,7 +8,7 @@
 | **Number of samples**         | 10                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | DIET: HighFat, LowFat                                           |
+| **Group Variables**           | DIET: HighFat, LowFat                                          |
 | **Subset Details**            | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping.txt]( ../datasets/bushman_cafe/mapping.txt)        |

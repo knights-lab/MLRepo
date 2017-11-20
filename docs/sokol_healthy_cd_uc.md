@@ -8,7 +8,7 @@
 | **Number of samples**         | 128                                         |
 | **Sample Type**               | human stool                                         |
 | **Data Type**                 | Categorical                                           |
-| **Group Variables **          | ULCERATIVE_COLIT_OR_CROHNS_DIS: Ulcerative Colitis, Crohn's disease, Healthy                                           |
+| **Group Variables**           | ULCERATIVE_COLIT_OR_CROHNS_DIS: Ulcerative Colitis, Crohn's disease, Healthy                                          |
 | **Subset Details**            |                                   |
 | **Notes**                     |                                          |
 | **Mapping File**              | [mapping.txt]( ../datasets/sokol/mapping.txt)        |
