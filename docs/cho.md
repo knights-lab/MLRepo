@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics |
-| Number of samples     | 95      |
-| Number of subjects | 47      |
 | Study design | Cross-Sectional |
-| Field | Antibiotics|
+| Topic Area | Antibiotics|
 | Attributes | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin; Source: cecal, fecal|
-| Suggestions | Two sample types available
+| Dataset Notes | Two sample types available
 
 ### Additional details
 

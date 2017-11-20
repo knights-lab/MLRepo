@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Patients prior to chemotherapy who did or did not develop bacteremia |
-| Number of samples     | 28      |
-| Number of subjects | 28      |
 | Study design | Cross-Sectional |
-| Field | Bacteremia|
+| Topic Area | Bacteremia|
 | Attributes | Treatment: NObact, bact|
-| Suggestions | 
+| Dataset Notes | 
 
 ### Additional details
 

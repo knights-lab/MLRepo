@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Healthy, Crohn's Disease, or Ulcerative Colitis patients |
-| Number of samples     | 231      |
-| Number of subjects | 231      |
 | Study design | Cross-Sectional |
-| Field | IBD|
+| Topic Area | IBD|
 | Attributes | ULCERATIVE_COLIT_OR_CROHNS_DIS: Crohn's disease, Healthy, Ulcerative Colitis; BODY_SITE: UBERON:ileal mucosa, UBERON:feces, UBERON:mucosa of descending colon|
-| Suggestions | Cross-sectional study with different subjects for all sample types
+| Dataset Notes | Cross-sectional study with different subjects for all sample types
 
 ### Additional details
 

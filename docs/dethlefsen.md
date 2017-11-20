@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | 3 subjects before and after antibiotic usage, 52-56 timepoints per subject over 6 months |
-| Number of samples     | 203      |
-| Number of subjects | 3      |
 | Study design | Longitudinal |
-| Field | Antibiotics|
+| Topic Area | Antibiotics|
 | Attributes | HOST_SUBJECT_ID: F, E, D; ANTIBIOTIC: preCp, Interim, SecondCp, FirstWPC, FirstCp, PostCp, SecondWPC; COLLECTION_DATE|
-| Suggestions | SampleID contains sample date
+| Dataset Notes | SampleID contains sample date
 
 ### Additional details
 

@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Humans of varying ages from the USA, Malwai, and Venezuela |
-| Number of samples     | 531      |
-| Number of subjects | 531      |
 | Study design | Cross-Sectional |
-| Field | Geography, Age, Gender|
+| Topic Area | Geography, Age, Gender|
 | Attributes | COUNTRY: GAZ:Venezuela, GAZ:United States of America, GAZ:Malawi; AGE: continuous|
-| Suggestions | Infants should be analyzed separately from non-infants
+| Dataset Notes | Infants should be analyzed separately from non-infants
 
 ### Additional details
 

@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | 31 monozygotic twin pairs, 23 dizygotic twin pairs, and 46 mothers |
-| Number of samples     | 281      |
-| Number of subjects | 154      |
 | Study design | Cross-Sectional |
-| Field | Obesity|
+| Topic Area | Obesity|
 | Attributes | OBESITYCAT: Lean, Overweight, Obese; TWIN_MOTHER: Twin, Mother; ZYGOSITY: DZ, MZ, NA|
-| Suggestions | 
+| Dataset Notes | 
 
 ### Additional details
 

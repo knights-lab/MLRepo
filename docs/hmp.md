@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Up to 18 body sites across 242 healthy subjects at 1-2 time points |
-| Number of samples     | 6407      |
-| Number of subjects | 242 or 238?      |
 | Study design | Cross-Sectional |
-| Field | Body Habitat, Gender|
+| Topic Area | Body Habitat, Gender|
 | Attributes | SEX: female, male; HMPBODYSUBSITE: Tongue_dorsum, Left_Antecubital_fossa, Left_Retroauricular_crease, Anterior_nares, Subgingival_plaque, Hard_palate, Posterior_fornix, Stool, Throat, Right_Retroauricular_crease, Mid_vagina, Buccal_mucosa, Vaginal_introitus, Saliva, Right_Antecubital_fossa, Supragingival_plaque, Palatine_Tonsils, Attached_Keratinized_gingiva; HMPBODYSUPERSITE: Oral, Skin, Airways, Urogenital_tract, Gastrointestinal_tract|
-| Suggestions | Multiple body site samples per person
+| Dataset Notes | Multiple body site samples per person
 
 ### Additional details
 

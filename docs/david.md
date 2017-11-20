@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Plant-based vs. Animal-based diet, Cross-over study |
-| Number of samples     | 235      |
-| Number of subjects | 11      |
 | Study design | Longitudinal |
-| Field | Diet|
+| Topic Area | Diet|
 | Attributes | Diet: Plant, Animal; Day: -4 to -1 (baseline), 0 to 4 (diet), 5 to 10 (washout)|
-| Suggestions | Longitudinal data available, but subset by last day of intervention to compare groups
+| Dataset Notes | Longitudinal data available, but subset by last day of intervention to compare groups
 
 ### Additional details
 

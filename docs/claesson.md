@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
-| Number of samples     | 178      |
-| Number of subjects | 178      |
 | Study design | Cross-Sectional |
-| Field | Age|
+| Topic Area | Age|
 | Attributes | AGE: elderly, young|
-| Suggestions | 
+| Dataset Notes | 
 
 ### Additional details
 

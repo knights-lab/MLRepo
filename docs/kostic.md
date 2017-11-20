@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
-| Number of samples     | 190      |
-| Number of subjects | 95      |
 | Study design | Paired |
-| Field | Colorectal Cancer|
+| Topic Area | Colorectal Cancer|
 | Attributes | DIAGNOSIS: Healthy, Tumor|
-| Suggestions | Samples are paired per person
+| Dataset Notes | Samples are paired per person
 
 ### Additional details
 

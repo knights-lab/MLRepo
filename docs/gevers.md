@@ -6,12 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Biopsies from IBD patients prior to treatment |
-| Number of samples     | 1321      |
-| Number of subjects | 668      |
 | Study design | Cross-Sectional |
-| Field | IBD|
+| Topic Area | IBD|
 | Attributes | DIAGNOSIS: no, IC, CD, UC; BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum;|
-| Suggestions | 
+| Dataset Notes | 
 
 ### Additional details
 
