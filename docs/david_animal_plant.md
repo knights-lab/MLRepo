@@ -1,4 +1,4 @@
-# [David 2014] (../docs/david.md)
+# [David 2014]( ../docs/david.md )
 
 ### animal vs plant diet, day 5
 ## Individuals after completing an animal or plant diet intervention

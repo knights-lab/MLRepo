@@ -1,4 +1,4 @@
-# [Cho 2012] (../docs/cho.md)
+# [Cho 2012]( ../docs/cho.md )
 
 ### Chlortetracycline vs Control vs Penicillin vs Vancomycin vs VancomycinPenicillin, cecal
 ## Five groups of mice treated with four different antibiotics or no antibiotics

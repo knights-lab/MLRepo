@@ -1,4 +1,4 @@
-# [HMP 2012] (../docs/hmp.md)
+# [HMP 2012]( ../docs/hmp.md )
 
 ### gastrointestinal vs oral
 ## Gastrointestinal tract and oral cavity of healthy adults

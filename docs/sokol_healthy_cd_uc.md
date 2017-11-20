@@ -1,4 +1,4 @@
-# [Morgan 2012] (../docs/sokol.md)
+# [Morgan 2012]( ../docs/sokol.md )
 
 ### healthy vs CD vs UC, stool
 ## Healthy, Crohn's Disease, or Ulcerative Colitis patients

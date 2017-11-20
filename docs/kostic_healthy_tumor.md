@@ -1,4 +1,4 @@
-# [Kostic 2012] (../docs/kostic.md)
+# [Kostic 2012]( ../docs/kostic.md )
 
 ### healthy vs tumor, paired
 ## Colorectal carcinoma tumors and adjacent nonaffected tissues

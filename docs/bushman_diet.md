@@ -1,4 +1,4 @@
-# [Wu 2011] (../docs/bushman_cafe.md)
+# [Wu 2011]( ../docs/bushman_cafe.md )
 
 ### highfat vs lowfat diet
 ## Individuals after completing a high fat or low fat diet intervention

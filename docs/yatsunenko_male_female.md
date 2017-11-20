@@ -1,4 +1,4 @@
-# [Yatsunenko 2012] (../docs/yatsunenko.md)
+# [Yatsunenko 2012]( ../docs/yatsunenko.md )
 
 ### male vs female, USA
 ## Males and females from the US

@@ -1,4 +1,4 @@
-# [Yatsunenko 2012] (../docs/yatsunenko.md)
+# [Yatsunenko 2012]( ../docs/yatsunenko.md )
 
 ### US vs Malawi, adults only
 ## Individuals living in the US or Malawi
