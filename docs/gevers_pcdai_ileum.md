@@ -1,14 +1,14 @@
 # Gevers 2014
 
-### Predict PCDAI in 6 months using CD ileum
+### PCDAI using baseline CD ileum
 
 
 | Details        |             |
 | -------------: |-------------|
 | Number of samples | 68
-| Field | https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0
-| Notes | Continuous
-| | [Mapping file](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
+| Field | IBD
+| Notes | Samples represent those from the RISK collection only, and individuals without immunosuppression and not taking steroids; representative samples per site per person chosen arbitrarily
+| | [Mapping file]()
 | | [OTU file (greengenes)]()
 | | [Taxa file (greengenes)]()
 | | [OTU file (refseq)]()

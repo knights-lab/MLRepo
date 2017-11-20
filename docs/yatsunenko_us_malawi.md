@@ -6,9 +6,9 @@
 | Details        |             |
 | -------------: |-------------|
 | Number of samples | 278
-| Field | https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0
-| Notes | Categorical
-| | [Mapping file](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
+| Field | Geography
+| Notes | Individuals are older than age 3, and are all living in the US or Malawi
+| | [Mapping file]()
 | | [OTU file (greengenes)]()
 | | [Taxa file (greengenes)]()
 | | [OTU file (refseq)]()
