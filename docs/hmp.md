@@ -11,7 +11,7 @@
 | Study design | Cross-Sectional |
 | Field | Body Habitat, Gender|
 | Attributes | SEX: female, male; HMPBODYSUBSITE: Tongue_dorsum, Left_Antecubital_fossa, Left_Retroauricular_crease, Anterior_nares, Subgingival_plaque, Hard_palate, Posterior_fornix, Stool, Throat, Right_Retroauricular_crease, Mid_vagina, Buccal_mucosa, Vaginal_introitus, Saliva, Right_Antecubital_fossa, Supragingival_plaque, Palatine_Tonsils, Attached_Keratinized_gingiva; HMPBODYSUPERSITE: Oral, Skin, Airways, Urogenital_tract, Gastrointestinal_tract|
-| Suggestions | Control for HOST_SUBJECT_ID
+| Suggestions | Multiple body site samples per person
 
 ### Additional details
 

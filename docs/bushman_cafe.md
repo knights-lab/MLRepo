@@ -11,7 +11,7 @@
 | Study design | Longitudinal |
 | Field | Diet|
 | Attributes | DIET: HighFat, LowFat; DAY: 01 to 10|
-| Suggestions | Subset by DAY (subject ID B.2004.08.S1.405610, see the ".08" means day 7)
+| Suggestions | Longitudinal data available, but subset by last day of intervention to compare groups
 
 ### Additional details
 

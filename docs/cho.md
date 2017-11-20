@@ -11,7 +11,7 @@
 | Study design | Cross-Sectional |
 | Field | Antibiotics|
 | Attributes | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin; Source: cecal, fecal|
-| Suggestions | Control for Source (sample type)
+| Suggestions | Two sample types available
 
 ### Additional details
 

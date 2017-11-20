@@ -1,11 +1,11 @@
 # Montassier 2016
 
-### Bacteremia vs no bacteremia
+### Patients prior to chemotherapy who did or did not develop bacteremia
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Bacteremia vs no bacteremia |
+| Description      | Patients prior to chemotherapy who did or did not develop bacteremia |
 | Number of samples     | 28      |
 | Number of subjects | 28      |
 | Study design | Cross-Sectional |

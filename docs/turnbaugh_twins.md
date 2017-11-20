@@ -11,7 +11,7 @@
 | Study design | Cross-Sectional |
 | Field | Obesity|
 | Attributes | OBESITYCAT: Lean, Overweight, Obese; TWIN_MOTHER: Twin, Mother; ZYGOSITY: DZ, MZ, NA|
-| Suggestions | Control for SAMPLEDATE (two timepoints available)
+| Suggestions | 
 
 ### Additional details
 

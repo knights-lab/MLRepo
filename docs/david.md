@@ -11,7 +11,7 @@
 | Study design | Longitudinal |
 | Field | Diet|
 | Attributes | Diet: Plant, Animal; Day: -4 to -1 (baseline), 0 to 4 (diet), 5 to 10 (washout)|
-| Suggestions | Subset by day (e.g. Day == 4), control for SubjectFood (subject ID), ignore food samples
+| Suggestions | Longitudinal data available, but subset by last day of intervention to compare groups
 
 ### Additional details
 

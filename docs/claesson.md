@@ -1,11 +1,11 @@
 # Claesson 2012
 
-### elderly vs young
+### Elderly and young adults
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | elderly vs young |
+| Description      | Elderly and young adults |
 | Number of samples     | 178      |
 | Number of subjects | 178      |
 | Study design | Cross-Sectional |

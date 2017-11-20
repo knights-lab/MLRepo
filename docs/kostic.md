@@ -11,7 +11,7 @@
 | Study design | Paired |
 | Field | Colorectal Cancer|
 | Attributes | DIAGNOSIS: Healthy, Tumor|
-| Suggestions | Control for HOST_SUBJECT_ID
+| Suggestions | Samples are paired per person
 
 ### Additional details
 
