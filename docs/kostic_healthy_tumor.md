@@ -1,18 +1,18 @@
 ### healthy vs tumor, paired
 # [Kostic 2012]( ../docs/kostic.html )
-### DIAGNOSIS: Healthy, Tumor; HOST_SUBJECT_ID
+### Colorectal carcinoma tumors and adjacent nonaffected tissues
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                |                                                 |
+| **Topic Area**                | Cancer                                                |
 | **Number of samples**         | 172                                         |
-| **Sample Type**               | Colorectal carcinoma tumors and adjacent nonaffected tissues                                         |
-| **Data Type**                 | Cancer                                           |
-| **Group Variables **          |                                            |
-| **Subset Details**            | colon biopsies                                  |
-| **Notes**                     | Samples collected from paired locations by HOST_SUBJECT_ID                                         |
-| **Mapping File**              | [Categorical]( ../datasets/kostic/Categorical)        |
-| **OTU File** *gg97*           | [mapping.txt]( ../datasets/kostic/mapping.txt)          |
-| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/kostic/refseq/otutable.txt)        |
-| **OTU File** *RefSeq*         | [gg/otutable.txt]( ../datasets/kostic/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/kostic/gg/taxatable.txt)|
+| **Sample Type**               | colon biopsies                                         |
+| **Data Type**                 | Categorical                                           |
+| **Group Variables **          | DIAGNOSIS: Healthy, Tumor; HOST_SUBJECT_ID                                           |
+| **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
+| **Notes**                     |                                          |
+| **Mapping File**              | [mapping.txt]( ../datasets/kostic/mapping.txt)        |
+| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/kostic/gg/otutable.txt)          |
+| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/kostic/gg/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/kostic/refseq/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/kostic/refseq/taxatable.txt)|

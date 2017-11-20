@@ -1,18 +1,18 @@
 ### Infant Age
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
-### AGE
+### Infants (up to Age 3) from the US
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                |                                                 |
+| **Topic Area**                | Age                                                |
 | **Number of samples**         | 49                                         |
-| **Sample Type**               | Infants (up to Age 3) from the US                                         |
-| **Data Type**                 | Age                                           |
-| **Group Variables **          |                                            |
-| **Subset Details**            | human stool                                  |
-| **Notes**                     | Individuals are aged 3 or younger and are all living in the US                                         |
-| **Mapping File**              | [Continuous]( ../datasets/yatsunenko/Continuous)        |
-| **OTU File** *gg97*           | [mapping-baby-age.txt]( ../datasets/yatsunenko/mapping-baby-age.txt)          |
-| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/yatsunenko/refseq/otutable.txt)        |
-| **OTU File** *RefSeq*         | [gg/otutable.txt]( ../datasets/yatsunenko/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/yatsunenko/gg/taxatable.txt)|
+| **Sample Type**               | human stool                                         |
+| **Data Type**                 | Continuous                                           |
+| **Group Variables **          | AGE                                           |
+| **Subset Details**            | Individuals are aged 3 or younger and are all living in the US                                  |
+| **Notes**                     |                                          |
+| **Mapping File**              | [mapping-baby-age.txt]( ../datasets/yatsunenko/mapping-baby-age.txt)        |
+| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/yatsunenko/gg/otutable.txt)          |
+| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/yatsunenko/gg/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/yatsunenko/refseq/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/yatsunenko/refseq/taxatable.txt)|

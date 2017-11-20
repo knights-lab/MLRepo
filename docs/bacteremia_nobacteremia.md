@@ -1,18 +1,18 @@
 ### bacteremia vs no bacteremia
 # [Montassier 2016]( ../docs/bacteremia.html )
-### Treatment: bact, NObact
+### Patients prior to chemotherapy who did or did not develop bacteremia
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                |                                                 |
+| **Topic Area**                | Bacteremia                                                |
 | **Number of samples**         | 28                                         |
-| **Sample Type**               | Patients prior to chemotherapy who did or did not develop bacteremia                                         |
-| **Data Type**                 | Bacteremia                                           |
-| **Group Variables **          |                                            |
-| **Subset Details**            | human stool                                  |
+| **Sample Type**               | human stool                                         |
+| **Data Type**                 | Categorical                                           |
+| **Group Variables **          | Treatment: bact, NObact                                           |
+| **Subset Details**            |                                   |
 | **Notes**                     |                                          |
-| **Mapping File**              | [Categorical]( ../datasets/bacteremia/Categorical)        |
-| **OTU File** *gg97*           | [mapping.txt]( ../datasets/bacteremia/mapping.txt)          |
-| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/bacteremia/refseq/otutable.txt)        |
-| **OTU File** *RefSeq*         | [gg/otutable.txt]( ../datasets/bacteremia/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/bacteremia/gg/taxatable.txt)|
+| **Mapping File**              | [mapping.txt]( ../datasets/bacteremia/mapping.txt)        |
+| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/bacteremia/gg/otutable.txt)          |
+| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/bacteremia/gg/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/bacteremia/refseq/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/bacteremia/refseq/taxatable.txt)|

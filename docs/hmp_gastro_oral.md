@@ -1,18 +1,18 @@
 ### gastrointestinal vs oral
 # [HMP 2012]( ../docs/hmp.html )
-### HMPBODYSUPERSITE: Oral, Gastrointestinal_tract, HOST_SUBJECT_ID
+### Gastrointestinal tract and oral cavity of healthy adults
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                |                                                 |
+| **Topic Area**                | Body Habitat                                                |
 | **Number of samples**         | 2070                                         |
-| **Sample Type**               | Gastrointestinal tract and oral cavity of healthy adults                                         |
-| **Data Type**                 | Body Habitat                                           |
-| **Group Variables **          |                                            |
-| **Subset Details**            | human stool, oral                                  |
-| **Notes**                     | Multiple samples provided per body site per individual, control for HOST_SUBJECT_ID                                         |
-| **Mapping File**              | [Categorical]( ../datasets/hmp/Categorical)        |
-| **OTU File** *gg97*           | [mapping-gastro-oral.txt]( ../datasets/hmp/mapping-gastro-oral.txt)          |
-| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/hmp/refseq/otutable.txt)        |
-| **OTU File** *RefSeq*         | [gg/otutable.txt.zip]( ../datasets/hmp/gg/otutable.txt.zip)  |
-| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/hmp/gg/taxatable.txt)|
+| **Sample Type**               | human stool, oral                                         |
+| **Data Type**                 | Categorical                                           |
+| **Group Variables **          | HMPBODYSUPERSITE: Oral, Gastrointestinal_tract, HOST_SUBJECT_ID                                           |
+| **Subset Details**            | Multiple samples provided per body site per individual, control for HOST_SUBJECT_ID                                  |
+| **Notes**                     |                                          |
+| **Mapping File**              | [mapping-gastro-oral.txt]( ../datasets/hmp/mapping-gastro-oral.txt)        |
+| **OTU File** *gg97*           | [gg/otutable.txt.zip]( ../datasets/hmp/gg/otutable.txt.zip)          |
+| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/hmp/gg/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/hmp/refseq/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/hmp/refseq/taxatable.txt)|

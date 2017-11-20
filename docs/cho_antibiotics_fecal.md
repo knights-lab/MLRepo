@@ -1,18 +1,18 @@
 ### Chlortetracycline vs Control vs Penicillin vs Vancomycin vs VancomycinPenicillin, fecal
 # [Cho 2012]( ../docs/cho.html )
-### Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin
+### Five groups of mice treated with four different antibiotics or no antibiotics
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Classify samples between antibiotic and control groups for large effect, or between antibiotics for small effect                                                |
+| **Topic Area**                | Antibiotics                                                |
 | **Number of samples**         | 45                                         |
-| **Sample Type**               | Five groups of mice treated with four different antibiotics or no antibiotics                                         |
-| **Data Type**                 | Antibiotics                                           |
-| **Group Variables **          |                                            |
-| **Subset Details**            | mouse pellets                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [Categorical]( ../datasets/cho/Categorical)        |
-| **OTU File** *gg97*           | [mapping-fecal.txt]( ../datasets/cho/mapping-fecal.txt)          |
-| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/cho/refseq/otutable.txt)        |
-| **OTU File** *RefSeq*         | [gg/otutable.txt]( ../datasets/cho/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/cho/gg/taxatable.txt)|
+| **Sample Type**               | mouse pellets                                         |
+| **Data Type**                 | Categorical                                           |
+| **Group Variables **          | Abx: Control, Penicillin, Chlortetracycline, Vancomycin, VancomycinPenicillin                                           |
+| **Subset Details**            |                                   |
+| **Notes**                     | Classify samples between antibiotic and control groups for large effect, or between antibiotics for small effect                                         |
+| **Mapping File**              | [mapping-fecal.txt]( ../datasets/cho/mapping-fecal.txt)        |
+| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/cho/gg/otutable.txt)          |
+| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/cho/gg/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/cho/refseq/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/cho/refseq/taxatable.txt)|
