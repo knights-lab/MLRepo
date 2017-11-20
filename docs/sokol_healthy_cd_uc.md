@@ -1,18 +1,18 @@
+### healthy vs CD vs UC, stool
 # [Morgan 2012]( ../docs/sokol.html )
-## healthy vs CD vs UC, stool
-
-### Healthy, Crohn's Disease, or Ulcerative Colitis patients
+### ULCERATIVE_COLIT_OR_CROHNS_DIS: Ulcerative Colitis, Crohn's disease, Healthy
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | IBD                                                |
+| **Topic Area**                |                                                 |
 | **Number of samples**         | 128                                         |
-| **Sample Type**               | human stool                                         |
-| **Data Type**                 | Categorical                                           |
-| **Subset Details**            |                                   |
+| **Sample Type**               | Healthy, Crohn's Disease, or Ulcerative Colitis patients                                         |
+| **Data Type**                 | IBD                                           |
+| **Group Variables **          |                                            |
+| **Subset Details**            | human stool                                  |
 | **Notes**                     |                                          |
-| **Mapping File**              | [mapping]( ../datasets/sokol/mapping.txt)        |
-| **OTU File** *gg97*           | [OTU_gg]( ../datasets/sokol/gg/otutable.txt)          |
-| **Taxa File** *gg97*          | [taxa_gg]( ../datasets/sokol/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [OTU_refseq]( ../datasets/sokol/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [taxa_refseq]( ../datasets/sokol/refseq/taxatable.txt)|
+| **Mapping File**              | [Categorical]( ../datasets/sokol/Categorical)        |
+| **OTU File** *gg97*           | [mapping.txt]( ../datasets/sokol/mapping.txt)          |
+| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/sokol/refseq/otutable.txt)        |
+| **OTU File** *RefSeq*         | [gg/otutable.txt]( ../datasets/sokol/gg/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/sokol/gg/taxatable.txt)|

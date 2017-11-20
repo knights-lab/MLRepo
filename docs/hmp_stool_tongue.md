@@ -1,18 +1,18 @@
+### stool vs tongue
 # [HMP 2012]( ../docs/hmp.html )
-## stool vs tongue
-
-### Stool and tongue of healthy adults
+### HMPBODYSUBSITE: Stool, Tongue_dorsum; HOST_SUBJECT_ID
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Body Habitat                                                |
+| **Topic Area**                |                                                 |
 | **Number of samples**         | 404                                         |
-| **Sample Type**               | human stool, oral                                         |
-| **Data Type**                 | Categorical                                           |
-| **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [mapping]( ../datasets/hmp/mapping-stool-tongue-paired.txt)        |
-| **OTU File** *gg97*           | [OTU_gg]( ../datasets/hmp/gg/otutable.txt.zip)          |
-| **Taxa File** *gg97*          | [taxa_gg]( ../datasets/hmp/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [OTU_refseq]( ../datasets/hmp/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [taxa_refseq]( ../datasets/hmp/refseq/taxatable.txt)|
+| **Sample Type**               | Stool and tongue of healthy adults                                         |
+| **Data Type**                 | Body Habitat                                           |
+| **Group Variables **          |                                            |
+| **Subset Details**            | human stool, oral                                  |
+| **Notes**                     | Samples collected from paired locations by HOST_SUBJECT_ID                                         |
+| **Mapping File**              | [Categorical]( ../datasets/hmp/Categorical)        |
+| **OTU File** *gg97*           | [mapping-stool-tongue-paired.txt]( ../datasets/hmp/mapping-stool-tongue-paired.txt)          |
+| **Taxa File** *gg97*          | [refseq/otutable.txt]( ../datasets/hmp/refseq/otutable.txt)        |
+| **OTU File** *RefSeq*         | [gg/otutable.txt.zip]( ../datasets/hmp/gg/otutable.txt.zip)  |
+| **Taxa File** *RefSeq*        | [gg/taxatable.txt]( ../datasets/hmp/gg/taxatable.txt)|
