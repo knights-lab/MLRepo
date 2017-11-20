@@ -7,7 +7,7 @@
 | -------------: |-------------|
 | Number of samples | 91
 | Field | 
-| Notes | Age > 3
+| Notes | 
 | | [Mapping file]()
 | | [OTU file (greengenes)]()
 | | [Taxa file (greengenes)]()

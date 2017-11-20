@@ -6,10 +6,10 @@
 | Details        |             |
 | -------------: |-------------|
 | Number of samples | 180
-| Field | Gender
-| Notes | COLLECTDAY=="0", only 1 sample per person was included here (note that some people had multiple stool samples submitted for the same day)
-| | [Mapping file](https://www.dropbox.com/s/8i00dlal7678r6d/mapping-cecal.txt?dl=0)
-| | [OTU file (greengenes)](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
-| | [Taxa file (greengenes)](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
-| | [OTU file (refseq)](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
-| | [Taxa file (refseq)](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
+| Field | https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0
+| Notes | Categorical
+| | [Mapping file](https://www.dropbox.com/s/p9h4wcys5m3ldju/otutable.txt?dl=0)
+| | [OTU file (greengenes)]()
+| | [Taxa file (greengenes)]()
+| | [OTU file (refseq)]()
+| | [Taxa file (refseq)]()
