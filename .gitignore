@@ -1,7 +1,6 @@
 /web
-readme - local.txt
+localreadme.txt
 *.Rapp.history
 datasets/hmp/gg/otutable.txt
-Amazon S3 credentials.csv
 
 *.pbs
