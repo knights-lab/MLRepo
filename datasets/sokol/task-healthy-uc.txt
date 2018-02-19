@@ -1,0 +1,67 @@
+#SampleID	Var
+100109.518535	Ulcerative Colitis
+7908.518449	Healthy
+100143.518580	Ulcerative Colitis
+100169.518565	Ulcerative Colitis
+100219.518561	Ulcerative Colitis
+7844.518483	Healthy
+7848.518594	Healthy
+100106.518634	Ulcerative Colitis
+7911.518610	Healthy
+100181.518440	Ulcerative Colitis
+100216.518525	Ulcerative Colitis
+7862.518458	Healthy
+100229.518461	Ulcerative Colitis
+100220.518611	Ulcerative Colitis
+7861.518583	Healthy
+100166.518474	Ulcerative Colitis
+100224.518460	Ulcerative Colitis
+100096.518617	Ulcerative Colitis
+7906.518589	Healthy
+7910.518536	Healthy
+100049.518571	Ulcerative Colitis
+7909.518566	Healthy
+7912.518472	Healthy
+100221.518509	Ulcerative Colitis
+100172.518574	Ulcerative Colitis
+100214.518546	Ulcerative Colitis
+100170.518505	Ulcerative Colitis
+100233.518613	Ulcerative Colitis
+100183.518534	Ulcerative Colitis
+100228.518607	Ulcerative Colitis
+100104.518418	Ulcerative Colitis
+100162.518486	Ulcerative Colitis
+100048.518556	Ulcerative Colitis
+100227.518592	Ulcerative Colitis
+7904.518600	Healthy
+7879.518469	Healthy
+7847.518410	Healthy
+100095.518439	Ulcerative Colitis
+100051.518513	Ulcerative Colitis
+100202.518422	Ulcerative Colitis
+7860.518628	Healthy
+7899.518560	Healthy
+7855.518447	Healthy
+100177.518639	Ulcerative Colitis
+100080.518564	Ulcerative Colitis
+7662.518467	Healthy
+100204.518576	Ulcerative Colitis
+100210.518471	Ulcerative Colitis
+100180.518633	Ulcerative Colitis
+100086.518445	Ulcerative Colitis
+100047.518573	Ulcerative Colitis
+100206.518507	Ulcerative Colitis
+7858.518581	Healthy
+100099.518597	Ulcerative Colitis
+100071.518514	Ulcerative Colitis
+100155.518528	Ulcerative Colitis
+100089.518493	Ulcerative Colitis
+100188.518595	Ulcerative Colitis
+100167.518552	Ulcerative Colitis
+100211.518437	Ulcerative Colitis
+7870.518457	Healthy
+100182.518578	Ulcerative Colitis
+100117.518496	Ulcerative Colitis
+100009.518585	Ulcerative Colitis
+100175.518515	Ulcerative Colitis
+100070.518622	Ulcerative Colitis

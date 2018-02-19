@@ -1,15 +1,20 @@
 setwd("/Users/pvangay/Dropbox/UMN/KnightsLab/MLRepo/datasets")
 
+# overwrite the colnames
 write.mapping <- function(filename, map)
 {
-    cat("#SampleID\t", file=filename)
-    write.table(map, file=filename, sep="\t", quote=F, append=T)
+    if(ncol(map)==1)  header <- "#SampleID\tVar\n"
+    else if(ncol(map)==2)  header <- "#SampleID\tVar\tControlVar\n"
+    else stop("Number of mapping file columns not supported")
+    
+    cat(header, file=filename)
+    write.table(map, file=filename, sep="\t", quote=F, col.names=F, append=T)
 }
 
 load.data <- function(mapfile, otufile)
 {
     m <- read.table(mapfile, sep="\t", comment="", head=T, row=1, quote="", as.is=T)
-    o <- read.table(otufile, sep="\t", comment="", head=T, row=1, check.names=F)    
+    o <- read.table(otufile, sep="\t", comment="", head=T, row=1, quote="", check.names=F)    
     return(list(m=m, o=o))
 }
 
@@ -38,8 +43,13 @@ filter.data <- function(m, o, min.depth=1000)
     table(m[,c("BODY_SITE","ULCERATIVE_COLIT_OR_CROHNS_DIS")])
     
     out <- m[m$BODY_SITE == "UBERON:feces" & m$ULCERATIVE_COLIT_OR_CROHNS_DIS %in% c("Crohn's disease", "Healthy", "Ulcerative Colitis"), "ULCERATIVE_COLIT_OR_CROHNS_DIS", drop=F]
-    
-    write.mapping("sokol/mapping.txt", out)
+    write.mapping("sokol/task-uc-cd-healthy.txt", out)
+
+    out <- m[m$BODY_SITE == "UBERON:feces" & m$ULCERATIVE_COLIT_OR_CROHNS_DIS %in% c("Healthy", "Ulcerative Colitis"), "ULCERATIVE_COLIT_OR_CROHNS_DIS", drop=F]
+    write.mapping("sokol/task-healthy-uc.txt", out)
+
+    out <- m[m$BODY_SITE == "UBERON:feces" & m$ULCERATIVE_COLIT_OR_CROHNS_DIS %in% c("Healthy", "Crohn's disease"), "ULCERATIVE_COLIT_OR_CROHNS_DIS", drop=F]
+    write.mapping("sokol/task-healthy-cd.txt", out)
     
 
 # cho
@@ -50,10 +60,13 @@ filter.data <- function(m, o, min.depth=1000)
     o <- ret2$o
     
     dim(m[m$Source=="cecal",])
-    write.mapping("cho/mapping-cecal.txt", m[m$Source=="cecal","Abx", drop=F])
+    write.mapping("cho/task-control-ct-cecal.txt", m[m$Source=="cecal" & m$Abx %in% c("Control", "Chlortetracycline"),"Abx", drop=F])
 
-    dim(m[m$Source=="fecal",])
-    write.mapping("cho/mapping-fecal.txt", m[m$Source=="fecal","Abx", drop=F])
+    write.mapping("cho/task-control-ct-fecal.txt", m[m$Source=="fecal" & m$Abx %in% c("Control", "Chlortetracycline"),"Abx", drop=F])
+
+    write.mapping("cho/task-penicillin-vancomycin-cecal.txt", m[m$Source=="cecal" & m$Abx %in% c("Vancomycin", "Penicillin"),"Abx", drop=F])
+
+    write.mapping("cho/task-penicillin-vancomycin-fecal.txt", m[m$Source=="fecal" & m$Abx %in% c("Vancomycin", "Penicillin"),"Abx", drop=F])
 
 # claesson
     # this dataset has residence location in a suppl table - but unfortunately, most host IDs don't match with mapping 
@@ -78,8 +91,9 @@ filter.data <- function(m, o, min.depth=1000)
     # recode ages as Young and Elderly
     m[m$AGE!="None","AGE"] <- "Elderly"
     m[m$AGE=="None","AGE"] <- "Young"
-
-    write.mapping("claesson/mapping.txt", m[,"AGE", drop=F])
+    colnames(m) <- "Var"
+    
+    write.mapping("claesson/task.txt", m[,"AGE", drop=F])
 
 # gevers 
     # CD versus no CD
@@ -105,8 +119,8 @@ filter.data <- function(m, o, min.depth=1000)
     m_pcdai <- merge(m_ilrec, sup[,c("subject","PCDAI")], by.x="SUBJECT_ID", by.y="subject", all.x=T)
     rownames(m_pcdai) <- rownames(m_ilrec)
 
-    write.mapping("gevers/mapping-pcdai-ileum.txt", m_pcdai[m_pcdai$BODY_SITE=="UBERON:ileum", "PCDAI", drop=F])
-    write.mapping("gevers/mapping-pcdai-rectum.txt", m_pcdai[m_pcdai$BODY_SITE=="UBERON:rectum", "PCDAI", drop=F])
+    write.mapping("gevers/task-pcdai-ileum.txt", m_pcdai[m_pcdai$BODY_SITE=="UBERON:ileum", "PCDAI", drop=F])
+    write.mapping("gevers/task-pcdai-rectum.txt", m_pcdai[m_pcdai$BODY_SITE=="UBERON:rectum", "PCDAI", drop=F])
     
     rectum <- m[m$BODY_SITE=="UBERON:rectum",]
     sum(rectum$DIAGNOSIS == "CD" & !duplicated(rectum$HOST_SUBJECT_ID))
@@ -116,8 +130,8 @@ filter.data <- function(m, o, min.depth=1000)
     sum(ileum$DIAGNOSIS == "no" & !duplicated(ileum$HOST_SUBJECT_ID))
     sum(ileum$DIAGNOSIS == "CD" & !duplicated(ileum$HOST_SUBJECT_ID))
     
-    write.mapping("gevers/mapping-ileum.txt", ileum[ileum$DIAGNOSIS %in% c("CD", "no"),"DIAGNOSIS", drop=F])
-    write.mapping("gevers/mapping-rectum.txt", rectum[rectum$DIAGNOSIS %in% c("CD", "no"),"DIAGNOSIS", drop=F])
+    write.mapping("gevers/task-ileum.txt", ileum[ileum$DIAGNOSIS %in% c("CD", "no"),"DIAGNOSIS", drop=F])
+    write.mapping("gevers/task-rectum.txt", rectum[rectum$DIAGNOSIS %in% c("CD", "no"),"DIAGNOSIS", drop=F])
     
 # hmp
     # some people have multiple samples from the same sites on the same day. mitigate this by using COLLECTDAY==0, and picking the first sample (e.g. if 2 fecal samples on day 0)
@@ -132,22 +146,22 @@ filter.data <- function(m, o, min.depth=1000)
     feces <- m[m$SPECIFIC_BODY_SITE=="UBERON:feces", ]
     feces <- feces[!duplicated(feces$HOST_SUBJECT_ID),]
     
-    write.mapping("hmp/mapping-sex.txt", feces[,"SEX", drop=F])
+    write.mapping("hmp/task-sex.txt", feces[,"SEX", drop=F])
     # this needs to be controlled for host id
-    write.mapping("hmp/mapping-gastro-oral.txt", m[m$HMPBODYSUPERSITE %in% c("Gastrointestinal_tract", "Oral"),c("HMPBODYSUPERSITE","HOST_SUBJECT_ID")])
+    write.mapping("hmp/task-gastro-oral.txt", m[m$HMPBODYSUPERSITE %in% c("Gastrointestinal_tract", "Oral"),c("HMPBODYSUPERSITE","HOST_SUBJECT_ID")])
 
     # this has been filtered to more specific gastro/oral sites, with only 1 sample per person
     m_s <- m[m$HMPBODYSUBSITE =="Stool",c("HMPBODYSUBSITE", "HOST_SUBJECT_ID")]    
     m_t <- m[m$HMPBODYSUBSITE =="Tongue_dorsum", c("HMPBODYSUBSITE", "HOST_SUBJECT_ID")]
     m_st_subjects <- intersect(m_s$HOST_SUBJECT_ID, m_t$HOST_SUBJECT_ID)
     m_st <- rbind(m_s[m_s$HOST_SUBJECT_ID %in% m_st_subjects,], m_t[m_t$HOST_SUBJECT_ID %in% m_st_subjects,])
-    write.mapping("hmp/mapping-stool-tongue-paired.txt", m_st)    
+    write.mapping("hmp/task-stool-tongue-paired.txt", m_st)    
     
     m_s <- m[m$HMPBODYSUBSITE =="Subgingival_plaque",c("HMPBODYSUBSITE", "HOST_SUBJECT_ID")]    
     m_t <- m[m$HMPBODYSUBSITE =="Supragingival_plaque", c("HMPBODYSUBSITE", "HOST_SUBJECT_ID")]
     m_st_subjects <- intersect(m_s$HOST_SUBJECT_ID, m_t$HOST_SUBJECT_ID)
     m_st <- rbind(m_s[m_s$HOST_SUBJECT_ID %in% m_st_subjects,], m_t[m_t$HOST_SUBJECT_ID %in% m_st_subjects,])
-    write.mapping("hmp/mapping-sub-supragingivalplaque-paired.txt", m_st)    
+    write.mapping("hmp/task-sub-supragingivalplaque-paired.txt", m_st)    
 
 # kostic
     ret <- load.data("kostic/mapping-orig.txt", "kostic/gg/otutable.txt")
@@ -160,7 +174,7 @@ filter.data <- function(m, o, min.depth=1000)
     x <- reshape(data.frame(m[,c("HOST_SUBJECT_ID", "DIAGNOSIS")], value=1), direction="wide", idvar="HOST_SUBJECT_ID", timevar="DIAGNOSIS")
     rownames(x) <- x$HOST_SUBJECT_ID
     ids <- rownames(x[!is.na(x$value.Healthy) & !is.na(x$value.Tumor),])
-    write.mapping("kostic/mapping.txt", m[m$HOST_SUBJECT_ID %in% ids, c("HOST_SUBJECT_ID", "DIAGNOSIS")])
+    write.mapping("kostic/task.txt", m[m$HOST_SUBJECT_ID %in% ids, c("DIAGNOSIS", "HOST_SUBJECT_ID")])
     
 # david
     # cross over study design
@@ -171,8 +185,21 @@ filter.data <- function(m, o, min.depth=1000)
     m <- ret2$m
     o <- ret2$o
 
-    # animal vs plant on Day 5 (first washout day, immediately after animal or plant diet intervention)
-    write.mapping("david/mapping.txt", m[!is.na(m$Day) & m$Day=="5", "Diet", drop=F])
+    m <- m[!is.na(m$Day),] # remove food 
+    m <- m[m$SubjectFood!="11",] # remove subject 11 because they appeared to dropped out
+    
+#     baseline <- m[m$Day < 0, ]
+#     baseline.day <- aggregate(baseline$Day, by=list(baseline$SubjectFood, baseline$Diet), FUN=max)
+#     colnames(baseline.day) <- c("Subject", "Diet", "Day")
+   
+    diet <- m[m$Day %in% 1:4,] 
+    last.diet.day <- aggregate(diet$Day, by=list(diet$SubjectFood, diet$Diet), FUN=max)
+    colnames(last.diet.day) <- c("SubjectFood", "Diet", "Day")
+    
+    m.last.diet <- merge(cbind(m,sample.id=rownames(m)), last.diet.day, by=colnames(last.diet.day))
+    
+    # just compare animal vs plant on Days 3 or 4 (whichever is the last day of the diet intervention)
+    write.mapping("david/task.txt", m[m.last.diet$sample.id, "Diet", drop=F])
     
 # turnbaugh
     ret <- load.data("turnbaugh/mapping-orig.txt", "turnbaugh/gg/otutable.txt")
@@ -180,13 +207,15 @@ filter.data <- function(m, o, min.depth=1000)
     ret2 <- filter.data(ret$m, ret$o, 100) 
     m <- ret2$m
     o <- ret2$o
-    m <- m[!duplicated(m$HOST_SUBJECT_ID),] # some subjects have multiple timepoints, so let's just get rid of them
     
-    m_ol <- m[m$OBESITYCAT %in% c("Obese","Lean"), c("OBESITYCAT", "ZYGOSITY")]
-    m_ol$ZYGOSITY[is.na(m_ol$ZYGOSITY)] <- "Mom"
-    write.mapping("turnbaugh/mapping-obese-lean-all.txt", m_ol)
+    m_ol <- m[m$OBESITYCAT %in% c("Obese","Lean"), ]
+    m_ol <- m_ol[!duplicated(m_ol$HOST_SUBJECT_ID),] # some subjects have multiple timepoints, so let's just get rid of them
+    m_ol <- m_ol[, c("OBESITYCAT", "FAMILY", "ZYGOSITY")]
     
-    write.mapping("turnbaugh/mapping-obese-lean-MZ.txt", m_ol[m_ol$ZYGOSITY=="MZ", "ZYGOSITY", drop=F])
+    m_ol[, "ControlVar"] <- m_ol[, "FAMILY"]
+    
+    write.mapping("turnbaugh/task-obese-lean-all.txt", m_ol[, c("OBESITYCAT", "ControlVar")])
+
     
 # bushman 
     # n=10 individuals, controlled feeding on high fat or low fat diets for 10 days. See pronounced
@@ -223,10 +252,65 @@ filter.data <- function(m, o, min.depth=1000)
     m <- m[m$AGE!="None",]
     m$AGE <- as.numeric(m$AGE)
     
-    write.mapping("yatsunenko/mapping-baby-age.txt", m[m$COUNTRY=="GAZ:United States of America" & m$AGE < 3, "AGE", drop=F])
+    write.mapping("yatsunenko/task-baby-age.txt", m[m$COUNTRY=="GAZ:United States of America" & m$AGE < 3, "AGE", drop=F])
 
-    write.mapping("yatsunenko/mapping-usa-malawi.txt", m[m$COUNTRY %in% c("GAZ:United States of America", "GAZ:Malawi") & m$AGE > 3, "COUNTRY", drop=F])
-
-    write.mapping("yatsunenko/mapping-malawi-venezuela.txt", m[m$COUNTRY %in% c("GAZ:Malawi", "GAZ:Venezuela") & m$AGE > 3, "COUNTRY", drop=F])
+    write.mapping("yatsunenko/task-usa-malawi.txt", m[m$COUNTRY %in% c("GAZ:United States of America", "GAZ:Malawi") & m$AGE > 18, "COUNTRY", drop=F])
     
-    write.mapping("yatsunenko/mapping-sex.txt", m[m$SEX != "unknown" & m$COUNTRY=="GAZ:United States of America" & m$AGE > 3, "SEX", drop=F])
+    write.mapping("yatsunenko/task-malawi-venezuela.txt", m[m$COUNTRY %in% c("GAZ:Malawi", "GAZ:Venezuela") & m$AGE > 18, "COUNTRY", drop=F])
+    
+    write.mapping("yatsunenko/task-sex.txt", m[m$SEX != "unknown" & m$COUNTRY=="GAZ:United States of America" & m$AGE > 18, "SEX", drop=F])
+    
+    
+# ravel (BV)
+    # combine both mapping files and write it out as mapping-orig first
+    #     m1 <- read.table("ravel/mapping-orig1.txt", sep="\t", comment="", head=T, row=1, quote="", as.is=T)
+    #     m2 <- read.table("ravel/mapping-orig2.txt", sep="\t", comment="", head=T, row=1, quote="", as.is=T)
+    #     m <- merge(m1[,c("Run_s", "Sample_Name_s")], m2[,1:6], by.x="Sample_Name_s", by.y=0)
+    #     colnames(m) <- c("Subject.ID", "Sample.ID", "Ethnic_Group", "pH", "Nugent_score", "Nugent_score_category", "Community_group", "Total_number_reads")
+    #     m <- m[,c(2, 1, 3:ncol(m))]
+    #     rownames(m) <- m$Sample.ID
+    #     m <- m[,-1]
+    #     write.mapping("ravel/mapping-orig.txt", m)
+
+    # high nugent score means subject is diagnosed with Bacterial Vaginosis
+    ret <- load.data("ravel/mapping-orig.txt", "ravel/gg/otutable.txt")
+    sort(colSums(ret$o), decreasing=T) 
+    ret2 <- filter.data(ret$m, ret$o)
+    m <- ret2$m
+    o <- ret2$o
+    
+    write.mapping("ravel/task-white-black.txt", m[m$Ethnic_Group %in% c("White", "Black"), "Ethnic_Group", drop=F])
+    
+    write.mapping("ravel/task-black-hispanic.txt", m[m$Ethnic_Group %in% c("Black", "Hispanic"), "Ethnic_Group", drop=F])
+    
+    write.mapping("ravel/task-nugent-category.txt", m[m$Nugent_score_category %in% c("low", "high"), "Nugent_score_category", drop=F])
+    
+    write.mapping("ravel/task-nugent-score.txt", m[, "Nugent_score", drop=F])    
+    
+    write.mapping("ravel/task-ph.txt", m[, "pH", drop=F])    
+    
+# karlsson
+    ret <- load.data("karlsson/mapping-orig.txt", "karlsson/otutable.txt")
+    sort(colSums(ret$o), decreasing=T) 
+    ret2 <- filter.data(ret$m, ret$o)
+    m <- ret2$m
+    o <- ret2$o
+    
+    write.mapping("karlsson/task-normal-diabetes.txt", m[m$Classification %in% c("NGT", "T2D"), "Classification", drop=F])
+    write.mapping("karlsson/task-impaired-diabetes.txt", m[m$Classification %in% c("IGT", "T2D"), "Classification", drop=F])
+
+# qin 2012 (diabetes)
+    ret <- load.data("qin2012/mapping-orig.txt", "qin2012/otutable.txt")
+    sort(colSums(ret$o), decreasing=T) 
+    ret2 <- filter.data(ret$m, ret$o)
+    m <- ret2$m
+    o <- ret2$o
+    write.mapping("qin2012/task-healthy-diabetes.txt", m[m$Diabetic %in% c("Y", "N"), "Diabetic", drop=F])
+
+# qin 2014 (cirrhosis)
+    ret <- load.data("qin2014/mapping-orig.txt.txt", "qin2014/otutable.txt")
+    sort(colSums(ret$o), decreasing=T) 
+    ret2 <- filter.data(ret$m, ret$o)
+    m <- ret2$m
+    o <- ret2$o
+    write.mapping("qin2014/task-healthy-cirrhosis.txt", m[m$Cirrhotic %in% c("Cirrhosis", "Healthy"), "Cirrhotic", drop=F])

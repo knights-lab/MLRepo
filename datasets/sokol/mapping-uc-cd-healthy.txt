@@ -1,0 +1,129 @@
+#SampleID	Var
+100015.518484	Crohn's disease
+100222.518527	Crohn's disease
+7908.518449	Healthy
+100143.518580	Ulcerative Colitis
+100169.518565	Ulcerative Colitis
+100226.518568	Crohn's disease
+100109.518535	Ulcerative Colitis
+7844.518483	Healthy
+100217.518532	Crohn's disease
+100150.518562	Crohn's disease
+7860.518628	Healthy
+7911.518610	Healthy
+100164.518477	Crohn's disease
+100088.518508	Crohn's disease
+100219.518561	Ulcerative Colitis
+100216.518525	Ulcerative Colitis
+100144.518438	Crohn's disease
+100229.518461	Ulcerative Colitis
+100074.518549	Crohn's disease
+100092.518547	Crohn's disease
+7848.518594	Healthy
+100106.518634	Ulcerative Colitis
+100102.518495	Crohn's disease
+100187.518520	Crohn's disease
+7862.518458	Healthy
+100177.518639	Ulcerative Colitis
+100198.518598	Crohn's disease
+100190.518464	Crohn's disease
+100181.518440	Ulcerative Colitis
+100191.518602	Crohn's disease
+100184.518455	Crohn's disease
+100166.518474	Ulcerative Colitis
+100206.518507	Ulcerative Colitis
+100163.518435	Crohn's disease
+100224.518460	Ulcerative Colitis
+100155.518528	Ulcerative Colitis
+100060.518463	Crohn's disease
+100075.518638	Crohn's disease
+100091.518616	Crohn's disease
+7912.518472	Healthy
+100105.518417	Crohn's disease
+100203.518476	Crohn's disease
+100234.518587	Crohn's disease
+100087.518466	Crohn's disease
+100158.518625	Crohn's disease
+100195.518533	Crohn's disease
+7910.518536	Healthy
+100058.518558	Crohn's disease
+100171.518431	Crohn's disease
+100072.518459	Crohn's disease
+100220.518611	Ulcerative Colitis
+7906.518589	Healthy
+100096.518617	Ulcerative Colitis
+100225.518544	Crohn's disease
+100165.518637	Crohn's disease
+100233.518613	Ulcerative Colitis
+100183.518534	Ulcerative Colitis
+100173.518499	Crohn's disease
+100104.518418	Ulcerative Colitis
+100101.518475	Crohn's disease
+7909.518566	Healthy
+100200.518491	Crohn's disease
+100170.518505	Ulcerative Colitis
+100214.518546	Ulcerative Colitis
+100212.518635	Crohn's disease
+7861.518583	Healthy
+100003.518448	Crohn's disease
+100162.518486	Ulcerative Colitis
+100204.518576	Ulcerative Colitis
+100228.518607	Ulcerative Colitis
+100180.518633	Ulcerative Colitis
+100209.518521	Crohn's disease
+100176.518428	Crohn's disease
+7662.518467	Healthy
+100115.518501	Crohn's disease
+100168.518433	Crohn's disease
+100047.518573	Ulcerative Colitis
+100210.518471	Ulcerative Colitis
+100086.518445	Ulcerative Colitis
+100080.518564	Ulcerative Colitis
+100048.518556	Ulcerative Colitis
+7899.518560	Healthy
+100151.518550	Crohn's disease
+100161.518473	Crohn's disease
+100172.518574	Ulcerative Colitis
+100083.518623	Crohn's disease
+100178.518498	Crohn's disease
+100049.518571	Ulcerative Colitis
+100160.518588	Crohn's disease
+100084.518559	Crohn's disease
+7879.518469	Healthy
+7904.518600	Healthy
+100051.518513	Ulcerative Colitis
+7847.518410	Healthy
+100188.518595	Ulcerative Colitis
+100107.518577	Crohn's disease
+100071.518514	Ulcerative Colitis
+7870.518457	Healthy
+100207.518411	Crohn's disease
+100221.518509	Ulcerative Colitis
+100154.518504	Crohn's disease
+7858.518581	Healthy
+100052.518548	Crohn's disease
+7855.518447	Healthy
+100182.518578	Ulcerative Colitis
+100099.518597	Ulcerative Colitis
+100227.518592	Ulcerative Colitis
+100156.518612	Crohn's disease
+100089.518493	Ulcerative Colitis
+100095.518439	Ulcerative Colitis
+100197.518442	Crohn's disease
+100205.518470	Crohn's disease
+100174.518479	Crohn's disease
+100192.518621	Crohn's disease
+100077.518436	Crohn's disease
+100100.518579	Crohn's disease
+100202.518422	Ulcerative Colitis
+100065.518569	Crohn's disease
+100079.518554	Crohn's disease
+100167.518552	Ulcerative Colitis
+100085.518596	Crohn's disease
+100001.518462	Crohn's disease
+100211.518437	Ulcerative Colitis
+100009.518585	Ulcerative Colitis
+100117.518496	Ulcerative Colitis
+100046.518563	Crohn's disease
+100070.518622	Ulcerative Colitis
+100175.518515	Ulcerative Colitis

@@ -1,4 +1,4 @@
-#SampleID	Abx
+#SampleID	Var
 SRR521177	Penicillin
 SRR521196	Penicillin
 SRR521173	Control

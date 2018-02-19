@@ -1,0 +1,82 @@
+#SampleID	Var
+100222.518527	Crohn's disease
+100015.518484	Crohn's disease
+7908.518449	Healthy
+100187.518520	Crohn's disease
+100226.518568	Crohn's disease
+100190.518464	Crohn's disease
+100217.518532	Crohn's disease
+100164.518477	Crohn's disease
+100075.518638	Crohn's disease
+7844.518483	Healthy
+7848.518594	Healthy
+100088.518508	Crohn's disease
+7911.518610	Healthy
+100150.518562	Crohn's disease
+100092.518547	Crohn's disease
+100060.518463	Crohn's disease
+100198.518598	Crohn's disease
+7862.518458	Healthy
+100191.518602	Crohn's disease
+100102.518495	Crohn's disease
+100091.518616	Crohn's disease
+7861.518583	Healthy
+100144.518438	Crohn's disease
+100074.518549	Crohn's disease
+100171.518431	Crohn's disease
+100077.518436	Crohn's disease
+7906.518589	Healthy
+100105.518417	Crohn's disease
+7910.518536	Healthy
+100158.518625	Crohn's disease
+7909.518566	Healthy
+100003.518448	Crohn's disease
+7912.518472	Healthy
+100101.518475	Crohn's disease
+100225.518544	Crohn's disease
+100165.518637	Crohn's disease
+100200.518491	Crohn's disease
+100083.518623	Crohn's disease
+100178.518498	Crohn's disease
+100151.518550	Crohn's disease
+7904.518600	Healthy
+7879.518469	Healthy
+7847.518410	Healthy
+100058.518558	Crohn's disease
+100160.518588	Crohn's disease
+100161.518473	Crohn's disease
+7860.518628	Healthy
+7899.518560	Healthy
+100107.518577	Crohn's disease
+100203.518476	Crohn's disease
+100174.518479	Crohn's disease
+7855.518447	Healthy
+100184.518455	Crohn's disease
+100115.518501	Crohn's disease
+7662.518467	Healthy
+100209.518521	Crohn's disease
+100176.518428	Crohn's disease
+100168.518433	Crohn's disease
+100163.518435	Crohn's disease
+100173.518499	Crohn's disease
+100084.518559	Crohn's disease
+7858.518581	Healthy
+100212.518635	Crohn's disease
+100052.518548	Crohn's disease
+100154.518504	Crohn's disease
+100156.518612	Crohn's disease
+100100.518579	Crohn's disease
+100195.518533	Crohn's disease
+100207.518411	Crohn's disease
+100001.518462	Crohn's disease
+100065.518569	Crohn's disease
+100192.518621	Crohn's disease
+100079.518554	Crohn's disease
+7870.518457	Healthy
+100234.518587	Crohn's disease
+100072.518459	Crohn's disease
+100087.518466	Crohn's disease
+100205.518470	Crohn's disease
+100085.518596	Crohn's disease
+100197.518442	Crohn's disease
+100046.518563	Crohn's disease

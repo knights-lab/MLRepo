@@ -1,0 +1,131 @@
+#SampleID	Country	Sex	Age	BMI	Cirrhotic	HBV_related	Alcohol_related	Other_causes_related	INR	Serum_creatine	Serum_albumin	Total_bilirubin	prothrombin_time	Ascites	HE	CTP	MELD	Antivirus	beta_blocker
+HD.1	China	female	40	20.03	Healthy	N	N	N	-	53	49.4	10	-	-	-	-	-	-	-
+HD.10	China	female	40	20.2	Healthy	N	N	N	-	65	46.1	11	-	-	-	-	-	-	-
+HD.11	China	female	38	19.95	Healthy	N	N	N	-	57	48.7	8	-	-	-	-	-	-	-
+HD.12	China	male	40	22.55	Healthy	N	N	N	-	72	49.1	12	-	-	-	-	-	-	-
+HD.14	China	male	51	22.58	Healthy	N	N	N	-	76	51.9	8	-	-	-	-	-	-	-
+HD.2	China	female	46	20.83	Healthy	N	N	N	-	60	43.9	9	-	-	-	-	-	-	-
+HD.20	China	male	45	22.79	Healthy	N	N	N	-	69	47.2	18	-	-	-	-	-	-	-
+HD.21	China	male	37	22.66	Healthy	N	N	N	-	104	48.5	15	-	-	-	-	-	-	-
+HD.22	China	female	41	24.44	Healthy	N	N	N	-	48	47.3	10	-	-	-	-	-	-	-
+HD.23	China	female	35	19.22	Healthy	N	N	N	-	58	46.1	9	-	-	-	-	-	-	-
+HD.24	China	male	36	20.7	Healthy	N	N	N	-	58	48.2	11	-	-	-	-	-	-	-
+HD.26	China	female	40	20.32	Healthy	N	N	N	-	37	50.3	14	-	-	-	-	-	-	-
+HD.27	China	male	45	19.94	Healthy	N	N	N	-	79	53.4	13	-	-	-	-	-	-	-
+HD.28	China	male	33	21.29	Healthy	N	N	N	-	82	52.3	24	-	-	-	-	-	-	-
+HD.29	China	female	33	20.31	Healthy	N	N	N	-	45	52.1	15	-	-	-	-	-	-	-
+HD.30	China	female	54	23.44	Healthy	N	N	N	-	41	45.6	15	-	-	-	-	-	-	-
+HD.31	China	male	43	22.49	Healthy	N	N	N	-	50	48.9	13	-	-	-	-	-	-	-
+HD.32	China	female	54	22.72	Healthy	N	N	N	-	43	48.2	6	-	-	-	-	-	-	-
+HD.33	China	female	34	20.57	Healthy	N	N	N	-	30	48.3	11	-	-	-	-	-	-	-
+HD.34	China	female	40	18.59	Healthy	N	N	N	-	43	49	16	-	-	-	-	-	-	-
+HD.35	China	male	48	23.89	Healthy	N	N	N	-	64	48.7	16	-	-	-	-	-	-	-
+HD.36	China	female	32	20.32	Healthy	N	N	N	-	32	48.7	14	-	-	-	-	-	-	-
+HD.4	China	male	38	20.05	Healthy	N	N	N	-	53	45.9	15	-	-	-	-	-	-	-
+HD.40	China	male	41	20.57	Healthy	N	N	N	-	63	42.4	12	-	-	-	-	-	-	-
+HD.41	China	male	52	19.92	Healthy	N	N	N	-	70	48.9	11	-	-	-	-	-	-	-
+HD.42	China	male	50	25.91	Healthy	N	N	N	-	71	50.5	17	-	-	-	-	-	-	-
+HD.46	China	male	35	24.06	Healthy	N	N	N	-	73	49.1	22	-	-	-	-	-	-	-
+HD.48	China	male	31	22.76	Healthy	N	N	N	-	66	57.6	22	-	-	-	-	-	-	-
+HD.5	China	female	43	22.38	Healthy	N	N	N	-	45	50.3	13	-	-	-	-	-	-	-
+HD.50	China	female	50	25.2	Healthy	N	N	N	-	47	42.7	8	-	-	-	-	-	-	-
+HD.51	China	male	37	22.86	Healthy	N	N	N	-	49	49.2	19	-	-	-	-	-	-	-
+HD.52	China	female	50	19.53	Healthy	N	N	N	-	55	48.2	9	-	-	-	-	-	-	-
+HD.53	China	female	50	20.55	Healthy	N	N	N	-	48	52.8	9	-	-	-	-	-	-	-
+HD.56	China	male	31	19.03	Healthy	N	N	N	-	87	50.2	11	-	-	-	-	-	-	-
+HD.58	China	male	52	19.03	Healthy	N	N	N	-	81	49.4	10	-	-	-	-	-	-	-
+HD.60	China	male	34	20.52	Healthy	N	N	N	-	75	53.8	16	-	-	-	-	-	-	-
+HD.61	China	male	31	20.18	Healthy	N	N	N	-	88	49.7	30	-	-	-	-	-	-	-
+HD.62	China	male	62	20.58	Healthy	N	N	N	-	63	44.3	15	-	-	-	-	-	-	-
+HD.63	China	female	42	19.92	Healthy	N	N	N	-	46	48.2	24	-	-	-	-	-	-	-
+HD.64	China	female	29	17.85	Healthy	N	N	N	-	44	47.9	13	-	-	-	-	-	-	-
+HD.65	China	female	43	24.98	Healthy	N	N	N	-	41	45.4	10	-	-	-	-	-	-	-
+HD.66	China	male	42	21.75	Healthy	N	N	N	-	79	50.1	12	-	-	-	-	-	-	-
+HD.67	China	male	32	19.24	Healthy	N	N	N	-	68	52	21	-	-	-	-	-	-	-
+HD.68	China	male	33	19.59	Healthy	N	N	N	-	62	54.1	19	-	-	-	-	-	-	-
+HD.69	China	male	26	22.73	Healthy	N	N	N	-	83	47.8	11	-	-	-	-	-	-	-
+HD.7	China	female	37	21.99	Healthy	N	N	N	-	48	46.9	16	-	-	-	-	-	-	-
+HD.70	China	male	52	25.35	Healthy	N	N	N	-	87	45.6	7	-	-	-	-	-	-	-
+HD.71	China	female	36	20.09	Healthy	N	N	N	-	57	49.9	11	-	-	-	-	-	-	-
+HD.72	China	male	47	22.46	Healthy	N	N	N	-	82	48.1	24	-	-	-	-	-	-	-
+HD.73	China	female	45	22.63	Healthy	N	N	N	-	72	44.8	11	-	-	-	-	-	-	-
+HD.74	China	female	40	19.92	Healthy	N	N	N	-	67	51.4	9	-	-	-	-	-	-	-
+HD.75	China	male	35	21.55	Healthy	N	N	N	-	83	50.8	29	-	-	-	-	-	-	-
+HD.76	China	female	54	24.51	Healthy	N	N	N	-	58	50.9	9	-	-	-	-	-	-	-
+HD.77	China	male	35	24.04	Healthy	N	N	N	-	73	53.2	15	-	-	-	-	-	-	-
+HD.78	China	male	32	17.86	Healthy	N	N	N	-	89	51.9	10	-	-	-	-	-	-	-
+HD.79	China	male	25	20.93	Healthy	N	N	N	-	86	49	25	-	-	-	-	-	-	-
+HD.8	China	female	60	26.04	Healthy	N	N	N	-	60	45	8	-	-	-	-	-	-	-
+HD.80	China	male	43	22.95	Healthy	N	N	N	-	89	48.5	22	-	-	-	-	-	-	-
+HD.81	China	male	45	20.05	Healthy	N	N	N	-	73	48.2	17	-	-	-	-	-	-	-
+HD.82	China	male	58	21.97	Healthy	N	N	N	-	80	47	12	-	-	-	-	-	-	-
+HD.83	China	male	42	21.62	Healthy	N	N	N	-	64	51.7	29	-	-	-	-	-	-	-
+HD.9	China	female	39	18.73	Healthy	N	N	N	-	46	46.7	9	-	-	-	-	-	-	-
+LD.1	China	male	44	20.76	Cirrhosis	Y	Y	N	1.09	76	43.7	20	12.6	Absent	None	5	6.5	Lamivudine	None
+LD.11	China	male	51	23.66	Cirrhosis	Y	N	N	1.09	52	40.3	10	12.6	Absent	None	5	0.3	Lamivudine,Adefovir	None
+LD.12	China	male	72	20.93	Cirrhosis	N	Y	schistosoma related	1.31	44	41.5	27	15.4	Sever	None	7	4.5	None	None
+LD.14	China	female	74	19.43	Cirrhosis	N	N	schistosoma_Hepatitis E virus and autoimmune related	1.04	54	37.3	10	12	Mild	None	6	0.1	None	None
+LD.15	China	male	49	24.98	Cirrhosis	Y	N	Hepatitis E virus related	1.15	58	43.2	23	13.3	Absent	None	5	5.1	None	None
+LD.17	China	male	18	17.93	Cirrhosis	Y	N	N	1.46	52	37.5	75	17.3	Absent	None	7	11.1	Lamivudine,Adefovir	None
+LD.19	China	male	44	28.03	Cirrhosis	Y	N	N	1.23	78	31	15	14.7	Sever	None	8	7	None	None
+LD.20	China	male	45	28.65	Cirrhosis	Y	N	N	1.6	84	25.8	96	18.8	Absent	None	10	17.7	Lamivudine,Adefovir	None
+LD.22	China	female	55	22.86	Cirrhosis	Y	N	N	1.3	50	37.3	55	15.2	Absent	None	7	8.3	Lamivudine	None
+LD.23	China	male	36	21.26	Cirrhosis	Y	N	N	1.91	61	39.7	580	22.6	Absent	None	9	23.4	Telbivudine	None
+LD.26	China	male	38	25.88	Cirrhosis	Y	N	Hepatitis E virus related	1.62	62	34.1	347	19	Absent	None	9	19.8	None	None
+LD.29	China	male	44	25.51	Cirrhosis	Y	N	N	1.23	63	43.5	13	14.3	Absent	None	5	4.4	None	None
+LD.3	China	male	43	21.28	Cirrhosis	Y	Y	N	0.99	53	36.2	56	11.4	Mild	None	8	5.9	None	None
+LD.34	China	female	48	26.67	Cirrhosis	N	N	autoimmune related	1.46	70	23.9	23	17	Absent	None	7	9.5	None	None
+LD.35	China	male	60	24.98	Cirrhosis	N	Y	N	1.02	60	43.8	37	11.8	Absent	None	6	-0.6	None	None
+LD.37	China	male	36	24.22	Cirrhosis	Y	N	Hepatitis E virus related	1.14	72	42.2	22	13.2	Absent	None	5	6.9	None	None
+LD.38	China	male	54	25.46	Cirrhosis	N	Y	N	1.32	66	36.7	18	15.3	Mild	None	6	0.5	None	None
+LD.39	China	female	73	21.78	Cirrhosis	Y	N	schistosoma related	1.49	76	31.7	32	17.7	Mild	None	8	11.8	None	None
+LD.4	China	male	41	25.06	Cirrhosis	N	Y	Hepatitis E virus related	1.39	30	38.1	124	16.2	Absent	Grade 1	8	7.2	None	None
+LD.41	China	female	47	24.17	Cirrhosis	Y	N	Hepatitis D virus related	1.4	36	34.6	34	16.3	Absent	None	6	4.2	None	None
+LD.42	China	male	59	22.39	Cirrhosis	Y	Y	N	1.4	68	22.9	33	16.3	Absent	None	7	10.1	None	None
+LD.43	China	female	56	17.58	Cirrhosis	Y	N	N	2.16	57	27.4	131	22.6	Sever	None	13	18.5	Lamivudine,Adefovir	None
+LD.44	China	female	60	19.98	Cirrhosis	Y	N	N	1.22	54	29.7	90	14	Sever	None	10	10.2	Lamivudine,Foscarnet Sodium	None
+LD.46	China	male	70	23.18	Cirrhosis	Y	Y	Hepatitis D virus related	1.25	78	28.6	27	14.3	Absent	None	6	9.4	None	None
+LD.5	China	male	49	21.22	Cirrhosis	Y	N	N	1.35	81	34.1	13	15.7	Sever	None	8	7.9	Lamivudine,Adefovir	Propranolol
+LD.50	China	female	45	19.2	Cirrhosis	Y	N	N	1.39	55	23.4	54	15.9	Mild	None	10	9.9	None	None
+LD.51	China	male	46	25.62	Cirrhosis	Y	Y	N	1.33	43	33.6	59	15.2	Absent	None	8	7.4	Lamivudine,Adefovir	None
+LD.52	China	female	37	19.1	Cirrhosis	Y	N	N	1.14	46	41.6	13	13.1	Absent	None	5	0.6	None	None
+LD.53	China	male	52	24.49	Cirrhosis	Y	N	N	1.75	63	22.3	35	20.1	Sever	None	12	12.1	None	None
+LD.54	China	male	62	25.53	Cirrhosis	Y	N	Hepatitis E virus related	1.56	67	24.3	34	17.8	Mild	None	9	11.3	Adefovir	None
+LD.57	China	male	60	24.22	Cirrhosis	Y	N	N	1.2	129	42.6	30	13.8	Mild	None	6	14.2	Lamivudine	None
+LD.58	China	male	32	25.1	Cirrhosis	Y	Y	N	1.19	62	42.8	22	13.6	Absent	None	5	5.9	Lamivudine,Adefovir	None
+LD.59	China	female	58	19.56	Cirrhosis	N	N	N	1.67	38	36.3	20	19.2	Mild	None	7	4.7	None	None
+LD.60	China	male	32	24.22	Cirrhosis	N	Y	N	1.16	53	33.8	73	13.3	Absent	None	8	2.3	None	None
+LD.61	China	male	49	21.47	Cirrhosis	Y	Y	N	1.47	57	43.6	108	16.8	Mild	None	8	13.5	None	None
+LD.62	China	male	42	25.69	Cirrhosis	Y	Y	N	1.67	47	31.7	96	19	Absent	None	9	12.6	None	None
+LD.63	China	male	43	19.72	Cirrhosis	N	N	Hepatitis C virus related	1.21	59	30.2	71	14	Absent	None	8	10	None	None
+LD.66	China	male	55	22.65	Cirrhosis	Y	Y	N	1.13	71	43.3	176	14.2	Absent	None	7	14.5	None	None
+LD.68	China	female	29	20.31	Cirrhosis	Y	N	N	2.1	40	34.8	50	24.2	Mild	None	10	11.1	Lamivudine,Adefovir	None
+LD.69	China	male	52	29.02	Cirrhosis	Y	N	N	1.11	75	24.1	23	13.6	Mild	None	8	7.1	Lamivudine	None
+LD.7	China	female	35	24.22	Cirrhosis	N	N	N	1.18	44	44.8	16	13.6	Mild	None	6	1.3	None	None
+LD.72	China	male	50	24.39	Cirrhosis	Y	N	N	1.26	55	29.6	27	14.4	Mild	None	7	6.2	None	None
+LD.73	China	male	42	21.72	Cirrhosis	Y	N	N	1.47	62	25	58	16.8	Absent	None	9	11.9	None	None
+LD.74	China	female	43	19.54	Cirrhosis	Y	N	N	1.71	48	29.2	72	19.4	Mild	None	10	12	Lamivudine,Adefovir	None
+LD.75	China	female	44	20.13	Cirrhosis	Y	N	N	1.36	57	30.9	23	15.5	Mild	None	7	6.8	Lamivudine	None
+LD.76	China	male	37	21.97	Cirrhosis	Y	N	N	1.18	50	29.2	28	18.9	Absent	None	7	4.7	None	Propranolol
+LD.77	China	male	42	29.03	Cirrhosis	Y	N	N	1.58	60	28.3	70	18.6	Absent	None	9	13.1	Entecavir	None
+LD.78	China	female	47	19.81	Cirrhosis	Y	N	Hepatitis E virus related	1.07	44	32.5	98	12.4	Mild	None	9	7.1	Lamivudine,Adefovir	None
+LD.79	China	male	46	17.93	Cirrhosis	Y	N	N	1.19	117	40.7	13	13.8	Absent	None	5	10	Lamivudine,Adefovir	None
+LD.8	China	male	47	22.41	Cirrhosis	Y	N	N	1.44	53	36.8	24	17	Absent	None	5	6.9	Lamivudine,Adefovir	Propranolol
+LD.80	China	male	44	21.8	Cirrhosis	N	Y	N	1.8	66	30.4	125	21.3	Absent	None	10	11.3	None	None
+LD.81	China	male	42	19.72	Cirrhosis	Y	Y	N	1.17	88	39.7	5	13.5	Absent	None	5	3.5	Lamivudine,Adefovir	None
+LD.82	China	male	52	20.72	Cirrhosis	Y	N	N	1.14	62	31.3	15	13.2	Absent	None	6	4	Lamivudine	None
+LD.83	China	male	52	23.12	Cirrhosis	Y	Y	N	1.22	58	22	21	14.2	Sever	None	9	5.4	None	None
+LD.84	China	male	69	20.2	Cirrhosis	N	N	N	1.18	114	30.3	13	13.7	Mild	None	7	9.7	None	None
+LD.85	China	male	46	21.48	Cirrhosis	Y	Y	N	1.2	104	40.9	17	13.9	Sever	None	7	10	None	None
+LD.86	China	female	58	20.55	Cirrhosis	N	N	primary biliary cirrhosis and autoimmune related	1.45	55	25.1	118	17	Sever	None	11	13.3	None	None
+LD.88	China	female	28	25.56	Cirrhosis	Y	N	N	1.09	60	18.8	10	12.6	Sever	None	9	1.6	Lamivudine,Adefovir	None
+LD.89	China	male	66	15.94	Cirrhosis	N	Y	N	1.32	106	30.4	33	15.4	Absent	None	6	7.3	None	None
+LD.9	China	male	56	21.45	Cirrhosis	Y	Y	N	1.3	62	35.1	87	15.2	Mild	None	8	12.1	None	Propranolol
+LD.90	China	male	55	21.45	Cirrhosis	Y	Y	N	1.19	78	38.9	36	13.8	Absent	Grade 1	7	10	Entecavir	None
+LD.91	China	female	58	24.24	Cirrhosis	Y	N	N	1.77	69	18.8	107	21.2	Sever	None	13	17.4	Entecavir	None
+LD.92	China	male	39	24.06	Cirrhosis	Y	N	N	1.45	81	28.9	17	17.1	Sever	None	8	9.7	Lamivudine,Adefovir	Propranolol
+LD.93	China	male	57	21.72	Cirrhosis	Y	N	N	1.34	84	35.3	44	11.6	Absent	None	6	3.2	Lamivudine,Adefovir	None
+LD.94	China	male	54	21.16	Cirrhosis	Y	N	N	1.43	63	36	14	14	Absent	None	5	1.8	None	None
+LD.95	China	male	78	22.66	Cirrhosis	Y	N	N	1.14	44	37.9	14	11.9	Mild	None	6	7.1	None	None
+LD.96	China	male	36	20.72	Cirrhosis	Y	N	N	1.91	61	39.7	580	22.6	Absent	None	9	23.4	Telbivudine	None
+LD.97	China	female	41	20.83	Cirrhosis	Y	N	N	1.87	94	18.6	33	20	Sever	None	11	13.2	Entecavir	None

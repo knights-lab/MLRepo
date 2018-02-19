@@ -1,0 +1,151 @@
+#SampleID	Var
+USygt25.F.418747	GAZ:United States of America
+USygt27.M.418861	GAZ:United States of America
+USygt52.M.418736	GAZ:United States of America
+TS4.418810	GAZ:United States of America
+USygt11.F.418661	GAZ:United States of America
+h186M.1.418788	GAZ:Malawi
+USygt10.M.418687	GAZ:United States of America
+USygt18.M.418867	GAZ:United States of America
+F4T2pre4.418418	GAZ:United States of America
+USygt46.M.418453	GAZ:United States of America
+USygt32.M.418562	GAZ:United States of America
+USchp4Mom.418666	GAZ:United States of America
+USygt15.F.418688	GAZ:United States of America
+TS195.418848	GAZ:United States of America
+USygt53.F.418830	GAZ:United States of America
+USygt29.M.418603	GAZ:United States of America
+TS111.418684	GAZ:United States of America
+TS110.418428	GAZ:United States of America
+TS184.418577	GAZ:United States of America
+USygt8.F.418739	GAZ:United States of America
+h95M.1.418831	GAZ:Malawi
+USchp18Mom.418783	GAZ:United States of America
+USygt16.F.418383	GAZ:United States of America
+USygt46.F.418450	GAZ:United States of America
+USygt51.M.418844	GAZ:United States of America
+USygt42.F.418628	GAZ:United States of America
+USygt21.M.418797	GAZ:United States of America
+USygt31.M.418440	GAZ:United States of America
+USygt33.M.418638	GAZ:United States of America
+USchp36Mom.418718	GAZ:United States of America
+USygt47.F.418643	GAZ:United States of America
+TS8.418379	GAZ:United States of America
+TS25.418407	GAZ:United States of America
+TS129.418618	GAZ:United States of America
+F3T2pre4.418583	GAZ:United States of America
+TS164.418396	GAZ:United States of America
+USchp1Mom.418814	GAZ:United States of America
+USygt19.M.418397	GAZ:United States of America
+USygt41.F.418802	GAZ:United States of America
+h146M.1.418838	GAZ:Malawi
+h235M.1.418489	GAZ:Malawi
+USygt37.M.418793	GAZ:United States of America
+USchp3Mom.418727	GAZ:United States of America
+USygt43.F.418760	GAZ:United States of America
+h264M.1.418377	GAZ:Malawi
+USygt43.M.418520	GAZ:United States of America
+h9M.1.418588	GAZ:Malawi
+TS127.418550	GAZ:United States of America
+USygt52.F.418555	GAZ:United States of America
+USchp41Mom.418801	GAZ:United States of America
+USygt5.F.418630	GAZ:United States of America
+TS13.418619	GAZ:United States of America
+USygt15.M.418634	GAZ:United States of America
+USygt14.M.418857	GAZ:United States of America
+h85M.1.418596	GAZ:Malawi
+USchp33Mom.418698	GAZ:United States of America
+USygt50.F.418499	GAZ:United States of America
+TS194.418607	GAZ:United States of America
+TS109.418691	GAZ:United States of America
+USygt48.F.418551	GAZ:United States of America
+TS7.418860	GAZ:United States of America
+USygt44.M.418360	GAZ:United States of America
+h165M.1.418394	GAZ:Malawi
+TS14.418541	GAZ:United States of America
+USygt22.F.418477	GAZ:United States of America
+USygt6.M.418593	GAZ:United States of America
+USygt13.M.418644	GAZ:United States of America
+USygt9.M.418560	GAZ:United States of America
+USygt26.M.418352	GAZ:United States of America
+USygt28.M.418808	GAZ:United States of America
+USygt11.M.418479	GAZ:United States of America
+h305M.1.418771	GAZ:Malawi
+USygt47.M.418401	GAZ:United States of America
+TS193.418750	GAZ:United States of America
+USygt30.F.418729	GAZ:United States of America
+h208M.1.418731	GAZ:Malawi
+USchp25Mom.418780	GAZ:United States of America
+USygt5.M.418357	GAZ:United States of America
+F3T1pre4.418699	GAZ:United States of America
+USygt2.M.418457	GAZ:United States of America
+USchp60Mom.418566	GAZ:United States of America
+USygt8.M.418616	GAZ:United States of America
+TS1.418828	GAZ:United States of America
+USygt38.F.418465	GAZ:United States of America
+h68M.1.418773	GAZ:Malawi
+USygt54.F.418487	GAZ:United States of America
+USygt36.M.418734	GAZ:United States of America
+h122M.1.418534	GAZ:Malawi
+USygt37.F.418676	GAZ:United States of America
+USygt34.F.418402	GAZ:United States of America
+USygt20.F.418339	GAZ:United States of America
+USygt24.M.418730	GAZ:United States of America
+USygt53.M.418452	GAZ:United States of America
+USygt20.M.418572	GAZ:United States of America
+USygt49.F.418818	GAZ:United States of America
+h147M.1.418531	GAZ:Malawi
+TS26.418393	GAZ:United States of America
+USygt3.M.418496	GAZ:United States of America
+USygt16.M.418462	GAZ:United States of America
+TS185.418675	GAZ:United States of America
+USygt54.M.418445	GAZ:United States of America
+USygt27.F.418639	GAZ:United States of America
+TS2.418517	GAZ:United States of America
+USygt17.M.418444	GAZ:United States of America
+USygt40.F.418369	GAZ:United States of America
+USygt14.F.418375	GAZ:United States of America
+USygt13.F.418411	GAZ:United States of America
+h101M.1.418586	GAZ:Malawi
+USygt51.F.418349	GAZ:United States of America
+USygt30.M.418398	GAZ:United States of America
+USygt1.M.418373	GAZ:United States of America
+h37M.1.418863	GAZ:Malawi
+USygt21.F.418579	GAZ:United States of America
+h273M.1.418507	GAZ:Malawi
+USygt23.M.418612	GAZ:United States of America
+USygt1.F.418592	GAZ:United States of America
+h60M.1.418694	GAZ:Malawi
+h279M.1.418530	GAZ:Malawi
+USygt34.M.418823	GAZ:United States of America
+TS128.418470	GAZ:United States of America
+USygt22.M.418388	GAZ:United States of America
+USygt4.M.418367	GAZ:United States of America
+USygt39.F.418756	GAZ:United States of America
+USygt38.M.418740	GAZ:United States of America
+USygt12.M.418543	GAZ:United States of America
+USygt9.F.418438	GAZ:United States of America
+h257M.1.418454	GAZ:Malawi
+TS163.418636	GAZ:United States of America
+USygt48.M.418794	GAZ:United States of America
+h78M.1.418725	GAZ:Malawi
+USygt12.F.418502	GAZ:United States of America
+TS5.418546	GAZ:United States of America
+USygt40.M.418504	GAZ:United States of America
+USygt42.M.418663	GAZ:United States of America
+USygt4.F.418451	GAZ:United States of America
+USygt23.F.418490	GAZ:United States of America
+USBldAdlt6.418795	GAZ:United States of America
+USygt45.M.418662	GAZ:United States of America
+USygt35.M.418364	GAZ:United States of America
+USygt44.F.418709	GAZ:United States of America
+USygt49.M.418347	GAZ:United States of America
+USygt39.M.418483	GAZ:United States of America
+USygt25.M.418835	GAZ:United States of America
+USygt41.M.418492	GAZ:United States of America
+USygt50.M.418681	GAZ:United States of America
+USchp35Mom.418515	GAZ:United States of America
+F4T1pre4.418431	GAZ:United States of America
+h10M.1.418706	GAZ:Malawi
+USygt45.F.418753	GAZ:United States of America
+USygt7.M.418598	GAZ:United States of America
