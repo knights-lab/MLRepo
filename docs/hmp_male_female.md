@@ -2,9 +2,6 @@
 ### Healthy male and female adults
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 180                                         |

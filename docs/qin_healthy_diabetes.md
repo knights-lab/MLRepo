@@ -2,9 +2,6 @@
 ### Healthy or type 2 diabetes patients
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 124                                         |

@@ -2,9 +2,6 @@
 ### Males and females from the US
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 129                                         |

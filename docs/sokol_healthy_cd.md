@@ -2,9 +2,6 @@
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 128                                         |

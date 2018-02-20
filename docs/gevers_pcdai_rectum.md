@@ -2,9 +2,6 @@
 ### PCDAI scores of CD patients at 6 months post sampling
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | rectal biopsies                                         |
 | **Number of samples**         | 51                                         |

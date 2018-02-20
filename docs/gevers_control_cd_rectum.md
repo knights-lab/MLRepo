@@ -2,9 +2,6 @@
 ### Healthy controls and Crohn's Disease patients
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | rectal biopsies                                         |
 | **Number of samples**         | 160                                         |

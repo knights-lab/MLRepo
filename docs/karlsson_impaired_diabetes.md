@@ -2,9 +2,6 @@
 ### Impaired or type 2 diabetes glucose tolerance categories
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 101                                         |

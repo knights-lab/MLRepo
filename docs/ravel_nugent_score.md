@@ -2,9 +2,6 @@
 ### Predict nugent score from vaginal microbiome
 
 ## Task Details
-
-| | |
-| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |
 | **Number of samples**         | 388                                         |
