@@ -2,9 +2,9 @@
 
 ### Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers
 
-
 ### Project Overview
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers |
 | Study design | Cross-Sectional |
@@ -15,7 +15,8 @@
 | Number of subjects | 154|
 
 ### Additional details
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V2 |
 | Targeted amplicon size | 230 |

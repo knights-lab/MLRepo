@@ -2,7 +2,8 @@
 ### Vaginal microbiomes of white and black women
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |

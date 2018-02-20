@@ -2,7 +2,8 @@
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | human stool                                         |

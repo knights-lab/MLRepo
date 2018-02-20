@@ -2,9 +2,9 @@
 
 ### Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics
 
-
 ### Project Overview
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics |
 | Study design | Cross-Sectional |
@@ -15,7 +15,8 @@
 | Number of subjects | 47|
 
 ### Additional details
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V3 |
 | Targeted amplicon size | 177 |

@@ -2,9 +2,9 @@
 
 ### Elderly and young adults
 
-
 ### Project Overview
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |
@@ -15,7 +15,8 @@
 | Number of subjects | 168|
 
 ### Additional details
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |

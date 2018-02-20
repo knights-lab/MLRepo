@@ -2,7 +2,8 @@
 ### Patients prior to chemotherapy who did or did not develop bacteremia
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Bacteremia                                                |
 | **Sample type**               | human stool                                         |

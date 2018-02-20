@@ -2,7 +2,8 @@
 ### Individuals after completing a high fat or low fat diet intervention
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |

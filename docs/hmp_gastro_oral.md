@@ -2,7 +2,8 @@
 ### Gastrointestinal tract and oral cavity of healthy adults
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | human stool, oral                                         |

@@ -2,9 +2,9 @@
 
 ### Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis
 
-
 ### Project Overview
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis |
 | Study design | Cross-Sectional |
@@ -15,7 +15,8 @@
 | Number of subjects | 396|
 
 ### Additional details
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V12 |
 | Targeted amplicon size | 240 |

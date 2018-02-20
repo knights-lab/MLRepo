@@ -2,9 +2,9 @@
 
 ### Plant-based vs. Animal-based diet, Cross-over study
 
-
 ### Project Overview
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Plant-based vs. Animal-based diet, Cross-over study |
 | Study design | Longitudinal |
@@ -15,7 +15,8 @@
 | Number of subjects | 11|
 
 ### Additional details
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |

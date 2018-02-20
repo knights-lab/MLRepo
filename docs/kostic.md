@@ -2,9 +2,9 @@
 
 ### Adjacent Healthy vs. Tumor Colon Biopsy Tissues
 
-
 ### Project Overview
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
 | Study design | Paired |
@@ -15,7 +15,8 @@
 | Number of subjects | 95|
 
 ### Additional details
-|  |  |
+
+|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |

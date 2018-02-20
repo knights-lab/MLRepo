@@ -2,7 +2,8 @@
 ### Individuals living in the US or Malawi
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Geography                                                |
 | **Sample type**               | human stool                                         |

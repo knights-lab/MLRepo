@@ -2,7 +2,8 @@
 ### Five groups of mice treated with four different antibiotics or no antibiotics
 
 ### Task Details
-| placeholder               |                                                             |
+
+| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Antibiotics                                                |
 | **Sample type**               | mouse cecal contents                                         |
