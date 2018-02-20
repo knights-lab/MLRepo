@@ -1,6 +1,7 @@
 # Task: black vs hispanic, vaginal
 ### Vaginal microbiomes of black and hispanic women
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Ravel 2011]( ../docs/ravel.html )       |
 | **Topic area**                | Vaginal                                                |

@@ -1,7 +1,7 @@
 # HMP 2012
 ### Up to 18 body sites across 242 healthy subjects at 1-2 time points
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Up to 18 body sites across 242 healthy subjects at 1-2 time points |
 | Study design | Cross-Sectional |

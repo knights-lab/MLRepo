@@ -1,7 +1,7 @@
 # Gevers 2014
 ### Biopsies from IBD patients prior to treatment
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Biopsies from IBD patients prior to treatment |
 | Study design | Cross-Sectional |

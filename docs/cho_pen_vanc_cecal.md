@@ -1,6 +1,7 @@
 # Task: penicillin vs vancomycin, cecal
 ### Five groups of mice treated with four different antibiotics or no antibiotics
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Cho 2012]( ../docs/cho.html )       |
 | **Topic area**                | Antibiotics                                                |

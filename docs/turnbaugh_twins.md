@@ -1,7 +1,7 @@
 # Turnbaugh 2009
 ### Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers |
 | Study design | Cross-Sectional |

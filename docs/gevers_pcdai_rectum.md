@@ -1,6 +1,7 @@
 # Task: pcdai using baseline cd rectum
 ### PCDAI scores of CD patients at 6 months post sampling
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Gevers 2014]( ../docs/gevers.html )       |
 | **Topic area**                | IBD                                                |

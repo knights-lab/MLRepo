@@ -1,7 +1,7 @@
 # Ravel 2011
 ### Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis |
 | Study design | Cross-Sectional |

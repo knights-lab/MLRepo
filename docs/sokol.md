@@ -1,7 +1,7 @@
 # Morgan 2012
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Healthy, Crohn's Disease, or Ulcerative Colitis patients |
 | Study design | Cross-Sectional |

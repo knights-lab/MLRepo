@@ -1,7 +1,7 @@
 # Yatsunenko 2012
 ### Humans of varying ages from the USA, Malawi, and Venezuela
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Humans of varying ages from the USA, Malawi, and Venezuela |
 | Study design | Cross-Sectional |

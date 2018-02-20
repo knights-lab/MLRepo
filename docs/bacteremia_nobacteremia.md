@@ -1,6 +1,7 @@
 # Task: bacteremia vs no bacteremia
 ### Patients prior to chemotherapy who did or did not develop bacteremia
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Montassier 2016]( ../docs/bacteremia.html )       |
 | **Topic area**                | Bacteremia                                                |

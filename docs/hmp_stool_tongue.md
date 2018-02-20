@@ -1,6 +1,7 @@
 # Task: stool vs tongue
 ### Stool and tongue of healthy adults
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [HMP 2012]( ../docs/hmp.html )       |
 | **Topic area**                | Body Habitat                                                |

@@ -1,6 +1,7 @@
 # Task: infant age
 ### Infants (up to Age 3) from the US
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Age                                                |

@@ -1,7 +1,7 @@
 # Kostic 2012
 ### Adjacent Healthy vs. Tumor Colon Biopsy Tissues
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
 | Study design | Paired |

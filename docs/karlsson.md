@@ -1,7 +1,7 @@
 # Karlsson 2013
 ### Patients with normal, impaired, or type 2 diabetes glucose tolerance categories
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Patients with normal, impaired, or type 2 diabetes glucose tolerance categories |
 | Study design | Cross-Sectional |

@@ -1,6 +1,7 @@
 # Task: male vs female, stool
 ### Healthy male and female adults
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [HMP 2012]( ../docs/hmp.html )       |
 | **Topic area**                | Gender                                                |

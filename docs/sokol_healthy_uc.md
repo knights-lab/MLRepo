@@ -1,6 +1,7 @@
 # Task: healthy vs uc, stool
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Morgan 2012]( ../docs/sokol.html )       |
 | **Topic area**                | IBD                                                |

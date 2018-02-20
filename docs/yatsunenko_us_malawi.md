@@ -1,6 +1,7 @@
 # Task: us vs malawi, adults only
 ### Individuals living in the US or Malawi
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Geography                                                |

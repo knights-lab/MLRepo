@@ -1,7 +1,7 @@
 # Claesson 2012
 ### Elderly and young adults
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |

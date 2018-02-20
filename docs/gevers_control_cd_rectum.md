@@ -1,6 +1,7 @@
 # Task: control vs cd, rectum
 ### Healthy controls and Crohn's Disease patients
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Gevers 2014]( ../docs/gevers.html )       |
 | **Topic area**                | IBD                                                |

@@ -1,7 +1,7 @@
 # Montassier 2016
 ### Patients prior to chemotherapy who did or did not develop bacteremia
 
-| Project Overview |  |
+| Overview | |
 | -------------: |-------------|
 | Description      | Patients prior to chemotherapy who did or did not develop bacteremia |
 | Study design | Cross-Sectional |
