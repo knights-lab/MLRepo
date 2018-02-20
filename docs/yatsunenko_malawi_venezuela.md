@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 54                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Individuals are older than age 18, and are all living in the Venezuela or Malawi                                  |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   | Individuals are older than age 18, and are all living in the Venezuela or Malawi                                  |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task-malawi-venezuela.txt](../datasets/yatsunenko/task-malawi-venezuela.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](.https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/yatsunenko2012.gg.otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/yatsunenko/gg/taxatable.txt)                          |

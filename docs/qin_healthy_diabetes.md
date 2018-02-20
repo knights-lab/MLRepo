@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 124                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Chinese patients                                  |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   | Chinese patients                                  |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task-healthy-diabetes.txt](../datasets/qin2012/task-healthy-diabetes.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](.NA)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](.NA)                          |

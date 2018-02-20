@@ -8,8 +8,8 @@
 | **Sample type**               | colon biopsies                                         |
 | **Number of samples**         | 172                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
-| **Multiple samples per subject?**     | Yes |
+| **Additional task details**   | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
+| **Multiple samples per subject?** | Yes |
 | **Task mapping file**         | [task.txt](../datasets/kostic/task.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/kostic/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/kostic/gg/taxatable.txt)                          |

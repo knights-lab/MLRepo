@@ -8,8 +8,8 @@
 | **Sample type**               | vaginal swab                                         |
 | **Number of samples**         | 199                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Expected difficult task                                  |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   | Expected difficult task                                  |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task-black-hispanic.txt](../datasets/ravel/task-black-hispanic.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/hmp/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |

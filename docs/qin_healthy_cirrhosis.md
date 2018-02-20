@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 130                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Chinese patients                                  |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   | Chinese patients                                  |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task-healthy-cirrhosis.txt](../datasets/qin2014/task-healthy-cirrhosis.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](.NA)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](.NA)                          |

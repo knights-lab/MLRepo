@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 167                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Elderly adults confounded by residence type, data not shown                                  |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   | Elderly adults confounded by residence type, data not shown                                  |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task.txt](../datasets/claesson/task.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/claesson/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/claesson/gg/taxatable.txt)                          |

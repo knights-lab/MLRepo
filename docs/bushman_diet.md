@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 10                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task.txt](../datasets/bushman_cafe/task.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/bushman_cafe/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/bushman_cafe/gg/taxatable.txt)                          |

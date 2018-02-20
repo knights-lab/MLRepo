@@ -8,8 +8,8 @@
 | **Sample type**               | mouse cecal contents                                         |
 | **Number of samples**         | 47                                         |
 | **Response type**             | binary                                           |
-| **Additional task details**              |                                   |
-| **Multiple samples per subject?**     | No |
+| **Additional task details**   |                                   |
+| **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task-penicillin-vancomycin-cecal.txt](../datasets/cho/task-penicillin-vancomycin-cecal.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/cho/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |
