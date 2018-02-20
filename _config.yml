@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: MLRepo
 description: Machine learning repository for microbiome datasets
+markdown: kramdown
