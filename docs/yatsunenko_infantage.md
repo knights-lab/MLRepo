@@ -1,8 +1,7 @@
-### infant age
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
 ### Infants (up to Age 3) from the US
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |

@@ -1,8 +1,7 @@
-### male vs female, usa
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
 ### Males and females from the US
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |

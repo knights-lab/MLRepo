@@ -1,8 +1,7 @@
-### chlortetracycline vs control, fecal
 # [Cho 2012]( ../docs/cho.html )
 ### Five groups of mice treated with four different antibiotics or no antibiotics
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Antibiotics                                                |
 | **Sample type**               | mouse pellets                                         |

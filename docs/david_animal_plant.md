@@ -1,8 +1,7 @@
-### animal vs plant diet, last diet day
 # [David 2014]( ../docs/david.html )
 ### Individuals on the last day of an animal or plant diet intervention
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |

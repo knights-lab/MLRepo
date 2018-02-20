@@ -1,8 +1,7 @@
-### malawi vs venezuela, adults only
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
 ### Individuals living in Malawi or Venezuela
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Geography                                                |
 | **Sample type**               | human stool                                         |

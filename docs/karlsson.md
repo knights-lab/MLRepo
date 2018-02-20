@@ -3,7 +3,7 @@
 ### Patients with normal, impaired, or type 2 diabetes glucose tolerance categories
 
 
-| Details        |             |
+### Project Overview
 | -------------: |-------------|
 | Description      | Patients with normal, impaired, or type 2 diabetes glucose tolerance categories |
 | Study design | Cross-Sectional |
@@ -14,12 +14,12 @@
 | Number of subjects | 144|
 
 ### Additional details
-
+| -------------: |-------------|
 | 16s hypervariable region | NA |
 | Targeted amplicon size | NA |
 | Sequencing technology | Illumina HiSeq (shotgun) |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [download fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/karlsson2013.fasta.gz) |
+| Processed sequences | [karlsson2013.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/karlsson2013.fasta.gz) |
 | Raw metadata file | [mapping-orig.txt](./datasets/karlsson/mapping-orig.txt) |
 | Raw sequence source | [http://www.ncbi.nlm.nih.gov/sra?term=ERP002469](http://www.ncbi.nlm.nih.gov/sra?term=ERP002469) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23719380](https://www.ncbi.nlm.nih.gov/pubmed/23719380) |

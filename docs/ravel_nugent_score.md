@@ -1,8 +1,7 @@
-### nugent score
 # [Ravel 2011]( ../docs/ravel.html )
 ### Predict nugent score from vaginal microbiome
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |

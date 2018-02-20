@@ -1,8 +1,7 @@
-### stool vs tongue
 # [HMP 2012]( ../docs/hmp.html )
 ### Stool and tongue of healthy adults
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | human stool, oral                                         |

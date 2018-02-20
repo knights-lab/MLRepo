@@ -1,8 +1,7 @@
-### elderly vs young
 # [Claesson 2012]( ../docs/claesson.html )
 ### Elderly or young adults
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |

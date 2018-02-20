@@ -1,8 +1,7 @@
-### control vs cd, ileum
 # [Gevers 2014]( ../docs/gevers.html )
 ### Healthy controls and Crohn's Disease patients
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | ileal biopsies                                         |

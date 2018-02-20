@@ -1,8 +1,7 @@
-### high fat vs low fat diet
 # [Wu 2011]( ../docs/bushman_cafe.html )
 ### Individuals after completing a high fat or low fat diet intervention
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |

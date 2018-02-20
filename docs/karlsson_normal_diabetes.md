@@ -1,8 +1,7 @@
-### normal vs diabetes glucose tolerance
 # [Karlsson 2013]( ../docs/karlsson.html )
 ### Normal or type 2 diabetes glucose tolerance categories
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |

@@ -1,8 +1,7 @@
-### ph, vaginal
 # [Ravel 2011]( ../docs/ravel.html )
 ### Predict pH from vaginal microbiome
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |

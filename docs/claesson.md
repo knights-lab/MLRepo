@@ -3,7 +3,7 @@
 ### Elderly and young adults
 
 
-| Details        |             |
+### Project Overview
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |
@@ -14,12 +14,12 @@
 | Number of subjects | 168|
 
 ### Additional details
-
+| -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [download fasta.gz](https://qiita.ucsd.edu/download/13265) |
+| Processed sequences | [https://qiita.ucsd.edu/download/13265](https://qiita.ucsd.edu/download/13265) |
 | Raw metadata file | [mapping-orig.txt](./datasets/claesson/mapping-orig.txt) |
 | Raw sequence source | [https://qiita.ucsd.edu/download/13268](https://qiita.ucsd.edu/download/13268) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22797518](https://www.ncbi.nlm.nih.gov/pubmed/22797518) |

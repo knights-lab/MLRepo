@@ -1,8 +1,7 @@
-### low vs high nugent category
 # [Ravel 2011]( ../docs/ravel.html )
 ### Predict nugent score category (low, high) from vaginal microbiome
 
-| Details                   |                                                           |
+### Task Details
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |
