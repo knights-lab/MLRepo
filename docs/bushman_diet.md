@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Diet                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | human stool                                         |
 | **Number of samples**         | 10                                         |
-| **Sample Type**               | human stool                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | DIET: HighFat, LowFat                                          |
-| **Subset Details**            | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/bushman_cafe/task.txt]( ../datasets/bushman_cafe/./datasets/bushman_cafe/task.txt)        |
-| **OTU File** *gg97*           | [./datasets/bushman_cafe/refseq/otutable.txt]( ../datasets/bushman_cafe/./datasets/bushman_cafe/refseq/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/bushman_cafe/refseq/taxatable.txt]( ../datasets/bushman_cafe/./datasets/bushman_cafe/refseq/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [./datasets/bushman_cafe/gg/otutable.txt]( ../datasets/bushman_cafe/./datasets/bushman_cafe/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [./datasets/bushman_cafe/gg/taxatable.txt]( ../datasets/bushman_cafe/./datasets/bushman_cafe/gg/taxatable.txt)|
+| **Response type**             | ./datasets/bushman_cafe/task.txt                                           |
+| **Task details**              | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

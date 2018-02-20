@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Antibiotics                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | mouse pellets                                         |
 | **Number of samples**         | 45                                         |
-| **Sample Type**               | mouse pellets                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | Abx: Control, Chlortetracycline                                          |
-| **Subset Details**            |                                   |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/cho/task-control-ct-fecal.txt]( ../datasets/cho/./datasets/cho/task-control-ct-fecal.txt)        |
-| **OTU File** *gg97*           | [./datasets/cho/refseq/otutable.txt]( ../datasets/cho/./datasets/cho/refseq/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/cho/refseq/taxatable.txt]( ../datasets/cho/./datasets/cho/refseq/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [./datasets/cho/gg/otutable.txt]( ../datasets/cho/./datasets/cho/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [./datasets/cho/gg/taxatable.txt]( ../datasets/cho/./datasets/cho/gg/taxatable.txt)|
+| **Response type**             | ./datasets/cho/task-control-ct-fecal.txt                                           |
+| **Task details**              |                                   |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

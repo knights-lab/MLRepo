@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Diabetes                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | human stool                                         |
 | **Number of samples**         | 124                                         |
-| **Sample Type**               | human stool                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | Diabetic: Y, N                                          |
-| **Subset Details**            | Chinese patients                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/qin2012/task-healthy-diabetes.txt]( ../datasets/qin2012/./datasets/qin2012/task-healthy-diabetes.txt)        |
-| **OTU File** *gg97*           | [./datasets/qin2012/otutable.txt]( ../datasets/qin2012/./datasets/qin2012/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/qin2012/taxatable.txt]( ../datasets/qin2012/./datasets/qin2012/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [NA]( ../datasets/qin2012/NA)  |
-| **Taxa File** *RefSeq*        | [NA]( ../datasets/qin2012/NA)|
+| **Response type**             | ./datasets/qin2012/task-healthy-diabetes.txt                                           |
+| **Task details**              | Chinese patients                                  |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

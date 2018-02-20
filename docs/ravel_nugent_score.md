@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Vaginal                                                |
+| **Topic area**                | regression                                                |
+| **Sample type**               | vaginal swab                                         |
 | **Number of samples**         | 388                                         |
-| **Sample Type**               | vaginal swab                                         |
-| **Data Type**                 | regression                                           |
-| **Group Variables**           | Nugent_score                                          |
-| **Subset Details**            | 0-3 (Low), 4-6 (Intermediate), 7-10 (High) indication of BV                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/ravel/task-nugent-score.txt]( ../datasets/ravel/./datasets/ravel/task-nugent-score.txt)        |
-| **OTU File** *gg97*           | [./datasets/ravel/refseq/otutable.txt]( ../datasets/ravel/./datasets/ravel/refseq/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/hmp/refseq/taxatable.txt]( ../datasets/ravel/./datasets/hmp/refseq/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [./datasets/hmp/gg/otutable.txt]( ../datasets/ravel/./datasets/hmp/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [./datasets/hmp/gg/taxatable.txt]( ../datasets/ravel/./datasets/hmp/gg/taxatable.txt)|
+| **Response type**             | ./datasets/ravel/task-nugent-score.txt                                           |
+| **Task details**              | 0-3 (Low), 4-6 (Intermediate), 7-10 (High) indication of BV                                  |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

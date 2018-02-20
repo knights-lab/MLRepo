@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Age                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | human stool                                         |
 | **Number of samples**         | 167                                         |
-| **Sample Type**               | human stool                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | AGE: Elderly, Young                                          |
-| **Subset Details**            | Elderly adults confounded by residence type, data not shown                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/claesson/task.txt]( ../datasets/claesson/./datasets/claesson/task.txt)        |
-| **OTU File** *gg97*           | [./datasets/claesson/refseq/otutable.txt]( ../datasets/claesson/./datasets/claesson/refseq/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/claesson/refseq/taxatable.txt]( ../datasets/claesson/./datasets/claesson/refseq/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [./datasets/claesson/gg/otutable.txt]( ../datasets/claesson/./datasets/claesson/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [./datasets/claesson/gg/taxatable.txt]( ../datasets/claesson/./datasets/claesson/gg/taxatable.txt)|
+| **Response type**             | ./datasets/claesson/task.txt                                           |
+| **Task details**              | Elderly adults confounded by residence type, data not shown                                  |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

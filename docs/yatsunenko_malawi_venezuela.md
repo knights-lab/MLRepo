@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Geography                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | human stool                                         |
 | **Number of samples**         | 54                                         |
-| **Sample Type**               | human stool                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | COUNTRY: GAZ:Venezuela, GAZ:Malawi                                          |
-| **Subset Details**            | Individuals are older than age 18, and are all living in the Venezuela or Malawi                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/yatsunenko/task-malawi-venezuela.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/task-malawi-venezuela.txt)        |
-| **OTU File** *gg97*           | [./datasets/yatsunenko/refseq/otutable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/refseq/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/yatsunenko/refseq/taxatable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/refseq/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [./datasets/yatsunenko/gg/otutable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [./datasets/yatsunenko/gg/taxatable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/gg/taxatable.txt)|
+| **Response type**             | ./datasets/yatsunenko/task-malawi-venezuela.txt                                           |
+| **Task details**              | Individuals are older than age 18, and are all living in the Venezuela or Malawi                                  |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

@@ -6,16 +6,20 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Categorical |
-| Study design | https://www.ncbi.nlm.nih.gov/pubmed/22797518 |
-| Topic Area | 168|
+| Study design | 454 |
+| Topic area | 168|
 | Attributes | Age|
-| Dataset Notes | 168
+| Dataset notes | 168|
+| Number of samples | https://qiita.ucsd.edu/download/13265|
+| Number of subjects | https://qiita.ucsd.edu/download/13265|
 
 ### Additional details
 
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |
-| Sequencing Technology |  |
+| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/22797518 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | [https://qiita.ucsd.edu/download/13268](https://qiita.ucsd.edu/download/13268) |
-| Literature Source | [Elderly and young adults](Elderly and young adults) |
+| Processed sequences | []() |
+| Raw sequences | [https://qiita.ucsd.edu/download/13268](https://qiita.ucsd.edu/download/13268) |
+| Raw metadata file | []() |
+| Literature source | [Elderly and young adults](Elderly and young adults) |

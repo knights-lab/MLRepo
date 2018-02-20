@@ -6,16 +6,20 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Categorical |
-| Study design | http://www.ncbi.nlm.nih.gov/pubmed/19043404 |
-| Topic Area | 154|
+| Study design | 454 |
+| Topic area | 154|
 | Attributes | Obesity|
-| Dataset Notes | 281
+| Dataset notes | 281|
+| Number of samples | https://qiita.ucsd.edu/download/6979|
+| Number of subjects | https://qiita.ucsd.edu/download/6979|
 
 ### Additional details
 
 | 16s hypervariable region | V2 |
 | Targeted amplicon size | 230 |
-| Sequencing Technology |  |
+| Sequencing technology | http://www.ncbi.nlm.nih.gov/pubmed/19043404 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | [https://qiita.ucsd.edu/download/6982](https://qiita.ucsd.edu/download/6982) |
-| Literature Source | [Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers](Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers) |
+| Processed sequences | []() |
+| Raw sequences | [https://qiita.ucsd.edu/download/6982](https://qiita.ucsd.edu/download/6982) |
+| Raw metadata file | []() |
+| Literature source | [Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers](Monozygotic or dizygotic twin pairs concordant for BMI class, and their mothers) |

@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Diabetes                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | human stool                                         |
 | **Number of samples**         | 96                                         |
-| **Sample Type**               | human stool                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | Classification: NGT, T2D                                          |
-| **Subset Details**            |                                   |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/karlsson/task-normal-diabetes.txt]( ../datasets/karlsson/./datasets/karlsson/task-normal-diabetes.txt)        |
-| **OTU File** *gg97*           | [./datasets/karlsson/otutable.txt]( ../datasets/karlsson/./datasets/karlsson/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/karlsson/taxatable.txt]( ../datasets/karlsson/./datasets/karlsson/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [NA]( ../datasets/karlsson/NA)  |
-| **Taxa File** *RefSeq*        | [NA]( ../datasets/karlsson/NA)|
+| **Response type**             | ./datasets/karlsson/task-normal-diabetes.txt                                           |
+| **Task details**              |                                   |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |

@@ -6,16 +6,20 @@
 | Details        |             |
 | -------------: |-------------|
 | Description      | Categorical |
-| Study design | https://www.ncbi.nlm.nih.gov/pubmed/27121964 |
-| Topic Area | 28|
+| Study design | 454 |
+| Topic area | 28|
 | Attributes | Bacteremia|
-| Dataset Notes | 28
+| Dataset notes | 28|
+| Number of samples | MSI|
+| Number of subjects | https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz|
 
 ### Additional details
 
 | 16s hypervariable region | V56 |
 | Targeted amplicon size | 280 |
-| Sequencing Technology |  |
+| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/27121964 |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | [https://www.ncbi.nlm.nih.gov/sra/SRX733464](https://www.ncbi.nlm.nih.gov/sra/SRX733464) |
-| Literature Source | [Patients prior to chemotherapy who did or did not develop bacteremia](Patients prior to chemotherapy who did or did not develop bacteremia) |
+| Processed sequences | []() |
+| Raw sequences | [https://www.ncbi.nlm.nih.gov/sra/SRX733464](https://www.ncbi.nlm.nih.gov/sra/SRX733464) |
+| Raw metadata file | []() |
+| Literature source | [Patients prior to chemotherapy who did or did not develop bacteremia](Patients prior to chemotherapy who did or did not develop bacteremia) |

@@ -4,15 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic Area**                | Body Habitat                                                |
+| **Topic area**                | binary                                                |
+| **Sample type**               | human stool, oral                                         |
 | **Number of samples**         | 404                                         |
-| **Sample Type**               | human stool, oral                                         |
-| **Data Type**                 | binary                                           |
-| **Group Variables**           | HMPBODYSUBSITE: Stool, Tongue_dorsum; HOST_SUBJECT_ID                                          |
-| **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
-| **Notes**                     |                                          |
-| **Mapping File**              | [./datasets/hmp/task-stool-tongue-paired.txt]( ../datasets/hmp/./datasets/hmp/task-stool-tongue-paired.txt)        |
-| **OTU File** *gg97*           | [./datasets/hmp/refseq/otutable.txt]( ../datasets/hmp/./datasets/hmp/refseq/otutable.txt)          |
-| **Taxa File** *gg97*          | [./datasets/hmp/refseq/taxatable.txt]( ../datasets/hmp/./datasets/hmp/refseq/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [./datasets/hmp/gg/otutable.txt]( ../datasets/hmp/./datasets/hmp/gg/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [./datasets/hmp/gg/taxatable.txt]( ../datasets/hmp/./datasets/hmp/gg/taxatable.txt)|
+| **Response type**             | ./datasets/hmp/task-stool-tongue-paired.txt                                           |
+| **Task details**              | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
+| **>1 sample per subject**     |                                         |
+| **Task mapping file**         | [](.)                                 |
+| **OTU file** *gg97*           | [](.)                             |
+| **Taxa file** *gg97*          | [](.)                          |
+| **OTU file** *RefSeq*         | [](.)                    |
+| **Taxa file** *RefSeq*        | [](.)                  |
