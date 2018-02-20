@@ -1,7 +1,7 @@
 ## Machine Learning Repository for Microbiome Datasets
-Download all tasks as a single [GZIP] (https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)
 
 # Available Tasks
+Download all tasks as a single [GZIP](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)
 
 
 ## Bacteremia
