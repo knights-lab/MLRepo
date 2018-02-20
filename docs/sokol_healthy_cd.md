@@ -10,8 +10,9 @@
 | **Response type**             | binary                                           |
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
-| **Task mapping file**         | [./datasets/sokol/task-healthy-cd.txt](../datasets/sokol/task-healthy-cd.txt)                                 |
-| **OTU file** *gg97*           | [./datasets/sokol/gg/otutable.txt](../datasets/sokol/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [./datasets/sokol/gg/taxatable.txt](../datasets/sokol/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [./datasets/sokol/refseq/otutable.txt](../datasets/sokol/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [./datasets/sokol/refseq/taxatable.txt](../datasets/sokol/refseq/taxatable.txt)                  |
+| **Task mapping file**         | [task-healthy-cd.txt](../datasets/sokol/task-healthy-cd.txt)                                 |
+| **OTU file** *gg97*           | [download](../datasets/sokol/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [download](../datasets/sokol/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [download](../datasets/sokol/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [download](../datasets/sokol/refseq/taxatable.txt)                  |
+

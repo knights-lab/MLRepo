@@ -19,7 +19,7 @@
 | Targeted amplicon size | 240 |
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/ravel2011.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/ravel2011.fasta.gz) |
-| Raw sequences | [https://www.ncbi.nlm.nih.gov/sra/SRA022855](https://www.ncbi.nlm.nih.gov/sra/SRA022855) |
-| Raw metadata file | [./datasets/ravel/mapping-orig.txt](./datasets/ravel/mapping-orig.txt) |
+| Processed sequences | [download](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/ravel2011.fasta.gz) |
+| Raw metadata file | [download](./datasets/ravel/mapping-orig.txt) |
+| Raw sequence source | [https://www.ncbi.nlm.nih.gov/sra/SRA022855](https://www.ncbi.nlm.nih.gov/sra/SRA022855) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/20534435](https://www.ncbi.nlm.nih.gov/pubmed/20534435) |

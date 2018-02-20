@@ -10,8 +10,9 @@
 | **Response type**             | binary                                           |
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
-| **Task mapping file**         | [./datasets/karlsson/task-impaired-diabetes.txt](../datasets/karlsson/task-impaired-diabetes.txt)                                 |
-| **OTU file** *gg97*           | [NA](.NA)                             |
-| **Taxa file** *gg97*          | [NA](.NA)                          |
-| **OTU file** *RefSeq*         | [./datasets/karlsson/otutable.txt](../datasets/karlsson/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [./datasets/karlsson/taxatable.txt](../datasets/karlsson/taxatable.txt)                  |
+| **Task mapping file**         | [task-impaired-diabetes.txt](../datasets/karlsson/task-impaired-diabetes.txt)                                 |
+| **OTU file** *gg97*           | [download](.NA)                             |
+| **Taxa file** *gg97*          | [download](.NA)                          |
+| **OTU file** *RefSeq*         | [download](../datasets/karlsson/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [download](../datasets/karlsson/taxatable.txt)                  |
+

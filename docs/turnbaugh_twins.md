@@ -19,7 +19,7 @@
 | Targeted amplicon size | 230 |
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [https://qiita.ucsd.edu/download/6979](https://qiita.ucsd.edu/download/6979) |
-| Raw sequences | [https://qiita.ucsd.edu/download/6982](https://qiita.ucsd.edu/download/6982) |
-| Raw metadata file | [./datasets/turnbaugh_twins/mapping-orig.txt](./datasets/turnbaugh_twins/mapping-orig.txt) |
+| Processed sequences | [download](https://qiita.ucsd.edu/download/6979) |
+| Raw metadata file | [download](./datasets/turnbaugh_twins/mapping-orig.txt) |
+| Raw sequence source | [https://qiita.ucsd.edu/download/6982](https://qiita.ucsd.edu/download/6982) |
 | Literature source | [http://www.ncbi.nlm.nih.gov/pubmed/19043404](http://www.ncbi.nlm.nih.gov/pubmed/19043404) |

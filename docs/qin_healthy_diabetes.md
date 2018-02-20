@@ -10,8 +10,9 @@
 | **Response type**             | binary                                           |
 | **Task details**              | Chinese patients                                  |
 | **>1 sample per subject**     | N                                        |
-| **Task mapping file**         | [./datasets/qin2012/task-healthy-diabetes.txt](../datasets/qin2012/task-healthy-diabetes.txt)                                 |
-| **OTU file** *gg97*           | [NA](.NA)                             |
-| **Taxa file** *gg97*          | [NA](.NA)                          |
-| **OTU file** *RefSeq*         | [./datasets/qin2012/otutable.txt](../datasets/qin2012/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [./datasets/qin2012/taxatable.txt](../datasets/qin2012/taxatable.txt)                  |
+| **Task mapping file**         | [task-healthy-diabetes.txt](../datasets/qin2012/task-healthy-diabetes.txt)                                 |
+| **OTU file** *gg97*           | [download](.NA)                             |
+| **Taxa file** *gg97*          | [download](.NA)                          |
+| **OTU file** *RefSeq*         | [download](../datasets/qin2012/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [download](../datasets/qin2012/taxatable.txt)                  |
+

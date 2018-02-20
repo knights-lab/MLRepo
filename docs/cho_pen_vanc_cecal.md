@@ -10,8 +10,9 @@
 | **Response type**             | binary                                           |
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
-| **Task mapping file**         | [./datasets/cho/task-penicillin-vancomycin-cecal.txt](../datasets/cho/task-penicillin-vancomycin-cecal.txt)                                 |
-| **OTU file** *gg97*           | [./datasets/cho/gg/otutable.txt](../datasets/cho/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [./datasets/cho/gg/taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [./datasets/cho/refseq/otutable.txt](../datasets/cho/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [./datasets/cho/refseq/taxatable.txt](../datasets/cho/refseq/taxatable.txt)                  |
+| **Task mapping file**         | [task-penicillin-vancomycin-cecal.txt](../datasets/cho/task-penicillin-vancomycin-cecal.txt)                                 |
+| **OTU file** *gg97*           | [download](../datasets/cho/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [download](../datasets/cho/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [download](../datasets/cho/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [download](../datasets/cho/refseq/taxatable.txt)                  |
+

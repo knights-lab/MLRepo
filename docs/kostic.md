@@ -19,7 +19,7 @@
 | Targeted amplicon size | 569 |
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz) |
-| Raw sequences | [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383) |
-| Raw metadata file | [./datasets/kostic/mapping-orig.txt](./datasets/kostic/mapping-orig.txt) |
+| Processed sequences | [download](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz) |
+| Raw metadata file | [download](./datasets/kostic/mapping-orig.txt) |
+| Raw sequence source | [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22009990](https://www.ncbi.nlm.nih.gov/pubmed/22009990) |

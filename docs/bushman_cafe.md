@@ -19,7 +19,7 @@
 | Targeted amplicon size | 244 |
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [https://qiita.ucsd.edu/download/2029](https://qiita.ucsd.edu/download/2029) |
-| Raw sequences | [https://qiita.ucsd.edu/download/2032](https://qiita.ucsd.edu/download/2032) |
-| Raw metadata file | [./datasets/bushman_cafe/mapping-orig.txt](./datasets/bushman_cafe/mapping-orig.txt) |
+| Processed sequences | [download](https://qiita.ucsd.edu/download/2029) |
+| Raw metadata file | [download](./datasets/bushman_cafe/mapping-orig.txt) |
+| Raw sequence source | [https://qiita.ucsd.edu/download/2032](https://qiita.ucsd.edu/download/2032) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/21885731](https://www.ncbi.nlm.nih.gov/pubmed/21885731) |

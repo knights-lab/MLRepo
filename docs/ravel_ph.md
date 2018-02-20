@@ -10,8 +10,9 @@
 | **Response type**             | regression                                           |
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
-| **Task mapping file**         | [./datasets/ravel/task-ph.txt](../datasets/ravel/task-ph.txt)                                 |
-| **OTU file** *gg97*           | [./datasets/hmp/gg/otutable.txt](../datasets/hmp/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [./datasets/hmp/gg/taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [./datasets/ravel/refseq/otutable.txt](../datasets/ravel/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [./datasets/hmp/refseq/taxatable.txt](../datasets/hmp/refseq/taxatable.txt)                  |
+| **Task mapping file**         | [task-ph.txt](../datasets/ravel/task-ph.txt)                                 |
+| **OTU file** *gg97*           | [download](../datasets/hmp/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [download](../datasets/hmp/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [download](../datasets/ravel/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [download](../datasets/hmp/refseq/taxatable.txt)                  |
+

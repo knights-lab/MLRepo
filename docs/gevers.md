@@ -19,7 +19,7 @@
 | Targeted amplicon size | 173 |
 | Sequencing technology | Illumina MiSeq |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [https://qiita.ucsd.edu/download/33519](https://qiita.ucsd.edu/download/33519) |
-| Raw sequences | [https://qiita.ucsd.edu/download/33520](https://qiita.ucsd.edu/download/33520) |
-| Raw metadata file | [./datasets/gevers/mapping-orig.txt](./datasets/gevers/mapping-orig.txt) |
+| Processed sequences | [download](https://qiita.ucsd.edu/download/33519) |
+| Raw metadata file | [download](./datasets/gevers/mapping-orig.txt) |
+| Raw sequence source | [https://qiita.ucsd.edu/download/33520](https://qiita.ucsd.edu/download/33520) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/24629344](https://www.ncbi.nlm.nih.gov/pubmed/24629344) |
