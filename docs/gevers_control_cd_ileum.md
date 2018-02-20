@@ -1,9 +1,9 @@
-# [Gevers 2014]( ../docs/gevers.html )
+# Task: control vs cd, ileum
 ### Healthy controls and Crohn's Disease patients
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Gevers 2014]( ../docs/gevers.html )       |
 | **Topic area**                | IBD                                                |
 | **Sample type**               | ileal biopsies                                         |
 | **Number of samples**         | 140                                         |

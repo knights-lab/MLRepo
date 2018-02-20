@@ -1,9 +1,9 @@
-# [Cho 2012]( ../docs/cho.html )
+# Task: chlortetracycline vs control, cecal
 ### Five groups of mice treated with four different antibiotics or no antibiotics
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Cho 2012]( ../docs/cho.html )       |
 | **Topic area**                | Antibiotics                                                |
 | **Sample type**               | mouse cecal contents                                         |
 | **Number of samples**         | 47                                         |

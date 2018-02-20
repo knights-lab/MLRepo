@@ -1,10 +1,7 @@
 # Yatsunenko 2012
-
 ### Humans of varying ages from the USA, Malawi, and Venezuela
 
-## Project Overview
-
-|  |  |
+| Project Overview |  |
 | -------------: |-------------|
 | Description      | Humans of varying ages from the USA, Malawi, and Venezuela |
 | Study design | Cross-Sectional |
@@ -14,9 +11,8 @@
 | Number of samples | 531|
 | Number of subjects | 531|
 
-## Additional details
 
-|  |  |
+| Other Details |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |

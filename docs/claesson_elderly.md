@@ -1,9 +1,9 @@
-# [Claesson 2012]( ../docs/claesson.html )
+# Task: elderly vs young
 ### Elderly or young adults
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Claesson 2012]( ../docs/claesson.html )       |
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 167                                         |

@@ -1,9 +1,9 @@
-# [Yatsunenko 2012]( ../docs/yatsunenko.html )
+# Task: male vs female, usa
 ### Males and females from the US
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 129                                         |

@@ -1,9 +1,9 @@
-# [Yatsunenko 2012]( ../docs/yatsunenko.html )
+# Task: infant age
 ### Infants (up to Age 3) from the US
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 49                                         |

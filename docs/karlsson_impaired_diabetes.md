@@ -1,9 +1,9 @@
-# [Karlsson 2013]( ../docs/karlsson.html )
+# Task: impaired vs diabetes glucose tolerance
 ### Impaired or type 2 diabetes glucose tolerance categories
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Karlsson 2013]( ../docs/karlsson.html )       |
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 101                                         |

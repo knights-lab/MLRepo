@@ -1,9 +1,9 @@
-# [Ravel 2011]( ../docs/ravel.html )
+# Task: white vs black, vaginal
 ### Vaginal microbiomes of white and black women
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Ravel 2011]( ../docs/ravel.html )       |
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |
 | **Number of samples**         | 200                                         |

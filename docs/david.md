@@ -1,10 +1,7 @@
 # David 2014
-
 ### Plant-based vs. Animal-based diet, Cross-over study
 
-## Project Overview
-
-|  |  |
+| Project Overview |  |
 | -------------: |-------------|
 | Description      | Plant-based vs. Animal-based diet, Cross-over study |
 | Study design | Longitudinal |
@@ -14,9 +11,8 @@
 | Number of samples | 235|
 | Number of subjects | 11|
 
-## Additional details
 
-|  |  |
+| Other Details |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |

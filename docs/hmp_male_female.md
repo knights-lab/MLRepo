@@ -1,9 +1,9 @@
-# [HMP 2012]( ../docs/hmp.html )
+# Task: male vs female, stool
 ### Healthy male and female adults
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [HMP 2012]( ../docs/hmp.html )       |
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 180                                         |

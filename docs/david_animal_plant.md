@@ -1,9 +1,9 @@
-# [David 2014]( ../docs/david.html )
+# Task: animal vs plant diet, last diet day
 ### Individuals on the last day of an animal or plant diet intervention
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [David 2014]( ../docs/david.html )       |
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 18                                         |

@@ -1,9 +1,9 @@
-# [Qin 2012]( ../docs/qin2012.html )
+# Task: healthy vs type 2 diabetes
 ### Healthy or type 2 diabetes patients
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Qin 2012]( ../docs/qin2012.html )       |
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 124                                         |

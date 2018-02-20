@@ -1,9 +1,9 @@
-# [Qin 2014]( ../docs/qin2014.html )
+# Task: healthy vs cirrhosis
 ### Healthy or cirrhosis patients
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Qin 2014]( ../docs/qin2014.html )       |
 | **Topic area**                | Cirrhosis                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 130                                         |

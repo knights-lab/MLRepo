@@ -1,9 +1,9 @@
-# [Yatsunenko 2012]( ../docs/yatsunenko.html )
+# Task: malawi vs venezuela, adults only
 ### Individuals living in Malawi or Venezuela
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Geography                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 54                                         |

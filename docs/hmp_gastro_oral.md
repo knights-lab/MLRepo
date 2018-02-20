@@ -1,9 +1,9 @@
-# [HMP 2012]( ../docs/hmp.html )
+# Task: gastrointestinal vs oral
 ### Gastrointestinal tract and oral cavity of healthy adults
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [HMP 2012]( ../docs/hmp.html )       |
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | human stool, oral                                         |
 | **Number of samples**         | 2070                                         |

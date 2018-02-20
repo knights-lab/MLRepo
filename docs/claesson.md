@@ -1,10 +1,7 @@
 # Claesson 2012
-
 ### Elderly and young adults
 
-## Project Overview
-
-|  |  |
+| Project Overview |  |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |
@@ -14,9 +11,8 @@
 | Number of samples | 168|
 | Number of subjects | 168|
 
-## Additional details
 
-|  |  |
+| Other Details |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |

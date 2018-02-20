@@ -1,10 +1,7 @@
 # Morgan 2012
-
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
-## Project Overview
-
-|  |  |
+| Project Overview |  |
 | -------------: |-------------|
 | Description      | Healthy, Crohn's Disease, or Ulcerative Colitis patients |
 | Study design | Cross-Sectional |
@@ -14,9 +11,8 @@
 | Number of samples | 231|
 | Number of subjects | 231|
 
-## Additional details
 
-|  |  |
+| Other Details |  |
 | -------------: |-------------|
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |

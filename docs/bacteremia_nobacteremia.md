@@ -1,9 +1,9 @@
-# [Montassier 2016]( ../docs/bacteremia.html )
+# Task: bacteremia vs no bacteremia
 ### Patients prior to chemotherapy who did or did not develop bacteremia
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Montassier 2016]( ../docs/bacteremia.html )       |
 | **Topic area**                | Bacteremia                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 28                                         |

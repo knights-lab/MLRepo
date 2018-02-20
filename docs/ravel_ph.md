@@ -1,9 +1,9 @@
-# [Ravel 2011]( ../docs/ravel.html )
+# Task: ph, vaginal
 ### Predict pH from vaginal microbiome
 
-## Task Details
-
+| | |
 | ------------------------: |-----------------------------------------------------------|
+| **Project**           | [Ravel 2011]( ../docs/ravel.html )       |
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |
 | **Number of samples**         | 388                                         |
