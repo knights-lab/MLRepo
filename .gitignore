@@ -2,7 +2,5 @@
 localreadme.txt
 *.Rapp.history
 datasets/hmp/gg/otutable.txt
-
-*.pbs
-
+/preprocessing
 datasets.tar.gz
