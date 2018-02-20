@@ -2,8 +2,8 @@
 
 ### Up to 18 body sites across 242 healthy subjects at 1-2 time points
 
-### Project Overview
-
+## Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Up to 18 body sites across 242 healthy subjects at 1-2 time points |
 | Study design | Cross-Sectional |
@@ -13,8 +13,8 @@
 | Number of samples | 6407|
 | Number of subjects | 242|
 
-### Additional details
-
+## Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 527 |

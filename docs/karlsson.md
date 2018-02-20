@@ -2,8 +2,8 @@
 
 ### Patients with normal, impaired, or type 2 diabetes glucose tolerance categories
 
-### Project Overview
-
+## Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Patients with normal, impaired, or type 2 diabetes glucose tolerance categories |
 | Study design | Cross-Sectional |
@@ -13,8 +13,8 @@
 | Number of samples | 144|
 | Number of subjects | 144|
 
-### Additional details
-
+## Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | NA |
 | Targeted amplicon size | NA |
