@@ -2,8 +2,8 @@
 
 ### Humans of varying ages from the USA, Malawi, and Venezuela
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Humans of varying ages from the USA, Malawi, and Venezuela |
 | Study design | Cross-Sectional |

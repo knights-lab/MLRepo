@@ -2,8 +2,8 @@
 
 ### Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Mouse fecal and cecal samples, Control vs. 4 kinds of antibiotics |
 | Study design | Cross-Sectional |

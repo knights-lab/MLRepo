@@ -2,8 +2,8 @@
 
 ### Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis |
 | Study design | Cross-Sectional |

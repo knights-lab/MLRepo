@@ -2,8 +2,8 @@
 
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Healthy, Crohn's Disease, or Ulcerative Colitis patients |
 | Study design | Cross-Sectional |

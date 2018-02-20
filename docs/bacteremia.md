@@ -2,8 +2,8 @@
 
 ### Patients prior to chemotherapy who did or did not develop bacteremia
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Patients prior to chemotherapy who did or did not develop bacteremia |
 | Study design | Cross-Sectional |

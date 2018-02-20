@@ -2,8 +2,8 @@
 
 ### Plant-based vs. Animal-based diet, Cross-over study
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Plant-based vs. Animal-based diet, Cross-over study |
 | Study design | Longitudinal |

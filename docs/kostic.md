@@ -2,8 +2,8 @@
 
 ### Adjacent Healthy vs. Tumor Colon Biopsy Tissues
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
 | Study design | Paired |

@@ -2,8 +2,8 @@
 
 ### Controlled HighFat or LowFat feeding on 10 subjects over 10 days
 
-## Project Overview
-|  |  |
+
+| ## Project Overview |  |
 | -------------: |-------------|
 | Description      | Controlled HighFat or LowFat feeding on 10 subjects over 10 days |
 | Study design | Longitudinal |
