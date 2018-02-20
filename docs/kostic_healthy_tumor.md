@@ -11,8 +11,8 @@
 | **Task details**              | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
 | **>1 sample per subject**     | Y                                        |
 | **Task mapping file**         | [task.txt](../datasets/kostic/task.txt)                                 |
-| **OTU file** *gg97*           | [download](../datasets/kostic/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [download](../datasets/kostic/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [download](../datasets/kostic/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [download](../datasets/kostic/refseq/taxatable.txt)                  |
+| **OTU file** *gg97*           | [otutable.txt](../datasets/kostic/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [taxatable.txt](../datasets/kostic/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [otutable.txt](../datasets/kostic/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/kostic/refseq/taxatable.txt)                  |
 

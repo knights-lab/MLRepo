@@ -11,8 +11,8 @@
 | **Task details**              | Expected easy task                                  |
 | **>1 sample per subject**     | N                                        |
 | **Task mapping file**         | [task-white-black.txt](../datasets/ravel/task-white-black.txt)                                 |
-| **OTU file** *gg97*           | [download](../datasets/hmp/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [download](../datasets/hmp/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [download](../datasets/ravel/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [download](../datasets/hmp/refseq/taxatable.txt)                  |
+| **OTU file** *gg97*           | [otutable.txt](../datasets/hmp/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [otutable.txt](../datasets/ravel/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/hmp/refseq/taxatable.txt)                  |
 

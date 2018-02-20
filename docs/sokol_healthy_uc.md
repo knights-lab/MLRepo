@@ -11,8 +11,8 @@
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
 | **Task mapping file**         | [task-healthy-uc.txt](../datasets/sokol/task-healthy-uc.txt)                                 |
-| **OTU file** *gg97*           | [download](../datasets/sokol/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [download](../datasets/sokol/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [download](../datasets/sokol/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [download](../datasets/sokol/refseq/taxatable.txt)                  |
+| **OTU file** *gg97*           | [otutable.txt](../datasets/sokol/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [taxatable.txt](../datasets/sokol/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [otutable.txt](../datasets/sokol/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/sokol/refseq/taxatable.txt)                  |
 

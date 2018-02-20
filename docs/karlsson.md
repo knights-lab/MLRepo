@@ -19,7 +19,7 @@
 | Targeted amplicon size | NA |
 | Sequencing technology | Illumina HiSeq (shotgun) |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | [download](ON S3) |
-| Raw metadata file | [download](./datasets/karlsson/mapping-orig.txt) |
+| Processed sequences | [download fasta.gz](ON S3) |
+| Raw metadata file | [mapping-orig.txt](./datasets/karlsson/mapping-orig.txt) |
 | Raw sequence source | [http://www.ncbi.nlm.nih.gov/sra?term=ERP002469](http://www.ncbi.nlm.nih.gov/sra?term=ERP002469) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23719380](https://www.ncbi.nlm.nih.gov/pubmed/23719380) |

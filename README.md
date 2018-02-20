@@ -1,23 +1,22 @@
-### Machine Learning Repository for Microbiome Datasets
+## Machine Learning Repository for Microbiome Datasets
+Want all available task datasets? Download [here](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)
 
-# Tasks
-
-Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)
+## Available Tasks
 
 
-## Bacteremia
+### Bacteremia
 
 * [bacteremia vs no bacteremia](docs/bacteremia_nobacteremia.md)
 
 
-## Diet
+### Diet
 
 * [high fat vs low fat diet](docs/bushman_diet.md)
 
 * [animal vs plant diet, last diet day](docs/david_animal_plant.md)
 
 
-## Antibiotics
+### Antibiotics
 
 * [chlortetracycline vs control, cecal](docs/cho_control_ct_cecal.md)
 
@@ -28,14 +27,14 @@ Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/kni
 * [penicillin vs vancomycin, fecal](docs/cho_pen_vanc_fecal.md)
 
 
-## Age
+### Age
 
 * [elderly vs young](docs/claesson_elderly.md)
 
 * [infant age](docs/yatsunenko_infantage.md)
 
 
-## IBD
+### IBD
 
 * [control vs cd, ileum](docs/gevers_control_cd_ileum.md)
 
@@ -50,14 +49,14 @@ Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/kni
 * [healthy vs uc, stool](docs/sokol_healthy_uc.md)
 
 
-## Gender
+### Gender
 
 * [male vs female, stool](docs/hmp_male_female.md)
 
 * [male vs female, usa](docs/yatsunenko_male_female.md)
 
 
-## Vaginal
+### Vaginal
 
 * [white vs black, vaginal](docs/ravel_white_black.md)
 
@@ -70,14 +69,14 @@ Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/kni
 * [ph, vaginal](docs/ravel_ph.md)
 
 
-## Geography
+### Geography
 
 * [malawi vs venezuela, adults only](docs/yatsunenko_malawi_venezuela.md)
 
 * [us vs malawi, adults only](docs/yatsunenko_us_malawi.md)
 
 
-## Body Habitat
+### Body Habitat
 
 * [gastrointestinal vs oral](docs/hmp_gastro_oral.md)
 
@@ -86,17 +85,17 @@ Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/kni
 * [subgingival vs supragingival plaque](docs/hmp_sub_supra.md)
 
 
-## Cancer
+### Cancer
 
 * [healthy vs tumor biopsy, paired](docs/kostic_healthy_tumor.md)
 
 
-## Obesity
+### Obesity
 
 * [lean vs obese, mz/dz/mom](docs/turnbaugh_lean_obese_all.md)
 
 
-## Diabetes
+### Diabetes
 
 * [normal vs diabetes glucose tolerance](docs/karlsson_normal_diabetes.md)
 
@@ -105,7 +104,7 @@ Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/kni
 * [healthy vs type 2 diabetes](docs/qin_healthy_diabetes.md)
 
 
-## Cirrhosis
+### Cirrhosis
 
 * [healthy vs cirrhosis](docs/qin_healthy_cirrhosis.md)
 

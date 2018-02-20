@@ -11,8 +11,8 @@
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
 | **Task mapping file**         | [task-control-ct-cecal.txt](../datasets/cho/task-control-ct-cecal.txt)                                 |
-| **OTU file** *gg97*           | [download](../datasets/cho/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [download](../datasets/cho/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [download](../datasets/cho/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [download](../datasets/cho/refseq/taxatable.txt)                  |
+| **OTU file** *gg97*           | [otutable.txt](../datasets/cho/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [otutable.txt](../datasets/cho/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/cho/refseq/taxatable.txt)                  |
 

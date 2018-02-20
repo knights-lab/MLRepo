@@ -11,8 +11,8 @@
 | **Task details**              |                                   |
 | **>1 sample per subject**     | N                                        |
 | **Task mapping file**         | [task.txt](../datasets/bacteremia/task.txt)                                 |
-| **OTU file** *gg97*           | [download](../datasets/bacteremia/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [download](../datasets/bacteremia/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [download](../datasets/bacteremia/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [download](../datasets/bacteremia/refseq/taxatable.txt)                  |
+| **OTU file** *gg97*           | [otutable.txt](../datasets/bacteremia/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [taxatable.txt](../datasets/bacteremia/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [otutable.txt](../datasets/bacteremia/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/bacteremia/refseq/taxatable.txt)                  |
 

@@ -11,8 +11,8 @@
 | **Task details**              | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
 | **>1 sample per subject**     | N                                        |
 | **Task mapping file**         | [task.txt](../datasets/bushman_cafe/task.txt)                                 |
-| **OTU file** *gg97*           | [download](../datasets/bushman_cafe/gg/otutable.txt)                             |
-| **Taxa file** *gg97*          | [download](../datasets/bushman_cafe/gg/taxatable.txt)                          |
-| **OTU file** *RefSeq*         | [download](../datasets/bushman_cafe/refseq/otutable.txt)                    |
-| **Taxa file** *RefSeq*        | [download](../datasets/bushman_cafe/refseq/taxatable.txt)                  |
+| **OTU file** *gg97*           | [otutable.txt](../datasets/bushman_cafe/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [taxatable.txt](../datasets/bushman_cafe/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [otutable.txt](../datasets/bushman_cafe/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/bushman_cafe/refseq/taxatable.txt)                  |
 
