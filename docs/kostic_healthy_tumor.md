@@ -2,7 +2,7 @@
 ### Colorectal carcinoma tumors and adjacent nonaffected tissues
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Cancer                                                |
 | **Sample type**               | colon biopsies                                         |

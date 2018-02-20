@@ -2,7 +2,7 @@
 ### Healthy male and female adults
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |

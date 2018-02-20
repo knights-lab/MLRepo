@@ -2,7 +2,7 @@
 ### Individuals on the last day of an animal or plant diet intervention
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |

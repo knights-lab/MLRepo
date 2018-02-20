@@ -2,7 +2,7 @@
 ### Predict pH from vaginal microbiome
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |

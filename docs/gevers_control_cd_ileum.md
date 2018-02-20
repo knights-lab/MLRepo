@@ -2,7 +2,7 @@
 ### Healthy controls and Crohn's Disease patients
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | ileal biopsies                                         |

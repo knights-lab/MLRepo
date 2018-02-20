@@ -2,7 +2,7 @@
 ### Stool and tongue of healthy adults
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | human stool, oral                                         |

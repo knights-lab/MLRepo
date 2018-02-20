@@ -2,7 +2,7 @@
 ### Lean or Obese individuals (monozygotic or dyzygotic twins or their mothers)
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Obesity                                                |
 | **Sample type**               | human stool                                         |

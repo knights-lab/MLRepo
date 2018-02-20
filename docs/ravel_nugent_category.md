@@ -2,7 +2,7 @@
 ### Predict nugent score category (low, high) from vaginal microbiome
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |

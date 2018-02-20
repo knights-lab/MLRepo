@@ -2,7 +2,7 @@
 ### Infants (up to Age 3) from the US
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |

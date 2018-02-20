@@ -2,7 +2,7 @@
 ### Elderly or young adults
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |

@@ -2,7 +2,7 @@
 ### Males and females from the US
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |

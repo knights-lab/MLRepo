@@ -2,7 +2,7 @@
 ### Normal or type 2 diabetes glucose tolerance categories
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |

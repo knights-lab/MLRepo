@@ -2,7 +2,7 @@
 ### Healthy or type 2 diabetes patients
 
 ### Task Details
-|  |  |
+| placeholder               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
