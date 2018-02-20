@@ -2,6 +2,7 @@
 ### Predict pH from vaginal microbiome
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/ravel/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/hmp/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

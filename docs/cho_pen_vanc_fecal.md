@@ -2,6 +2,7 @@
 ### Five groups of mice treated with four different antibiotics or no antibiotics
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Antibiotics                                                |
 | **Sample type**               | mouse pellets                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/cho/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/cho/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

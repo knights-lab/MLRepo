@@ -2,6 +2,7 @@
 ### Individuals on the last day of an animal or plant diet intervention
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/david/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/david/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/david/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

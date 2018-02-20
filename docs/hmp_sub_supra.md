@@ -2,6 +2,7 @@
 ### Subgingival and supragingival plague of healthy adults
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | oral                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/hmp/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/hmp/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

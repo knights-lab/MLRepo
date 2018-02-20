@@ -2,6 +2,7 @@
 ### Colorectal carcinoma tumors and adjacent nonaffected tissues
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Cancer                                                |
 | **Sample type**               | colon biopsies                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/kostic/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/kostic/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/kostic/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

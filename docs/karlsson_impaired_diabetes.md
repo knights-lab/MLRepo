@@ -2,6 +2,7 @@
 ### Impaired or type 2 diabetes glucose tolerance categories
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](.NA)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/karlsson/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/karlsson/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

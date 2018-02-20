@@ -2,6 +2,7 @@
 ### Patients prior to chemotherapy who did or did not develop bacteremia
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Bacteremia                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/bacteremia/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/bacteremia/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/bacteremia/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

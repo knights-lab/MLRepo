@@ -2,6 +2,7 @@
 ### Infants (up to Age 3) from the US
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/yatsunenko/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/yatsunenko/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/yatsunenko/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

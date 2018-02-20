@@ -2,6 +2,7 @@
 ### Elderly or young adults
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/claesson/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/claesson/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/claesson/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

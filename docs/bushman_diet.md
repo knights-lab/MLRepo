@@ -2,6 +2,7 @@
 ### Individuals after completing a high fat or low fat diet intervention
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/bushman_cafe/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/bushman_cafe/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/bushman_cafe/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

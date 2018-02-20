@@ -2,6 +2,7 @@
 ### Healthy or type 2 diabetes patients
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](.NA)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/qin2012/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/qin2012/taxatable.txt)                  |
-
 
 [back to task index](../README.md)

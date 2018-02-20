@@ -2,6 +2,7 @@
 ### Lean or Obese individuals (monozygotic or dyzygotic twins or their mothers)
 
 ## Task Details
+
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Obesity                                                |
 | **Sample type**               | human stool                                         |
@@ -14,6 +15,5 @@
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/turnbaugh/gg/taxatable.txt)                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/turnbaugh/refseq/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/turnbaugh/refseq/taxatable.txt)                  |
-
 
 [back to task index](../README.md)
