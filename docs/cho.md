@@ -23,3 +23,5 @@
 | Raw metadata file | [mapping-orig.txt](./datasets/cho/mapping-orig.txt) |
 | Raw sequence source | [https://www.ncbi.nlm.nih.gov/bioproject/168618](https://www.ncbi.nlm.nih.gov/bioproject/168618) |
 | Literature source | [http://www.ncbi.nlm.nih.gov/pubmed/22914093](http://www.ncbi.nlm.nih.gov/pubmed/22914093) |
+
+[back to task index](../README.md)

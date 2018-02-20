@@ -23,3 +23,5 @@
 | Raw metadata file | [mapping-orig.txt](./datasets/yatsunenko/mapping-orig.txt) |
 | Raw sequence source | [http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401](http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401) |
 | Literature source | [http://www.ncbi.nlm.nih.gov/pubmed/22699611](http://www.ncbi.nlm.nih.gov/pubmed/22699611) |
+
+[back to task index](../README.md)

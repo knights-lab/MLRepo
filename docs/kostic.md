@@ -23,3 +23,5 @@
 | Raw metadata file | [mapping-orig.txt](./datasets/kostic/mapping-orig.txt) |
 | Raw sequence source | [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22009990](https://www.ncbi.nlm.nih.gov/pubmed/22009990) |
+
+[back to task index](../README.md)

@@ -23,3 +23,5 @@
 | Raw metadata file | [mapping-orig.txt](./datasets/sokol/mapping-orig.txt) |
 | Raw sequence source | [https://www.ncbi.nlm.nih.gov/bioproject/82111](https://www.ncbi.nlm.nih.gov/bioproject/82111) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23013615](https://www.ncbi.nlm.nih.gov/pubmed/23013615) |
+
+[back to task index](../README.md)

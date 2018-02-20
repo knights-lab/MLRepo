@@ -23,3 +23,5 @@
 | Raw metadata file | [mapping-orig.txt](./datasets/claesson/mapping-orig.txt) |
 | Raw sequence source | [https://qiita.ucsd.edu/download/13268](https://qiita.ucsd.edu/download/13268) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22797518](https://www.ncbi.nlm.nih.gov/pubmed/22797518) |
+
+[back to task index](../README.md)
