@@ -2,6 +2,7 @@
 ### Five groups of mice treated with four different antibiotics or no antibiotics
 
 ## Task Details
+| ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Antibiotics                                                |
 | **Sample type**               | mouse pellets                                         |
 | **Number of samples**         | 45                                         |
