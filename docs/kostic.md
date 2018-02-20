@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
 | Study design | Paired |
@@ -14,6 +15,7 @@
 | Number of subjects | 95|
 
 ### Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |

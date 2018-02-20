@@ -2,6 +2,7 @@
 ### Individuals living in Malawi or Venezuela
 
 ### Task Details
+|  |  |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Geography                                                |
 | **Sample type**               | human stool                                         |

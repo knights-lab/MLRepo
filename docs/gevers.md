@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Biopsies from IBD patients prior to treatment |
 | Study design | Cross-Sectional |
@@ -14,6 +15,7 @@
 | Number of subjects | 668|
 
 ### Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 173 |

@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |
@@ -14,6 +15,7 @@
 | Number of subjects | 168|
 
 ### Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |

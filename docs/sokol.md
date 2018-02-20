@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Healthy, Crohn's Disease, or Ulcerative Colitis patients |
 | Study design | Cross-Sectional |
@@ -14,6 +15,7 @@
 | Number of subjects | 231|
 
 ### Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |

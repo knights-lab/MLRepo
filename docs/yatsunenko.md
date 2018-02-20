@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Humans of varying ages from the USA, Malawi, and Venezuela |
 | Study design | Cross-Sectional |
@@ -14,6 +15,7 @@
 | Number of subjects | 531|
 
 ### Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |

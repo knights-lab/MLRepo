@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+|  |  |
 | -------------: |-------------|
 | Description      | Patients prior to chemotherapy who did or did not develop bacteremia |
 | Study design | Cross-Sectional |
@@ -14,6 +15,7 @@
 | Number of subjects | 28|
 
 ### Additional details
+|  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V56 |
 | Targeted amplicon size | 280 |

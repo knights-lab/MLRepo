@@ -2,6 +2,7 @@
 ### Healthy or cirrhosis patients
 
 ### Task Details
+|  |  |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Cirrhosis                                                |
 | **Sample type**               | human stool                                         |

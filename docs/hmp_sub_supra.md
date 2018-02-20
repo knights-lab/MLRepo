@@ -2,6 +2,7 @@
 ### Subgingival and supragingival plague of healthy adults
 
 ### Task Details
+|  |  |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | oral                                         |
