@@ -3,7 +3,6 @@
 
 ### Task Details
 
-| placeholder2               |                                                             |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Body Habitat                                                |
 | **Sample type**               | oral                                         |
