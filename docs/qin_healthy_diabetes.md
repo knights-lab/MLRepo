@@ -1,8 +1,9 @@
 # [Qin 2012]( ../docs/qin2012.html )
 ### Healthy or type 2 diabetes patients
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |

@@ -1,8 +1,9 @@
 # [Gevers 2014]( ../docs/gevers.html )
 ### Healthy controls and Crohn's Disease patients
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | rectal biopsies                                         |

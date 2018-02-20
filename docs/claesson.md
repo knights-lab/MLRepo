@@ -2,8 +2,9 @@
 
 ### Elderly and young adults
 
+## Project Overview
 
-| ## Project Overview |  |
+|  |  |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |
@@ -14,6 +15,7 @@
 | Number of subjects | 168|
 
 ## Additional details
+
 |  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |

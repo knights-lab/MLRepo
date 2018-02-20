@@ -1,8 +1,9 @@
 # [Ravel 2011]( ../docs/ravel.html )
 ### Vaginal microbiomes of white and black women
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Vaginal                                                |
 | **Sample type**               | vaginal swab                                         |

@@ -1,8 +1,9 @@
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
 ### Individuals living in Malawi or Venezuela
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Geography                                                |
 | **Sample type**               | human stool                                         |

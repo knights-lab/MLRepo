@@ -1,8 +1,9 @@
 # [Turnbaugh 2009]( ../docs/turnbaugh_twins.html )
 ### Lean or Obese individuals (monozygotic or dyzygotic twins or their mothers)
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Obesity                                                |
 | **Sample type**               | human stool                                         |

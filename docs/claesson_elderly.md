@@ -1,8 +1,9 @@
 # [Claesson 2012]( ../docs/claesson.html )
 ### Elderly or young adults
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Age                                                |
 | **Sample type**               | human stool                                         |

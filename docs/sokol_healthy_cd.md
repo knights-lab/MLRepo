@@ -1,8 +1,9 @@
 # [Morgan 2012]( ../docs/sokol.html )
 ### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | human stool                                         |

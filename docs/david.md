@@ -2,8 +2,9 @@
 
 ### Plant-based vs. Animal-based diet, Cross-over study
 
+## Project Overview
 
-| ## Project Overview |  |
+|  |  |
 | -------------: |-------------|
 | Description      | Plant-based vs. Animal-based diet, Cross-over study |
 | Study design | Longitudinal |
@@ -14,6 +15,7 @@
 | Number of subjects | 11|
 
 ## Additional details
+
 |  |  |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |

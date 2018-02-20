@@ -1,8 +1,9 @@
 # [Wu 2011]( ../docs/bushman_cafe.html )
 ### Individuals after completing a high fat or low fat diet intervention
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |

@@ -1,8 +1,9 @@
 # [HMP 2012]( ../docs/hmp.html )
 ### Healthy male and female adults
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |

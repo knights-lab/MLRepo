@@ -1,8 +1,9 @@
 # [Gevers 2014]( ../docs/gevers.html )
 ### PCDAI scores of CD patients at 6 months post sampling
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | IBD                                                |
 | **Sample type**               | rectal biopsies                                         |

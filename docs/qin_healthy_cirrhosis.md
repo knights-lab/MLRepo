@@ -1,8 +1,9 @@
 # [Qin 2014]( ../docs/qin2014.html )
 ### Healthy or cirrhosis patients
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Cirrhosis                                                |
 | **Sample type**               | human stool                                         |

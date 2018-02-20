@@ -1,8 +1,9 @@
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
 ### Males and females from the US
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Gender                                                |
 | **Sample type**               | human stool                                         |

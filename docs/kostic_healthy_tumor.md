@@ -1,8 +1,9 @@
 # [Kostic 2012]( ../docs/kostic.html )
 ### Colorectal carcinoma tumors and adjacent nonaffected tissues
 
-### Task Details
+## Task Details
 
+| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic area**                | Cancer                                                |
 | **Sample type**               | colon biopsies                                         |
