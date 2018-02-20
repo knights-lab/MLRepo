@@ -7,12 +7,12 @@
 | **Topic Area**                | Body Habitat                                                |
 | **Number of samples**         | 404                                         |
 | **Sample Type**               | human stool, oral                                         |
-| **Data Type**                 | Categorical                                           |
+| **Data Type**                 | binary                                           |
 | **Group Variables**           | HMPBODYSUBSITE: Stool, Tongue_dorsum; HOST_SUBJECT_ID                                          |
 | **Subset Details**            | Samples collected from paired locations by HOST_SUBJECT_ID                                  |
 | **Notes**                     |                                          |
-| **Mapping File**              | [mapping-stool-tongue-paired.txt]( ../datasets/hmp/mapping-stool-tongue-paired.txt)        |
-| **OTU File** *gg97*           | [gg/otutable.txt.zip]( ../datasets/hmp/gg/otutable.txt.zip)          |
-| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/hmp/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/hmp/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/hmp/refseq/taxatable.txt)|
+| **Mapping File**              | [./datasets/hmp/task-stool-tongue-paired.txt]( ../datasets/hmp/./datasets/hmp/task-stool-tongue-paired.txt)        |
+| **OTU File** *gg97*           | [./datasets/hmp/refseq/otutable.txt]( ../datasets/hmp/./datasets/hmp/refseq/otutable.txt)          |
+| **Taxa File** *gg97*          | [./datasets/hmp/refseq/taxatable.txt]( ../datasets/hmp/./datasets/hmp/refseq/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [./datasets/hmp/gg/otutable.txt]( ../datasets/hmp/./datasets/hmp/gg/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [./datasets/hmp/gg/taxatable.txt]( ../datasets/hmp/./datasets/hmp/gg/taxatable.txt)|

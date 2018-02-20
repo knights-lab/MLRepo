@@ -1,21 +1,21 @@
 # Kostic 2012
 
-### Adjacent Healthy vs. Tumor Colon Biopsy Tissues
+### Categorical
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
-| Study design | Paired |
-| Topic Area | Colorectal Cancer|
-| Attributes | DIAGNOSIS: Healthy, Tumor|
-| Dataset Notes | Samples are paired per person
+| Description      | Categorical |
+| Study design | https://www.ncbi.nlm.nih.gov/pubmed/22009990 |
+| Topic Area | 95|
+| Attributes | Colorectal Cancer|
+| Dataset Notes | 190
 
 ### Additional details
 
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |
-| Sequencing Technology | 454 |
+| Sequencing Technology |  |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | [https://qiita.ucsd.edu/ 1457](https://qiita.ucsd.edu/ 1457) |
-| Literature Source | [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266036/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266036/) |
+| Raw Sequences | [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383) |
+| Literature Source | [Adjacent Healthy vs. Tumor Colon Biopsy Tissues](Adjacent Healthy vs. Tumor Colon Biopsy Tissues) |

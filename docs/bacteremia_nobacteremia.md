@@ -7,12 +7,12 @@
 | **Topic Area**                | Bacteremia                                                |
 | **Number of samples**         | 28                                         |
 | **Sample Type**               | human stool                                         |
-| **Data Type**                 | Categorical                                           |
+| **Data Type**                 | binary                                           |
 | **Group Variables**           | Treatment: bact, NObact                                          |
 | **Subset Details**            |                                   |
 | **Notes**                     |                                          |
-| **Mapping File**              | [mapping.txt]( ../datasets/bacteremia/mapping.txt)        |
-| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/bacteremia/gg/otutable.txt)          |
-| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/bacteremia/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/bacteremia/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/bacteremia/refseq/taxatable.txt)|
+| **Mapping File**              | [./datasets/bacteremia/task.txt]( ../datasets/bacteremia/./datasets/bacteremia/task.txt)        |
+| **OTU File** *gg97*           | [./datasets/bacteremia/refseq/otutable.txt]( ../datasets/bacteremia/./datasets/bacteremia/refseq/otutable.txt)          |
+| **Taxa File** *gg97*          | [./datasets/bacteremia/refseq/taxatable.txt]( ../datasets/bacteremia/./datasets/bacteremia/refseq/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [./datasets/bacteremia/gg/otutable.txt]( ../datasets/bacteremia/./datasets/bacteremia/gg/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [./datasets/bacteremia/gg/taxatable.txt]( ../datasets/bacteremia/./datasets/bacteremia/gg/taxatable.txt)|

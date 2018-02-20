@@ -1,21 +1,21 @@
 # Yatsunenko 2012
 
-### Humans of varying ages from the USA, Malwai, and Venezuela
+### Categorical, Continuous
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Humans of varying ages from the USA, Malwai, and Venezuela |
-| Study design | Cross-Sectional |
-| Topic Area | Geography, Age, Gender|
-| Attributes | COUNTRY: GAZ:Venezuela, GAZ:United States of America, GAZ:Malawi; AGE: continuous|
-| Dataset Notes | Infants should be analyzed separately from non-infants
+| Description      | Categorical, Continuous |
+| Study design | http://www.ncbi.nlm.nih.gov/pubmed/22699611 |
+| Topic Area | 531|
+| Attributes | Geography, Age, Gender|
+| Dataset Notes | 531
 
 ### Additional details
 
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |
-| Sequencing Technology | Illumina |
+| Sequencing Technology |  |
 | Fraction of sequences mapped to database |  |
 | Raw Sequences | [http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401](http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401) |
-| Literature Source | [http://www.ncbi.nlm.nih.gov/pubmed/22699611](http://www.ncbi.nlm.nih.gov/pubmed/22699611) |
+| Literature Source | [Humans of varying ages from the USA, Malawi, and Venezuela](Humans of varying ages from the USA, Malawi, and Venezuela) |

@@ -1,21 +1,21 @@
 # Gevers 2014
 
-### Biopsies from IBD patients prior to treatment
+### Categorical
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Biopsies from IBD patients prior to treatment |
-| Study design | Cross-Sectional |
-| Topic Area | IBD|
-| Attributes | DIAGNOSIS: no, IC, CD, UC; BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum;|
-| Dataset Notes | 
+| Description      | Categorical |
+| Study design | https://www.ncbi.nlm.nih.gov/pubmed/24629344 |
+| Topic Area | 668|
+| Attributes | IBD|
+| Dataset Notes | 1321
 
 ### Additional details
 
 | 16s hypervariable region | V4 |
-| Targeted amplicon size | 282 |
-| Sequencing Technology | Illumina |
+| Targeted amplicon size | 173 |
+| Sequencing Technology |  |
 | Fraction of sequences mapped to database |  |
-| Raw Sequences | [https://qiita.ucsd.edu/ 1939](https://qiita.ucsd.edu/ 1939) |
-| Literature Source | [https://www.ncbi.nlm.nih.gov/pubmed/24629344](https://www.ncbi.nlm.nih.gov/pubmed/24629344) |
+| Raw Sequences | [https://qiita.ucsd.edu/download/33520](https://qiita.ucsd.edu/download/33520) |
+| Literature Source | [Biopsies from IBD patients prior to treatment](Biopsies from IBD patients prior to treatment) |

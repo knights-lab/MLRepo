@@ -1,18 +1,18 @@
-### male vs female, USA
+### male vs female, usa
 # [Yatsunenko 2012]( ../docs/yatsunenko.html )
 ### Males and females from the US
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic Area**                | Gender                                                |
-| **Number of samples**         | 255                                         |
+| **Number of samples**         | 129                                         |
 | **Sample Type**               | human stool                                         |
-| **Data Type**                 | Categorical                                           |
+| **Data Type**                 | binary                                           |
 | **Group Variables**           | SEX: male, female                                          |
-| **Subset Details**            | Individuals are older than age 3, and are all living in the US                                  |
+| **Subset Details**            | Individuals are older than age 18, and are all living in the US                                  |
 | **Notes**                     |                                          |
-| **Mapping File**              | [mapping-sex.txt]( ../datasets/yatsunenko/mapping-sex.txt)        |
-| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/yatsunenko/gg/otutable.txt)          |
-| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/yatsunenko/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/yatsunenko/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/yatsunenko/refseq/taxatable.txt)|
+| **Mapping File**              | [./datasets/yatsunenko/task-sex.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/task-sex.txt)        |
+| **OTU File** *gg97*           | [./datasets/yatsunenko/refseq/otutable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/refseq/otutable.txt)          |
+| **Taxa File** *gg97*          | [./datasets/yatsunenko/refseq/taxatable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/refseq/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [./datasets/yatsunenko/gg/otutable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/gg/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [./datasets/yatsunenko/gg/taxatable.txt]( ../datasets/yatsunenko/./datasets/yatsunenko/gg/taxatable.txt)|

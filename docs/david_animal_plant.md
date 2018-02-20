@@ -1,18 +1,18 @@
-### animal vs plant diet, day 5
+### animal vs plant diet, last diet day
 # [David 2014]( ../docs/david.html )
-### Individuals after completing an animal or plant diet intervention
+### Individuals on the last day of an animal or plant diet intervention
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
 | **Topic Area**                | Diet                                                |
 | **Number of samples**         | 18                                         |
 | **Sample Type**               | human stool                                         |
-| **Data Type**                 | Categorical                                           |
+| **Data Type**                 | binary                                           |
 | **Group Variables**           | Diet: Plant, Animal                                          |
-| **Subset Details**            | Cross over design? Subset by day (e.g. Day == 4), control for SubjectFood (subject ID), ignore food samples                                  |
+| **Subset Details**            | Baseline on days -4-0, diet on days 0-4, washout on 4-10                                  |
 | **Notes**                     |                                          |
-| **Mapping File**              | [mapping.txt]( ../datasets/david/mapping.txt)        |
-| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/david/gg/otutable.txt)          |
-| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/david/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/david/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/david/refseq/taxatable.txt)|
+| **Mapping File**              | [./datasets/david/task.txt]( ../datasets/david/./datasets/david/task.txt)        |
+| **OTU File** *gg97*           | [./datasets/david/refseq/otutable.txt]( ../datasets/david/./datasets/david/refseq/otutable.txt)          |
+| **Taxa File** *gg97*          | [./datasets/david/refseq/taxatable.txt]( ../datasets/david/./datasets/david/refseq/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [./datasets/david/gg/otutable.txt]( ../datasets/david/./datasets/david/gg/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [./datasets/david/gg/taxatable.txt]( ../datasets/david/./datasets/david/gg/taxatable.txt)|

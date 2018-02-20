@@ -3,45 +3,76 @@
 # Available Tasks
 
 
-## Antibiotics
+## Bacteremia
 
-* [Chlortetracycline vs Control vs Penicillin vs Vancomycin vs VancomycinPenicillin, cecal](docs/cho_antibiotics_cecal.md)
-
-* [Chlortetracycline vs Control vs Penicillin vs Vancomycin vs VancomycinPenicillin, fecal](docs/cho_antibiotics_fecal.md)
-
-
-## Age
-
-* [Elderly vs Young](docs/claesson_elderly.md)
-
-* [Infant Age](docs/yatsunenko_infantage.md)
+* [bacteremia vs no bacteremia](docs/bacteremia_nobacteremia.md)
 
 
 ## Diet
 
-* [animal vs plant diet, day 5](docs/david_animal_plant.md)
+* [high fat vs low fat diet](docs/bushman_diet.md)
 
-* [highfat vs lowfat diet](docs/bushman_diet.md)
+* [animal vs plant diet, last diet day](docs/david_animal_plant.md)
+
+
+## Antibiotics
+
+* [chlortetracycline vs control, cecal](docs/cho_control_ct_cecal.md)
+
+* [chlortetracycline vs control, fecal](docs/cho_control_ct_fecal.md)
+
+* [penicillin vs vancomycin, cecal](docs/cho_pen_vanc_cecal.md)
+
+* [penicillin vs vancomycin, fecal](docs/cho_pen_vanc_fecal.md)
+
+
+## Age
+
+* [elderly vs young](docs/claesson_elderly.md)
+
+* [infant age](docs/yatsunenko_infantage.md)
 
 
 ## IBD
 
-* [control vs CD, rectum](docs/gevers_control_cd_rectum.md)
+* [control vs cd, ileum](docs/gevers_control_cd_ileum.md)
 
-* [control vs CD, ileum](docs/gevers_control_cd_ileum.md)
+* [control vs cd, rectum](docs/gevers_control_cd_rectum.md)
 
-* [PCDAI using baseline CD rectum](docs/gevers_pcdai_rectum.md)
+* [pcdai using baseline cd ileum](docs/gevers_pcdai_ileum.md)
 
-* [PCDAI using baseline CD ileum](docs/gevers_pcdai_ileum.md)
+* [pcdai using baseline cd rectum](docs/gevers_pcdai_rectum.md)
 
-* [healthy vs CD vs UC, stool](docs/sokol_healthy_cd_uc.md)
+* [healthy vs cd, stool](docs/sokol_healthy_cd.md)
+
+* [healthy vs uc, stool](docs/sokol_healthy_uc.md)
 
 
 ## Gender
 
 * [male vs female, stool](docs/hmp_male_female.md)
 
-* [male vs female, USA](docs/yatsunenko_male_female.md)
+* [male vs female, usa](docs/yatsunenko_male_female.md)
+
+
+## Vaginal
+
+* [white vs black, vaginal](docs/ravel_white_black.md)
+
+* [black vs hispanic, vaginal](docs/ravel_black_hispanic.md)
+
+* [low vs high nugent category](docs/ravel_nugent_category.md)
+
+* [nugent score](docs/ravel_nugent_score.md)
+
+* [ph, vaginal](docs/ravel_ph.md)
+
+
+## Geography
+
+* [malawi vs venezuela, adults only](docs/yatsunenko_malawi_venezuela.md)
+
+* [us vs malawi, adults only](docs/yatsunenko_us_malawi.md)
 
 
 ## Body Habitat
@@ -50,29 +81,34 @@
 
 * [stool vs tongue](docs/hmp_stool_tongue.md)
 
-* [sub plaque vs supra plaque](docs/hmp_sub_supra.md)
+* [subgingival vs supragingival plaque](docs/hmp_sub_supra.md)
 
 
 ## Cancer
 
-* [healthy vs tumor, paired](docs/kostic_healthy_tumor.md)
-
-
-## Bacteremia
-
-* [bacteremia vs no bacteremia](docs/bacteremia_nobacteremia.md)
+* [healthy vs tumor biopsy, paired](docs/kostic_healthy_tumor.md)
 
 
 ## Obesity
 
-* [Lean vs Obese, MZ/DZ/Mom](docs/turnbaugh_lean_obese_all.md)
-
-* [Lean vs Obese, MZ only](docs/turnbaugh_lean_obese_mz.md)
+* [lean vs obese, mz/dz/mom](docs/turnbaugh_lean_obese_all.md)
 
 
-## Geography
+## Diabetes
 
-* [US vs Malawi, adults only](docs/yatsunenko_us_malawi.md)
+* [normal vs diabetes glucose tolerance](docs/karlsson_normal_diabetes.md)
 
-* [Malawi vs Venezuela, adults only](docs/yatsunenko_malawi_venezuela.md)
+* [impaired vs diabetes glucose tolerance](docs/karlsson_impaired_diabetes.md)
+
+* [healthy vs type 2 diabetes](docs/qin_healthy_diabetes.md)
+
+
+## Cirrhosis
+
+* [healthy vs cirrhosis](docs/qin_healthy_cirrhosis.md)
+
+
+## 
+
+* [](docs/.md)
 

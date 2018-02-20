@@ -1,4 +1,4 @@
-### control vs CD, ileum
+### control vs cd, ileum
 # [Gevers 2014]( ../docs/gevers.html )
 ### Healthy controls and Crohn's Disease patients
 
@@ -7,12 +7,12 @@
 | **Topic Area**                | IBD                                                |
 | **Number of samples**         | 140                                         |
 | **Sample Type**               | ileal biopsies                                         |
-| **Data Type**                 | Categorical                                           |
+| **Data Type**                 | binary                                           |
 | **Group Variables**           | DIAGNOSIS: no, CD                                          |
 | **Subset Details**            | Samples represent those from the RISK collection only, and individuals without immunosuppression and not taking steroids; representative samples per site per person chosen arbitrarily                                  |
 | **Notes**                     |                                          |
-| **Mapping File**              | [mapping-ileum.txt]( ../datasets/gevers/mapping-ileum.txt)        |
-| **OTU File** *gg97*           | [gg/otutable.txt]( ../datasets/gevers/gg/otutable.txt)          |
-| **Taxa File** *gg97*          | [gg/taxatable.txt]( ../datasets/gevers/gg/taxatable.txt)        |
-| **OTU File** *RefSeq*         | [refseq/otutable.txt]( ../datasets/gevers/refseq/otutable.txt)  |
-| **Taxa File** *RefSeq*        | [refseq/taxatable.txt]( ../datasets/gevers/refseq/taxatable.txt)|
+| **Mapping File**              | [./datasets/gevers/task-ileum.txt]( ../datasets/gevers/./datasets/gevers/task-ileum.txt)        |
+| **OTU File** *gg97*           | [./datasets/gevers/refseq/otutable.txt]( ../datasets/gevers/./datasets/gevers/refseq/otutable.txt)          |
+| **Taxa File** *gg97*          | [./datasets/gevers/refseq/taxatable.txt]( ../datasets/gevers/./datasets/gevers/refseq/taxatable.txt)        |
+| **OTU File** *RefSeq*         | [./datasets/gevers/gg/otutable.txt]( ../datasets/gevers/./datasets/gevers/gg/otutable.txt)  |
+| **Taxa File** *RefSeq*        | [./datasets/gevers/gg/taxatable.txt]( ../datasets/gevers/./datasets/gevers/gg/taxatable.txt)|

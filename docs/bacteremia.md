@@ -1,21 +1,21 @@
 # Montassier 2016
 
-### Patients prior to chemotherapy who did or did not develop bacteremia
+### Categorical
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Patients prior to chemotherapy who did or did not develop bacteremia |
-| Study design | Cross-Sectional |
-| Topic Area | Bacteremia|
-| Attributes | Treatment: NObact, bact|
-| Dataset Notes | 
+| Description      | Categorical |
+| Study design | https://www.ncbi.nlm.nih.gov/pubmed/27121964 |
+| Topic Area | 28|
+| Attributes | Bacteremia|
+| Dataset Notes | 28
 
 ### Additional details
 
 | 16s hypervariable region | V56 |
 | Targeted amplicon size | 280 |
-| Sequencing Technology | 454 |
+| Sequencing Technology |  |
 | Fraction of sequences mapped to database |  |
 | Raw Sequences | [https://www.ncbi.nlm.nih.gov/sra/SRX733464](https://www.ncbi.nlm.nih.gov/sra/SRX733464) |
-| Literature Source | [https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0301-4](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0301-4) |
+| Literature Source | [Patients prior to chemotherapy who did or did not develop bacteremia](Patients prior to chemotherapy who did or did not develop bacteremia) |
