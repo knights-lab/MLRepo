@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 142                                         |
 | **Response type**             | binary                                           |
-| **Task details**              |                                   |
-| **>1 sample per subject**     | Y                                        |
+| **Additional task details**              |                                   |
+| **Multiple samples per subject?**     | Yes |
 | **Task mapping file**         | [task-obese-lean-all.txt](../datasets/turnbaugh/task-obese-lean-all.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/turnbaugh/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/turnbaugh/gg/taxatable.txt)                          |

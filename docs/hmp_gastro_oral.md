@@ -8,8 +8,8 @@
 | **Sample type**               | human stool, oral                                         |
 | **Number of samples**         | 2070                                         |
 | **Response type**             | binary                                           |
-| **Task details**              | Multiple samples provided per body site per individual, control for HOST_SUBJECT_ID                                  |
-| **>1 sample per subject**     | Y                                        |
+| **Additional task details**              | Multiple samples provided per body site per individual, control for HOST_SUBJECT_ID                                  |
+| **Multiple samples per subject?**     | Yes |
 | **Task mapping file**         | [task-gastro-oral.txt](../datasets/hmp/task-gastro-oral.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/hmp/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |

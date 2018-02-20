@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 101                                         |
 | **Response type**             | binary                                           |
-| **Task details**              |                                   |
-| **>1 sample per subject**     | N                                        |
+| **Additional task details**              |                                   |
+| **Multiple samples per subject?**     | No |
 | **Task mapping file**         | [task-impaired-diabetes.txt](../datasets/karlsson/task-impaired-diabetes.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](.NA)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](.NA)                          |

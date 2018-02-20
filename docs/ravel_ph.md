@@ -8,8 +8,8 @@
 | **Sample type**               | vaginal swab                                         |
 | **Number of samples**         | 388                                         |
 | **Response type**             | regression                                           |
-| **Task details**              |                                   |
-| **>1 sample per subject**     | N                                        |
+| **Additional task details**              |                                   |
+| **Multiple samples per subject?**     | No |
 | **Task mapping file**         | [task-ph.txt](../datasets/ravel/task-ph.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/hmp/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |

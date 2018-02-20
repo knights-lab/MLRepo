@@ -8,8 +8,8 @@
 | **Sample type**               | mouse cecal contents                                         |
 | **Number of samples**         | 47                                         |
 | **Response type**             | binary                                           |
-| **Task details**              |                                   |
-| **>1 sample per subject**     | N                                        |
+| **Additional task details**              |                                   |
+| **Multiple samples per subject?**     | No |
 | **Task mapping file**         | [task-control-ct-cecal.txt](../datasets/cho/task-control-ct-cecal.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/cho/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |

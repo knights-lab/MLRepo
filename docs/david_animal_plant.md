@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 18                                         |
 | **Response type**             | binary                                           |
-| **Task details**              | Baseline on days -4-0, diet on days 0-4, washout on 4-10                                  |
-| **>1 sample per subject**     | Y                                        |
+| **Additional task details**              | Baseline on days -4-0, diet on days 0-4, washout on 4-10                                  |
+| **Multiple samples per subject?**     | Yes |
 | **Task mapping file**         | [task.txt](../datasets/david/task.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/david/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/david/gg/taxatable.txt)                          |

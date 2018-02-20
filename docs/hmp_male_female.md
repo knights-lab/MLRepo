@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 180                                         |
 | **Response type**             | binary                                           |
-| **Task details**              | Only one representative sample per body site per person provided                                  |
-| **>1 sample per subject**     | N                                        |
+| **Additional task details**              | Only one representative sample per body site per person provided                                  |
+| **Multiple samples per subject?**     | No |
 | **Task mapping file**         | [task-sex.txt](../datasets/hmp/task-sex.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/hmp/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/hmp/gg/taxatable.txt)                          |

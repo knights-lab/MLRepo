@@ -8,8 +8,8 @@
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 28                                         |
 | **Response type**             | binary                                           |
-| **Task details**              |                                   |
-| **>1 sample per subject**     | N                                        |
+| **Additional task details**              |                                   |
+| **Multiple samples per subject?**     | No |
 | **Task mapping file**         | [task.txt](../datasets/bacteremia/task.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/bacteremia/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/bacteremia/gg/taxatable.txt)                          |

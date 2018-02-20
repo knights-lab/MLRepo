@@ -8,8 +8,8 @@
 | **Sample type**               | mouse pellets                                         |
 | **Number of samples**         | 45                                         |
 | **Response type**             | binary                                           |
-| **Task details**              |                                   |
-| **>1 sample per subject**     | N                                        |
+| **Additional task details**              |                                   |
+| **Multiple samples per subject?**     | No |
 | **Task mapping file**         | [task-control-ct-fecal.txt](../datasets/cho/task-control-ct-fecal.txt)                                 |
 | **OTU file** *gg97*           | [otutable.txt](../datasets/cho/gg/otutable.txt)                             |
 | **Taxa file** *gg97*          | [taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |
