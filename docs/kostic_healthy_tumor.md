@@ -1,7 +1,6 @@
 # Task: healthy vs tumor biopsy, paired
 ### Colorectal carcinoma tumors and adjacent nonaffected tissues
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Kostic 2012]( ../docs/kostic.html )       |
 | **Topic area**                | Cancer                                                |

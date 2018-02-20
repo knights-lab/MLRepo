@@ -1,7 +1,6 @@
 # Task: elderly vs young
 ### Elderly or young adults
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Claesson 2012]( ../docs/claesson.html )       |
 | **Topic area**                | Age                                                |

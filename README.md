@@ -1,5 +1,5 @@
 # Available Tasks
-Download all tasks as a single [file](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)
+[Download a single file](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz) containing all available tasks
 
 
 ## Bacteremia

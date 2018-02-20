@@ -1,7 +1,6 @@
 # Task: gastrointestinal vs oral
 ### Gastrointestinal tract and oral cavity of healthy adults
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [HMP 2012]( ../docs/hmp.html )       |
 | **Topic area**                | Body Habitat                                                |

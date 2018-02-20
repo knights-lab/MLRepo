@@ -1,7 +1,6 @@
 # Task: ph, vaginal
 ### Predict pH from vaginal microbiome
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Ravel 2011]( ../docs/ravel.html )       |
 | **Topic area**                | Vaginal                                                |

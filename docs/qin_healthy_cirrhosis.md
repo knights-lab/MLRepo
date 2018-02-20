@@ -1,7 +1,6 @@
 # Task: healthy vs cirrhosis
 ### Healthy or cirrhosis patients
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Qin 2014]( ../docs/qin2014.html )       |
 | **Topic area**                | Cirrhosis                                                |

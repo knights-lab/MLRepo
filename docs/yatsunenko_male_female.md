@@ -1,7 +1,6 @@
 # Task: male vs female, usa
 ### Males and females from the US
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Gender                                                |

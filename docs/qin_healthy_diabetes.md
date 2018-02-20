@@ -1,7 +1,6 @@
 # Task: healthy vs type 2 diabetes
 ### Healthy or type 2 diabetes patients
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Qin 2012]( ../docs/qin2012.html )       |
 | **Topic area**                | Diabetes                                                |

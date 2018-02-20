@@ -1,7 +1,6 @@
 # Task: white vs black, vaginal
 ### Vaginal microbiomes of white and black women
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Ravel 2011]( ../docs/ravel.html )       |
 | **Topic area**                | Vaginal                                                |

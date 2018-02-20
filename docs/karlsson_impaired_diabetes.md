@@ -1,7 +1,6 @@
 # Task: impaired vs diabetes glucose tolerance
 ### Impaired or type 2 diabetes glucose tolerance categories
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Karlsson 2013]( ../docs/karlsson.html )       |
 | **Topic area**                | Diabetes                                                |

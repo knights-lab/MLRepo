@@ -1,7 +1,6 @@
 # Task: malawi vs venezuela, adults only
 ### Individuals living in Malawi or Venezuela
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Yatsunenko 2012]( ../docs/yatsunenko.html )       |
 | **Topic area**                | Geography                                                |

@@ -1,7 +1,6 @@
 # Task: lean vs obese, mz/dz/mom
 ### Lean or Obese individuals (monozygotic or dyzygotic twins or their mothers)
 
-| | |
 | ------------------------: |-----------------------------------------------------------|
 | **Project**           | [Turnbaugh 2009]( ../docs/turnbaugh_twins.html )       |
 | **Topic area**                | Obesity                                                |
