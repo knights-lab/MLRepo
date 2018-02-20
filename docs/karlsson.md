@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Patients with normal, impaired, or type 2 diabetes glucose tolerance categories |
 | Study design | Cross-Sectional |
@@ -16,7 +15,6 @@
 
 ### Additional details
 
-|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | NA |
 | Targeted amplicon size | NA |

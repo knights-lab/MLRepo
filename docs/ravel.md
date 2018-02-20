@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Vaginal samples from four ethnic groups nugent scores for bacterial vaginosis |
 | Study design | Cross-Sectional |
@@ -16,7 +15,6 @@
 
 ### Additional details
 
-|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V12 |
 | Targeted amplicon size | 240 |

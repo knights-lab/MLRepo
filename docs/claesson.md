@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Elderly and young adults |
 | Study design | Cross-Sectional |
@@ -16,7 +15,6 @@
 
 ### Additional details
 
-|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |

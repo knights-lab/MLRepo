@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Up to 18 body sites across 242 healthy subjects at 1-2 time points |
 | Study design | Cross-Sectional |
@@ -16,7 +15,6 @@
 
 ### Additional details
 
-|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 527 |

@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Plant-based vs. Animal-based diet, Cross-over study |
 | Study design | Longitudinal |
@@ -16,7 +15,6 @@
 
 ### Additional details
 
-|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |

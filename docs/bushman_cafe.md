@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-|  placeholder   |             |
 | -------------: |-------------|
 | Description      | Controlled HighFat or LowFat feeding on 10 subjects over 10 days |
 | Study design | Longitudinal |
@@ -16,7 +15,6 @@
 
 ### Additional details
 
-|  placeholder   |             |
 | -------------: |-------------|
 | 16s hypervariable region | V12 |
 | Targeted amplicon size | 244 |
