@@ -1,25 +1,25 @@
 # Kostic 2012
 
-### Categorical
+### Adjacent Healthy vs. Tumor Colon Biopsy Tissues
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical |
-| Study design | 454 |
-| Topic area | 95|
-| Attributes | Colorectal Cancer|
-| Dataset notes | 190|
-| Number of samples | MSI|
-| Number of subjects | https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz|
+| Description      | Adjacent Healthy vs. Tumor Colon Biopsy Tissues |
+| Study design | Paired |
+| Topic area | Colorectal Cancer|
+| Attributes | DIAGNOSIS: Healthy, Tumor|
+| Dataset notes | Samples are paired per person|
+| Number of samples | 190|
+| Number of subjects | 95|
 
 ### Additional details
 
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |
-| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/22009990 |
+| Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz) |
 | Raw sequences | [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP000383) |
-| Raw metadata file | []() |
-| Literature source | [Adjacent Healthy vs. Tumor Colon Biopsy Tissues](Adjacent Healthy vs. Tumor Colon Biopsy Tissues) |
+| Raw metadata file | [./datasets/kostic/mapping-orig.txt](./datasets/kostic/mapping-orig.txt) |
+| Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22009990](https://www.ncbi.nlm.nih.gov/pubmed/22009990) |

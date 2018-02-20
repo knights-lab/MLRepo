@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | Antibiotics                                                |
 | **Sample type**               | mouse cecal contents                                         |
 | **Number of samples**         | 47                                         |
-| **Response type**             | ./datasets/cho/task-control-ct-cecal.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              |                                   |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/cho/task-control-ct-cecal.txt](../datasets/cho/task-control-ct-cecal.txt)                                 |
+| **OTU file** *gg97*           | [./datasets/cho/gg/otutable.txt](../datasets/cho/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [./datasets/cho/gg/taxatable.txt](../datasets/cho/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [./datasets/cho/refseq/otutable.txt](../datasets/cho/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/cho/refseq/taxatable.txt](../datasets/cho/refseq/taxatable.txt)                  |

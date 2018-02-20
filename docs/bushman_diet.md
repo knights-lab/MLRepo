@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | Diet                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 10                                         |
-| **Response type**             | ./datasets/bushman_cafe/task.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              | Two groups on highfat and lowfat diets respectively, followed longitudinally. We provide only the last sample day of the intervention.                                  |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/bushman_cafe/task.txt](../datasets/bushman_cafe/task.txt)                                 |
+| **OTU file** *gg97*           | [./datasets/bushman_cafe/gg/otutable.txt](../datasets/bushman_cafe/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [./datasets/bushman_cafe/gg/taxatable.txt](../datasets/bushman_cafe/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [./datasets/bushman_cafe/refseq/otutable.txt](../datasets/bushman_cafe/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/bushman_cafe/refseq/taxatable.txt](../datasets/bushman_cafe/refseq/taxatable.txt)                  |

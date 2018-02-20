@@ -1,25 +1,25 @@
 # Yatsunenko 2012
 
-### Categorical, Continuous
+### Humans of varying ages from the USA, Malawi, and Venezuela
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical, Continuous |
-| Study design | Illumina MiSeq |
-| Topic area | 531|
-| Attributes | Geography, Age, Gender|
-| Dataset notes | 531|
-| Number of samples | MSI|
-| Number of subjects | https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/yatsunenko2012.fasta.gz|
+| Description      | Humans of varying ages from the USA, Malawi, and Venezuela |
+| Study design | Cross-Sectional |
+| Topic area | Geography, Age, Gender|
+| Attributes | COUNTRY: GAZ:Venezuela, GAZ:United States of America, GAZ:Malawi; AGE: continuous|
+| Dataset notes | Infants should be analyzed separately from non-infants|
+| Number of samples | 531|
+| Number of subjects | 531|
 
 ### Additional details
 
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 282 |
-| Sequencing technology | http://www.ncbi.nlm.nih.gov/pubmed/22699611 |
+| Sequencing technology | Illumina MiSeq |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/yatsunenko2012.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/yatsunenko2012.fasta.gz) |
 | Raw sequences | [http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401](http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=401) |
-| Raw metadata file | []() |
-| Literature source | [Humans of varying ages from the USA, Malawi, and Venezuela](Humans of varying ages from the USA, Malawi, and Venezuela) |
+| Raw metadata file | [./datasets/yatsunenko/mapping-orig.txt](./datasets/yatsunenko/mapping-orig.txt) |
+| Literature source | [http://www.ncbi.nlm.nih.gov/pubmed/22699611](http://www.ncbi.nlm.nih.gov/pubmed/22699611) |

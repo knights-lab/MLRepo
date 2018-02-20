@@ -1,25 +1,25 @@
 # Morgan 2012
 
-### Categorical
+### Healthy, Crohn's Disease, or Ulcerative Colitis patients
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical |
-| Study design | 454 |
-| Topic area | 231|
-| Attributes | IBD|
-| Dataset notes | 231|
-| Number of samples | MSI|
-| Number of subjects | https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/morgan2012.fasta.gz|
+| Description      | Healthy, Crohn's Disease, or Ulcerative Colitis patients |
+| Study design | Cross-Sectional |
+| Topic area | IBD|
+| Attributes | ULCERATIVE_COLIT_OR_CROHNS_DIS: Crohn's disease, Healthy, Ulcerative Colitis; BODY_SITE: UBERON:ileal mucosa, UBERON:feces, UBERON:mucosa of descending colon|
+| Dataset notes | Cross-sectional study with different subjects for all sample types|
+| Number of samples | 231|
+| Number of subjects | 231|
 
 ### Additional details
 
 | 16s hypervariable region | V35 |
 | Targeted amplicon size | 569 |
-| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/23013615 |
+| Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/morgan2012.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/morgan2012.fasta.gz) |
 | Raw sequences | [https://www.ncbi.nlm.nih.gov/bioproject/82111](https://www.ncbi.nlm.nih.gov/bioproject/82111) |
-| Raw metadata file | []() |
-| Literature source | [Healthy, Crohn's Disease, or Ulcerative Colitis patients](Healthy, Crohn's Disease, or Ulcerative Colitis patients) |
+| Raw metadata file | [./datasets/sokol/mapping-orig.txt](./datasets/sokol/mapping-orig.txt) |
+| Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23013615](https://www.ncbi.nlm.nih.gov/pubmed/23013615) |

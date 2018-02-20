@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | Bacteremia                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 28                                         |
-| **Response type**             | ./datasets/bacteremia/task.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              |                                   |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/bacteremia/task.txt](../datasets/bacteremia/task.txt)                                 |
+| **OTU file** *gg97*           | [./datasets/bacteremia/gg/otutable.txt](../datasets/bacteremia/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [./datasets/bacteremia/gg/taxatable.txt](../datasets/bacteremia/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [./datasets/bacteremia/refseq/otutable.txt](../datasets/bacteremia/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/bacteremia/refseq/taxatable.txt](../datasets/bacteremia/refseq/taxatable.txt)                  |

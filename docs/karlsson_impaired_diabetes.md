@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 101                                         |
-| **Response type**             | ./datasets/karlsson/task-impaired-diabetes.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              |                                   |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/karlsson/task-impaired-diabetes.txt](../datasets/karlsson/task-impaired-diabetes.txt)                                 |
+| **OTU file** *gg97*           | [NA](.NA)                             |
+| **Taxa file** *gg97*          | [NA](.NA)                          |
+| **OTU file** *RefSeq*         | [./datasets/karlsson/otutable.txt](../datasets/karlsson/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/karlsson/taxatable.txt](../datasets/karlsson/taxatable.txt)                  |

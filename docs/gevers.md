@@ -1,25 +1,25 @@
 # Gevers 2014
 
-### Categorical
+### Biopsies from IBD patients prior to treatment
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical |
-| Study design | Illumina MiSeq |
-| Topic area | 668|
-| Attributes | IBD|
-| Dataset notes | 1321|
-| Number of samples | https://qiita.ucsd.edu/download/33519|
-| Number of subjects | https://qiita.ucsd.edu/download/33519|
+| Description      | Biopsies from IBD patients prior to treatment |
+| Study design | Cross-Sectional |
+| Topic area | IBD|
+| Attributes | DIAGNOSIS: no, IC, CD, UC; BODY_SITE: UBERON:feces, UBERON:rectum, UBERON:colon, UBERON:ileum;|
+| Dataset notes | |
+| Number of samples | 1321|
+| Number of subjects | 668|
 
 ### Additional details
 
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 173 |
-| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/24629344 |
+| Sequencing technology | Illumina MiSeq |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [https://qiita.ucsd.edu/download/33519](https://qiita.ucsd.edu/download/33519) |
 | Raw sequences | [https://qiita.ucsd.edu/download/33520](https://qiita.ucsd.edu/download/33520) |
-| Raw metadata file | []() |
-| Literature source | [Biopsies from IBD patients prior to treatment](Biopsies from IBD patients prior to treatment) |
+| Raw metadata file | [./datasets/gevers/mapping-orig.txt](./datasets/gevers/mapping-orig.txt) |
+| Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/24629344](https://www.ncbi.nlm.nih.gov/pubmed/24629344) |

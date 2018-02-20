@@ -1,25 +1,25 @@
 # Claesson 2012
 
-### Categorical
+### Elderly and young adults
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical |
-| Study design | 454 |
-| Topic area | 168|
-| Attributes | Age|
-| Dataset notes | 168|
-| Number of samples | https://qiita.ucsd.edu/download/13265|
-| Number of subjects | https://qiita.ucsd.edu/download/13265|
+| Description      | Elderly and young adults |
+| Study design | Cross-Sectional |
+| Topic area | Age|
+| Attributes | AGE: elderly, young|
+| Dataset notes | |
+| Number of samples | 168|
+| Number of subjects | 168|
 
 ### Additional details
 
 | 16s hypervariable region | V4 |
 | Targeted amplicon size | 221 |
-| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/22797518 |
+| Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [https://qiita.ucsd.edu/download/13265](https://qiita.ucsd.edu/download/13265) |
 | Raw sequences | [https://qiita.ucsd.edu/download/13268](https://qiita.ucsd.edu/download/13268) |
-| Raw metadata file | []() |
-| Literature source | [Elderly and young adults](Elderly and young adults) |
+| Raw metadata file | [./datasets/claesson/mapping-orig.txt](./datasets/claesson/mapping-orig.txt) |
+| Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22797518](https://www.ncbi.nlm.nih.gov/pubmed/22797518) |

@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | IBD                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 128                                         |
-| **Response type**             | ./datasets/sokol/task-healthy-uc.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              |                                   |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/sokol/task-healthy-uc.txt](../datasets/sokol/task-healthy-uc.txt)                                 |
+| **OTU file** *gg97*           | [./datasets/sokol/gg/otutable.txt](../datasets/sokol/gg/otutable.txt)                             |
+| **Taxa file** *gg97*          | [./datasets/sokol/gg/taxatable.txt](../datasets/sokol/gg/taxatable.txt)                          |
+| **OTU file** *RefSeq*         | [./datasets/sokol/refseq/otutable.txt](../datasets/sokol/refseq/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/sokol/refseq/taxatable.txt](../datasets/sokol/refseq/taxatable.txt)                  |

@@ -1,25 +1,25 @@
 # Karlsson 2013
 
-### Categorical
+### Patients with normal, impaired, or type 2 diabetes glucose tolerance categories
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical |
-| Study design | Illumina HiSeq (shotgun) |
-| Topic area | 144|
-| Attributes | Diabetes|
-| Dataset notes | 144|
-| Number of samples | /project/flatiron2/data/public_shotgun/karlsson2013/shizen_20161130/fasta/combined_seqs.fna|
-| Number of subjects | ON S3|
+| Description      | Patients with normal, impaired, or type 2 diabetes glucose tolerance categories |
+| Study design | Cross-Sectional |
+| Topic area | Diabetes|
+| Attributes | Classification: NGT, IGT, T2D|
+| Dataset notes | |
+| Number of samples | 144|
+| Number of subjects | 144|
 
 ### Additional details
 
 | 16s hypervariable region | NA |
 | Targeted amplicon size | NA |
-| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/23719380 |
+| Sequencing technology | Illumina HiSeq (shotgun) |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [ON S3](ON S3) |
 | Raw sequences | [http://www.ncbi.nlm.nih.gov/sra?term=ERP002469](http://www.ncbi.nlm.nih.gov/sra?term=ERP002469) |
-| Raw metadata file | []() |
-| Literature source | [Patients with normal, impaired, or type 2 diabetes glucose tolerance categories](Patients with normal, impaired, or type 2 diabetes glucose tolerance categories) |
+| Raw metadata file | [./datasets/karlsson/mapping-orig.txt](./datasets/karlsson/mapping-orig.txt) |
+| Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23719380](https://www.ncbi.nlm.nih.gov/pubmed/23719380) |

@@ -2,12 +2,22 @@
 
 # Tasks
 
+Want all available tasks? [Download here](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)
 
-## binary
+
+## Bacteremia
 
 * [bacteremia vs no bacteremia](docs/bacteremia_nobacteremia.md)
 
+
+## Diet
+
 * [high fat vs low fat diet](docs/bushman_diet.md)
+
+* [animal vs plant diet, last diet day](docs/david_animal_plant.md)
+
+
+## Antibiotics
 
 * [chlortetracycline vs control, cecal](docs/cho_control_ct_cecal.md)
 
@@ -17,13 +27,37 @@
 
 * [penicillin vs vancomycin, fecal](docs/cho_pen_vanc_fecal.md)
 
+
+## Age
+
 * [elderly vs young](docs/claesson_elderly.md)
+
+* [infant age](docs/yatsunenko_infantage.md)
+
+
+## IBD
 
 * [control vs cd, ileum](docs/gevers_control_cd_ileum.md)
 
 * [control vs cd, rectum](docs/gevers_control_cd_rectum.md)
 
+* [pcdai using baseline cd ileum](docs/gevers_pcdai_ileum.md)
+
+* [pcdai using baseline cd rectum](docs/gevers_pcdai_rectum.md)
+
+* [healthy vs cd, stool](docs/sokol_healthy_cd.md)
+
+* [healthy vs uc, stool](docs/sokol_healthy_uc.md)
+
+
+## Gender
+
 * [male vs female, stool](docs/hmp_male_female.md)
+
+* [male vs female, usa](docs/yatsunenko_male_female.md)
+
+
+## Vaginal
 
 * [white vs black, vaginal](docs/ravel_white_black.md)
 
@@ -31,17 +65,19 @@
 
 * [low vs high nugent category](docs/ravel_nugent_category.md)
 
-* [healthy vs cd, stool](docs/sokol_healthy_cd.md)
+* [nugent score](docs/ravel_nugent_score.md)
 
-* [healthy vs uc, stool](docs/sokol_healthy_uc.md)
+* [ph, vaginal](docs/ravel_ph.md)
+
+
+## Geography
 
 * [malawi vs venezuela, adults only](docs/yatsunenko_malawi_venezuela.md)
 
-* [male vs female, usa](docs/yatsunenko_male_female.md)
-
 * [us vs malawi, adults only](docs/yatsunenko_us_malawi.md)
 
-* [animal vs plant diet, last diet day](docs/david_animal_plant.md)
+
+## Body Habitat
 
 * [gastrointestinal vs oral](docs/hmp_gastro_oral.md)
 
@@ -49,9 +85,18 @@
 
 * [subgingival vs supragingival plaque](docs/hmp_sub_supra.md)
 
+
+## Cancer
+
 * [healthy vs tumor biopsy, paired](docs/kostic_healthy_tumor.md)
 
+
+## Obesity
+
 * [lean vs obese, mz/dz/mom](docs/turnbaugh_lean_obese_all.md)
+
+
+## Diabetes
 
 * [normal vs diabetes glucose tolerance](docs/karlsson_normal_diabetes.md)
 
@@ -59,21 +104,8 @@
 
 * [healthy vs type 2 diabetes](docs/qin_healthy_diabetes.md)
 
+
+## Cirrhosis
+
 * [healthy vs cirrhosis](docs/qin_healthy_cirrhosis.md)
 
-
-## regression
-
-* [pcdai using baseline cd ileum](docs/gevers_pcdai_ileum.md)
-
-* [pcdai using baseline cd rectum](docs/gevers_pcdai_rectum.md)
-
-* [nugent score](docs/ravel_nugent_score.md)
-
-* [ph, vaginal](docs/ravel_ph.md)
-
-* [infant age](docs/yatsunenko_infantage.md)
-
-
-
-Download all available tasks [here](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz)

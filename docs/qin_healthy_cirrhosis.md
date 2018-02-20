@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | Cirrhosis                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 130                                         |
-| **Response type**             | ./datasets/qin2014/task-healthy-cirrhosis.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              | Chinese patients                                  |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/qin2014/task-healthy-cirrhosis.txt](../datasets/qin2014/task-healthy-cirrhosis.txt)                                 |
+| **OTU file** *gg97*           | [NA](.NA)                             |
+| **Taxa file** *gg97*          | [NA](.NA)                          |
+| **OTU file** *RefSeq*         | [./datasets/qin2014/otutable.txt](../datasets/qin2014/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/qin2014/taxatable.txt](../datasets/qin2014/taxatable.txt)                  |

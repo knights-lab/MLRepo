@@ -4,14 +4,14 @@
 
 | Details                   |                                                           |
 | ------------------------: |-----------------------------------------------------------|
-| **Topic area**                | binary                                                |
+| **Topic area**                | Diabetes                                                |
 | **Sample type**               | human stool                                         |
 | **Number of samples**         | 124                                         |
-| **Response type**             | ./datasets/qin2012/task-healthy-diabetes.txt                                           |
+| **Response type**             | binary                                           |
 | **Task details**              | Chinese patients                                  |
-| **>1 sample per subject**     |                                         |
-| **Task mapping file**         | [](.)                                 |
-| **OTU file** *gg97*           | [](.)                             |
-| **Taxa file** *gg97*          | [](.)                          |
-| **OTU file** *RefSeq*         | [](.)                    |
-| **Taxa file** *RefSeq*        | [](.)                  |
+| **>1 sample per subject**     | N                                        |
+| **Task mapping file**         | [./datasets/qin2012/task-healthy-diabetes.txt](../datasets/qin2012/task-healthy-diabetes.txt)                                 |
+| **OTU file** *gg97*           | [NA](.NA)                             |
+| **Taxa file** *gg97*          | [NA](.NA)                          |
+| **OTU file** *RefSeq*         | [./datasets/qin2012/otutable.txt](../datasets/qin2012/otutable.txt)                    |
+| **Taxa file** *RefSeq*        | [./datasets/qin2012/taxatable.txt](../datasets/qin2012/taxatable.txt)                  |

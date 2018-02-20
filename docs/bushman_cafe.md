@@ -1,25 +1,25 @@
 # Wu 2011
 
-### Categorical
+### Controlled HighFat or LowFat feeding on 10 subjects over 10 days
 
 
 | Details        |             |
 | -------------: |-------------|
-| Description      | Categorical |
-| Study design | 454 |
-| Topic area | 10|
-| Attributes | Diet|
-| Dataset notes | 95|
-| Number of samples | https://qiita.ucsd.edu/download/2029|
-| Number of subjects | https://qiita.ucsd.edu/download/2029|
+| Description      | Controlled HighFat or LowFat feeding on 10 subjects over 10 days |
+| Study design | Longitudinal |
+| Topic area | Diet|
+| Attributes | DIET: HighFat, LowFat; DAY: 01 to 10|
+| Dataset notes | Longitudinal data available, but subset by last day of intervention to compare groups|
+| Number of samples | 95|
+| Number of subjects | 10|
 
 ### Additional details
 
 | 16s hypervariable region | V12 |
 | Targeted amplicon size | 244 |
-| Sequencing technology | https://www.ncbi.nlm.nih.gov/pubmed/21885731 |
+| Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
-| Processed sequences | []() |
+| Processed sequences | [https://qiita.ucsd.edu/download/2029](https://qiita.ucsd.edu/download/2029) |
 | Raw sequences | [https://qiita.ucsd.edu/download/2032](https://qiita.ucsd.edu/download/2032) |
-| Raw metadata file | []() |
-| Literature source | [Controlled HighFat or LowFat feeding on 10 subjects over 10 days](Controlled HighFat or LowFat feeding on 10 subjects over 10 days) |
+| Raw metadata file | [./datasets/bushman_cafe/mapping-orig.txt](./datasets/bushman_cafe/mapping-orig.txt) |
+| Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/21885731](https://www.ncbi.nlm.nih.gov/pubmed/21885731) |
