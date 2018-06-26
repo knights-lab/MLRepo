@@ -7,6 +7,10 @@
 * cowplot
 * caret
 
+If you did not clone the entire MLRepo, make sure to download [tasks.txt](../tasks.txt) in your base directory (where you downloaded MLRepo to).
+
+In R, set `BASEDIR = your/local/path/MLRepo`
+
 Run cross validation with default settings, bootstrapped 10 iterations
 ```R
 roc.list <- run.cv.datasets(n=10)
