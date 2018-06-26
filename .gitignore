@@ -1,6 +1,7 @@
-/web
 localreadme.txt
 *.Rapp.history
 datasets/hmp/gg/otutable.txt
 /preprocessing
 datasets.tar.gz
+/manuscript
+*.RData
