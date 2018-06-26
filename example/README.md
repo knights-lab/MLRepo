@@ -7,7 +7,7 @@
 * cowplot
 * caret
 
-If you did not clone the entire MLRepo, make sure to download [tasks.txt](../tasks.txt) in your base directory (where you downloaded MLRepo to).
+If you did not clone the entire MLRepo, make sure to download [tasks.txt](../tasks.txt) and place in your base directory (where you downloaded MLRepo to).
 
 In R, set `BASEDIR = your/local/path/MLRepo`
 
