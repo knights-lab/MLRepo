@@ -1,5 +1,4 @@
 require(pROC)
-require(reshape)
 require(ggplot2)
 require(cowplot)
 
@@ -8,10 +7,10 @@ require(cowplot)
 # legend.text = readable names of roc comparisons
 plot.rocs <- function(roc.list, rown, coln, cols, legend.text, outputfn="roc.pdf")
 {
-    cols_trans <- alpha(cols, .7)
+    cols_trans <- alpha(cols, .5)
     names(cols_trans) <- names(cols)
 
-    pdf(outputfn, width=15, height=15)
+    pdf(outputfn, width=8, height=11.5)
     par(mfrow=c(rown, coln))
 
     for(i in 1:length(roc.list))
@@ -19,8 +18,8 @@ plot.rocs <- function(roc.list, rown, coln, cols, legend.text, outputfn="roc.pdf
         this.task <- roc.list[[i]]
         par(pty="s")
         
-        # start with empty plot first
-        plot(this.task[[1]]$ROC, type="n", main=names(roc.list)[i], legacy.axis=T, xlab="", ylab="")
+        # start with empty plot first names(roc.list)[i]
+        plot(this.task[[1]]$ROC, type="n", main=i, legacy.axis=T, xlab="", ylab="", cex.main=2)
         for(j in 1:length(this.task))
         {
              plot(this.task[[j]]$ROC, legacy.axis=T, add=T, col=cols_trans[names(this.task)[j]], lwd=6-j)
@@ -28,14 +27,52 @@ plot.rocs <- function(roc.list, rown, coln, cols, legend.text, outputfn="roc.pdf
         
         aucs <- unlist(lapply(this.task, '[[', 'AUC'))
 
-        legend("bottomright", legend=aucs, text.col = cols[names(aucs)], bty="n", pt.cex = 1, cex=1.5)
+        legend("bottomright", legend=aucs, text.col = cols[names(aucs)], bty="n", pt.cex = 1, cex=1.25, y.intersp=.7)
     }
-
-    # plot legend only    
-    plot(roc.list[[1]][[1]]$ROC, axes=FALSE, xlab="", ylab="", type="n", identity.col="white")
-    legend("center", legend=legend.text, text.col = cols, bty="n", pt.cex=1, cex = 1.65)
-
     dev.off()
+    
+    # plot legend only    
+    pdf(paste0("legend1.", outputfn), width=8, height=11.5)
+    plot(1, axes=FALSE, xlab="", ylab="", type="n")
+    legend("topleft", legend=legend.text, text.col = cols, bty="n", pt.cex=1, cex = 1.65)
+    dev.off()
+    
+    # plot titles separately
+    pdf(paste0("legend2.", outputfn), width=8, height=11.5)
+    plot(1, axes=FALSE, xlab="", ylab="", type="n")
+    legend("center", legend=paste(1:length(roc.list),names(roc.list), sep=": "), bty="n", pt.cex = 1, cex=1.5)
+    dev.off()
+
 }
 
+plot.boxplots <- function(roc.objs, outputfn, cols)
+{
+    final.df <- data.frame(matrix(ncol = 3, nrow = 0))
+    colnames(final.df) <- c("AUC", "accuracy", "model")
 
+    for(i in 1:length(roc.objs))
+    {
+        this.task <- roc.objs[[i]]
+        models <- names(this.task)
+
+        for(j in 1:length(models))
+        {
+            final.df <- rbind(final.df,
+             data.frame(AUC=this.task[[j]]$AUC, accuracy=this.task[[j]]$accuracy,model=models[j]))
+        }
+        
+    }
+    
+    a.AUC <- summary(aov(AUC ~ model, data=final.df))
+    p.AUC <- ggplot(final.df, aes(x=model, y=AUC)) + geom_boxplot(aes(color=model)) + xlab(NULL) + ylab(NULL) + ggtitle("AUC") +
+                scale_color_manual(values=cols, guide=F)
+    p.AUC <- ggdraw(p.AUC) + draw_figure_label(paste0("P=",signif(a.AUC[[1]][[1,"Pr(>F)"]],2)), size=8, position="top.right")    
+
+    a.accuracy <- summary(aov(accuracy ~ model, data=final.df))
+    p.accuracy <- ggplot(final.df, aes(x=model, y=accuracy)) + geom_boxplot(aes(color=model)) + xlab(NULL) + ylab(NULL) + ggtitle("Accuracy") +
+                scale_color_manual(values=cols, guide=F)
+    p.accuracy <- ggdraw(p.accuracy) + draw_figure_label(paste0("P=",signif(a.accuracy[[1]][[1,"Pr(>F)"]],2)), size=8, position="top.right")    
+
+    save_plot(outputfn, plot_grid(p.AUC, p.accuracy), ncol=2, base_aspect_ratio=1)
+    
+}

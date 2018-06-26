@@ -5,10 +5,12 @@ source(paste0(BASEDIR,'/example/lib/cross.validation.caret.r'))
 source(paste0(BASEDIR,'/example/lib/collapse-features.r'))
 
 # task.ids (optional) only run on specific task ids 
-# n = number of iterations to repeat
-# mlmodels = type of algorithms
+# n = number of bootstrap iterations
+# mlmodels = type of algorithms supported by caret
 # featuretable = type of OTU-type table to use (single item or vector) otufn_refseq, otufn_gg, taxafn_refseq, taxafn_gg
-run.cv.datasets <- function(taskfn="tasks.txt", task.ids=NULL, n=100, mlmodels = c("rf", "svmRadial", "svmLinear"), featuretable="otufn_refseq", rdatafn="cv.datasets.autosave.RData")
+# debug.mode = print status to screen and save intermediate roc objects
+run.cv.datasets <- function(taskfn="tasks.txt", task.ids=NULL, n=100, mlmodels = c("rf", "svmRadial", "svmLinear"), 
+                            featuretable="otufn_refseq", debug.mode=FALSE)
 {
     tasks <- read.table(taskfn, sep="\t", head=T, quote="", as.is=T)
 
@@ -26,7 +28,7 @@ run.cv.datasets <- function(taskfn="tasks.txt", task.ids=NULL, n=100, mlmodels =
     
     for(task.ix in 1:nrow(tasks_binary))
     {
-        print(paste0("Starting dataset ", task.ix, ", ", tasks_binary[task.ix, "task_name"], "..."))
+        if(debug.mode) print(paste0("Starting dataset ", task.ix, ", ", tasks_binary[task.ix, "task_name"], "..."))
 
         # read in grouping vars, but make sure that they're compatible with variable naming due to caret package requirements
         task <- read.table(tasks_binary[task.ix, "taskfn"], sep="\t", comment="", row=1, head=T, quote="", check.names=F, colClasses="character")
@@ -61,8 +63,8 @@ run.cv.datasets <- function(taskfn="tasks.txt", task.ids=NULL, n=100, mlmodels =
         # name each list items as a task name, save roc objects to compare under that
         roc.list[[tasks_binary[task.ix, "task_name"]]] <- rocs
     
-        # save intermediate roc.list objects, in case one dataset craps out
-        save(roc.list, file=rdatafn)
+        # save intermediate roc.list objects, in case one dataset errors out
+        if(debug.mode) save(roc.list, file="roc.list.autosave.RData")
     }
     invisible(roc.list)
 }
