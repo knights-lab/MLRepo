@@ -1,6 +1,6 @@
 # Available Tasks
 [Download a single file](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz) containing all available tasks
-
+[Instructions](add-datasets-readme.md) for how to add a new dataset/task
 
 ## Bacteremia
 
