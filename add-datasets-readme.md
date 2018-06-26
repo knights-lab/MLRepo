@@ -1,28 +1,13 @@
-# Help with example/run.r
+# Steps for submitting a new dataset and/or task
 
-## Dependencies:
-* pROC
-* caret
-* ggplot2
-* cowplot
+1. If you have either the raw FASTQ or processed FASTA file, please deposit it into a public repository. We list large files via publicly accessible URLs and do not support uploading of any large files. If you need assistance, please contact us.
 
-If you did not clone the entire MLRepo, make sure to download [tasks.txt](../tasks.txt) and place in your base directory (where you downloaded MLRepo to).
+...If starting with FASTQ, we recommend processing with [SHI7](https://github.com/knights-lab/shi7) and OTU-picking with [BURST](https://github.com/knights-lab/BURST), with [NCBI RefSeq Prokaryote files](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/PROK_170704.tar.gz) and [Green genes 97](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/gg97.tar.gz)
 
-In R, set `BASEDIR = your/local/path/MLRepo`
+2. [Fork](https://help.github.com/articles/fork-a-repo/) our repository.
+3. Add new tasks and datasets directly into [tasks](web/data/tasks.txt) and [datasets](web/data/datasets.txt). Make sure to fill out all sections.
 
-Run cross validation with default settings, bootstrapped 10 iterations
-```R
-roc.list <- run.cv.datasets(n=10)
-```
+...We expect you to apply rigorous standards in filtering, subsetting, and selecting samples for your classification and regression tasks.
 
-Set custom colors and custom legend text for plotting ROCs
-```R
-ml.colors <- c("#d80056", "#5cb8d7", "#ff8c01")
-names(ml.colors) <- c("rf", "svmRadial", "svmLinear")
-ml.legend <- c("Random Forest","SVM Radial","SVM Linear")
-```
+3. When ready, submit a pull request for our review.
 
-Plot and save the rocs
-```R
-plot.rocs(roc.list, rown=6, coln=4, cols=ml.colors, legend.text=ml.legend, outputfn="ml.rocs.pdf")
-```

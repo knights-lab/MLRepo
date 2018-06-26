@@ -1,6 +1,5 @@
 # Available Tasks
 [Download a single file](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/datasets.tar.gz) containing all available tasks
-[Instructions](add-datasets-readme.md) for how to add a new dataset/task
 
 ## Bacteremia
 
@@ -106,3 +105,5 @@
 
 * [healthy vs cirrhosis](docs/qin_healthy_cirrhosis.md)
 
+***
+Interested in adding a new dataset or task? [See our instructions](add-datasets-readme.md)
