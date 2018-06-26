@@ -2,9 +2,6 @@
 
 ## Dependencies:
 * pROC
-* reshape
-* ggplot2
-* cowplot
 * caret
 
 If you did not clone the entire MLRepo, make sure to download [tasks.txt](../tasks.txt) and place in your base directory (where you downloaded MLRepo to).
