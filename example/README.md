@@ -3,6 +3,8 @@
 ## Dependencies:
 * pROC
 * caret
+* kernlab
+* randomForest
 * ggplot2
 * cowplot
 
