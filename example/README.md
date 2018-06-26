@@ -1,4 +1,4 @@
-# Running the example in example/run.r
+# Help with example/run.r
 
 ## Dependencies:
 * pROC
