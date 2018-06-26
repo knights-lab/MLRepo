@@ -1,3 +1,5 @@
+require(caret)
+
 # runs cross-validation 
 # if nfolds > length(y) or nfolds==-1, uses leave-one-out cross-validation
 # ...: additional parameters for train.fun
@@ -11,12 +13,9 @@
 # params: list of additional parameters
 # importances: importances of features as predictors
 # regression: does both regression or classification (RMSE and r_squared will be meaningless here)
-require(randomForest)
-require(e1071)
-
-
+# modelfun: valid model available in caret package
 # group.var = vector of values, to group samples by (e.g. multiple samples per subject id)
-"cross.validation" <- function(x, y, nfolds=10, verbose=FALSE, regression=FALSE, modelfun, group.var=NULL, ...){
+"cross.validation.caret" <- function(x, y, nfolds=10, verbose=FALSE, regression=FALSE, modelfun, group.var=NULL, ...){
     if(regression==FALSE)
    	{
 		if(class(y) != 'factor') stop('y must be factor for classification\n')
@@ -36,27 +35,19 @@ require(e1071)
         if(verbose) cat(sprintf('Fold %d...\n',fold))
         foldix <- which(folds==fold)    
         newx <- x[foldix,,drop=F] # make sure df structure is kept even for 1-row newx
-        
-        if(modelfun=="rf"){
-            model <- randomForest(x=x[-foldix,], y=result$y[-foldix], importance=TRUE, do.trace=verbose, ...)
-                    
-            # predictions and class probs must be added to the appropriate foldix!
-            result$classprob[foldix,] <- cbind(predict(model, newx, type="prob"), fold=fold)
-            result$predicted[foldix] <- predict(model, newx)
-            
-        } else {
-            if (modelfun=="svmR")
-                k = "radial"
-            else if (modelfun=="svmL")
-                k = "linear"
-                
-            newx <- as.matrix(newx) # required for SVM
-            model <- svm(x=x[-foldix,], y=result$y[-foldix], probability=TRUE, scale=FALSE, kernel=k)
-            p <- predict(model, newx, probability=T)
-            # predictions and class probs must be added to the appropriate foldix!
-            result$classprob[foldix,] <- cbind(attr(p, "probabilities"), fold=fold)
-            result$predicted[foldix] <- p # note that for SVM, the predicted class is also stored in p
-        }
+
+        fitControl <- trainControl(method = "none", classProbs = TRUE)
+        model <- train(x=x[-foldix,], y=result$y[-foldix],
+                         method = modelfun, 
+                         trControl = fitControl, 
+                         verbose = FALSE, 
+                         metric = "ROC")
+                         
+        # class
+        result$predicted[foldix] <- predict(model, newdata = newx) # class
+        # probability
+        result$classprob[foldix,] <- cbind(predict(model, newx, type="prob"), fold=fold)
+
     }
 	result$nfolds <- nfolds
     result$params <- list(...)
@@ -78,6 +69,8 @@ require(e1071)
         # order by group, num response, then response level - then grab first sample as group rep
         # this should work fine for discordant samples (e.g. 1 tumor 1 healthy per subject)
         groupfreq <- as.data.frame(table(group[c("group.var", "y")]))
+        # Freq is important because we always pick the class level where there are the most samples for one group.var
+        # e.g. 4 tongue samples and 2 tongue samples for a subject assigns it as tongue
         groupfreq_ord <- groupfreq[order(groupfreq$group.var, -groupfreq$Freq, groupfreq$y),]
         groupfreq_uniq <- groupfreq_ord[!duplicated(groupfreq_ord$group.var),]
         
@@ -91,6 +84,7 @@ require(e1071)
         # preserve original sample order
         folds <- group_folds[order(group_folds$sample.id),"folds"]
     }
+    return(folds)
 }
 
 "balanced.folds" <- function(y, nfolds=10){
