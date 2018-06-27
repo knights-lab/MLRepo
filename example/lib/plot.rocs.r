@@ -45,34 +45,3 @@ plot.rocs <- function(roc.list, rown, coln, cols, legend.text, outputfn="roc.pdf
 
 }
 
-plot.boxplots <- function(roc.objs, outputfn, cols)
-{
-    final.df <- data.frame(matrix(ncol = 3, nrow = 0))
-    colnames(final.df) <- c("AUC", "accuracy", "model")
-
-    for(i in 1:length(roc.objs))
-    {
-        this.task <- roc.objs[[i]]
-        models <- names(this.task)
-
-        for(j in 1:length(models))
-        {
-            final.df <- rbind(final.df,
-             data.frame(AUC=this.task[[j]]$AUC, accuracy=this.task[[j]]$accuracy,model=models[j]))
-        }
-        
-    }
-    
-    a.AUC <- summary(aov(AUC ~ model, data=final.df))
-    p.AUC <- ggplot(final.df, aes(x=model, y=AUC)) + geom_boxplot(aes(color=model)) + xlab(NULL) + ylab(NULL) + ggtitle("AUC") +
-                scale_color_manual(values=cols, guide=F)
-    p.AUC <- ggdraw(p.AUC) + draw_figure_label(paste0("P=",signif(a.AUC[[1]][[1,"Pr(>F)"]],2)), size=8, position="top.right")    
-
-    a.accuracy <- summary(aov(accuracy ~ model, data=final.df))
-    p.accuracy <- ggplot(final.df, aes(x=model, y=accuracy)) + geom_boxplot(aes(color=model)) + xlab(NULL) + ylab(NULL) + ggtitle("Accuracy") +
-                scale_color_manual(values=cols, guide=F)
-    p.accuracy <- ggdraw(p.accuracy) + draw_figure_label(paste0("P=",signif(a.accuracy[[1]][[1,"Pr(>F)"]],2)), size=8, position="top.right")    
-
-    save_plot(outputfn, plot_grid(p.AUC, p.accuracy), ncol=2, base_aspect_ratio=1)
-    
-}

@@ -1,4 +1,6 @@
-require(caret)
+require(randomForest) # required for rf
+require(kernlab) # required for svm
+require(caret) 
 
 # runs cross-validation 
 # if nfolds > length(y) or nfolds==-1, uses leave-one-out cross-validation
@@ -37,6 +39,7 @@ require(caret)
         newx <- x[foldix,,drop=F] # make sure df structure is kept even for 1-row newx
 
         fitControl <- trainControl(method = "none", classProbs = TRUE)
+        #set.seed(825)
         model <- train(x=x[-foldix,], y=result$y[-foldix],
                          method = modelfun, 
                          trControl = fitControl, 
