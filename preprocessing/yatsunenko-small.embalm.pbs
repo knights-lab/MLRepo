@@ -1,0 +1,12 @@
+#!/bin/bash -l
+#PBS -l walltime=24:00:00,nodes=1:ppn=16,mem=126gb
+#PBS -m abe
+#PBS -M vanga015@umn.edu
+#PBS -q lab
+
+cd ~/mlrepo
+module load python3
+export PATH=$PATH:/home/knightsd/algh0022/sop
+
+bash ./run.embalmer.sh ./yatsunenko/raw/Yatsunenko_subsampled.10.fna ./yatsunenko-small PROK_170704
+bash ./run.embalmer.sh ./yatsunenko/raw/Yatsunenko_subsampled.10.fna ./yatsunenko-small gg97

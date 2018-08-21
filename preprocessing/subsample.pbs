@@ -1,0 +1,11 @@
+#!/bin/bash -l
+#PBS -l walltime=24:00:00,nodes=1:ppn=16,mem=126gb
+#PBS -m abe
+#PBS -M vanga015@umn.edu
+#PBS -q lab
+
+cd ~/mlrepo/yatsunenko/raw
+module load python3
+module load qiime
+
+subsample_fasta.py -i /home/knightsd/public/qiime_db/processed/Yatsunenko_global_gut_study_850_ref_13_8/study_850_split_library_seqs.fna -p .1 -o ./Yatsunenko_subsampled.10.fna

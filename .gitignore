@@ -1,10 +1,5 @@
-localreadme.txt
-tasks_local.txt
 *.Rapp.history
 datasets/hmp/gg/otutable.txt
-/preprocessing
 datasets.tar.gz
 /manuscript
 *.RData
-dataset_metadata.xlsx
-web/templates
