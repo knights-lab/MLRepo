@@ -7,3 +7,4 @@ datasets.tar.gz
 /manuscript
 *.RData
 dataset_metadata.xlsx
+web/templates
