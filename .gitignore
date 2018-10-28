@@ -4,3 +4,5 @@ datasets.tar.gz
 /manuscript
 *.RData
 /web/templates
+localreadme.txt
+tasks_local.txt
