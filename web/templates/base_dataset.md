@@ -19,7 +19,7 @@
 | Sequencing technology | {{ sequencing_technology }} |
 | Fraction of sequences mapped to database | {{ percent_db_hits }} |
 | Processed sequences | [{{processed_fasta | replace('https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/','')}}]({{ processed_fasta}}) |
-| Raw metadata file | [mapping-orig.txt]({{ original_mapping_file }}) |
+| Raw metadata file | [mapping-orig.txt](.{{original_mapping_file}}) |
 | Raw sequence source | [{{ raw_data_source }}]({{ raw_data_source }}) |
 | Literature source | [{{ literature_source }}]({{ literature_source }}) |
 
