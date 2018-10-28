@@ -36,11 +36,16 @@ For picking OTUs and transferring files from MSI to Local Machine:
 
 For generating website MD files:
 
+    ### SWITCH TO mlrepo-source branch
+
     # parses dataset specific information in dataset_metadata.tsv, and generates individual dataset pages AND index page with list of datasets
 
     cd /Users/pvangay/Dropbox/UMN/KnightsLab/MLRepo/web
 
     python ./make_page.py
+    
+    ### After all MD files are generated, switch back to master branch
+        ### make sure to either copy/paste OR merge only the newly generated MD files in /docs files back to master branch!
 
 For pushing onto Amazon S3:
     # currently installed on local machine and MSI
