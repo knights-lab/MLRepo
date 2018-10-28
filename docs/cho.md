@@ -19,7 +19,7 @@
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [cho2012.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/cho2012.fasta.gz) |
-| Raw metadata file | [mapping-orig.txt](./datasets/cho/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](../datasets/cho/mapping-orig.txt) |
 | Raw sequence source | [https://www.ncbi.nlm.nih.gov/bioproject/168618](https://www.ncbi.nlm.nih.gov/bioproject/168618) |
 | Literature source | [http://www.ncbi.nlm.nih.gov/pubmed/22914093](http://www.ncbi.nlm.nih.gov/pubmed/22914093) |
 
