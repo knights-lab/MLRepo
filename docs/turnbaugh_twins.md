@@ -19,7 +19,7 @@
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [https://qiita.ucsd.edu/download/6979](https://qiita.ucsd.edu/download/6979) |
-| Raw metadata file | [mapping-orig.txt](../../blob/master/datasets/turnbaugh_twins/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](./datasets/turnbaugh_twins/mapping-orig.txt) |
 | Raw sequence source | [https://qiita.ucsd.edu/download/6982](https://qiita.ucsd.edu/download/6982) |
 | Literature source | [http://www.ncbi.nlm.nih.gov/pubmed/19043404](http://www.ncbi.nlm.nih.gov/pubmed/19043404) |
 

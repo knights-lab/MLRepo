@@ -19,7 +19,7 @@
 | Sequencing technology | Illumina HiSeq (shotgun) |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [karlsson2013.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/karlsson2013.fasta.gz) |
-| Raw metadata file | [mapping-orig.txt](../../blob/master/datasets/karlsson/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](./datasets/karlsson/mapping-orig.txt) |
 | Raw sequence source | [http://www.ncbi.nlm.nih.gov/sra?term=ERP002469](http://www.ncbi.nlm.nih.gov/sra?term=ERP002469) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23719380](https://www.ncbi.nlm.nih.gov/pubmed/23719380) |
 

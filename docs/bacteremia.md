@@ -19,7 +19,7 @@
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [montassier2016.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/montassier2016.fasta.gz) |
-| Raw metadata file | [mapping-orig.txt](../../blob/master/datasets/bacteremia/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](./datasets/bacteremia/mapping-orig.txt) |
 | Raw sequence source | [https://www.ncbi.nlm.nih.gov/sra/SRX733464](https://www.ncbi.nlm.nih.gov/sra/SRX733464) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/27121964](https://www.ncbi.nlm.nih.gov/pubmed/27121964) |
 
