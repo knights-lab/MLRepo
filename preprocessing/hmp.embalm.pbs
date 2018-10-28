@@ -1,0 +1,12 @@
+#!/bin/bash -l
+#PBS -l walltime=96:00:00,nodes=1:ppn=32,mem=998gb
+#PBS -m abe
+#PBS -M vanga015@umn.edu
+#PBS -q ram1t
+
+cd ~/mlrepo
+module load python3
+export PATH=$PATH:/home/knightsd/algh0022/sop
+
+bash ./run.embalmer.mesabi.sh /home/knightsd/public/qiime_db/processed/HMP_v35_study_969_ref_13_8/study_969_split_library_seqs.fna ./hmp PROK_170704
+bash ./run.embalmer.mesabi.sh /home/knightsd/public/qiime_db/processed/HMP_v35_study_969_ref_13_8/study_969_split_library_seqs.fna ./hmp gg97
