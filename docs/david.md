@@ -19,7 +19,7 @@
 | Sequencing technology | Illumina MiSeq |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [david2014.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/david2014.fasta.gz) |
-| Raw metadata file | [mapping-orig.txt](./datasets/david/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](../../blob/master/datasets/david/mapping-orig.txt) |
 | Raw sequence source | [http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=6248](http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=6248) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/24336217](https://www.ncbi.nlm.nih.gov/pubmed/24336217) |
 

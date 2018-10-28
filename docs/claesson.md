@@ -19,7 +19,7 @@
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [https://qiita.ucsd.edu/download/13265](https://qiita.ucsd.edu/download/13265) |
-| Raw metadata file | [mapping-orig.txt](./datasets/claesson/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](../../blob/master/datasets/claesson/mapping-orig.txt) |
 | Raw sequence source | [https://qiita.ucsd.edu/download/13268](https://qiita.ucsd.edu/download/13268) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/22797518](https://www.ncbi.nlm.nih.gov/pubmed/22797518) |
 
