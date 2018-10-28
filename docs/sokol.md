@@ -19,7 +19,7 @@
 | Sequencing technology | 454 |
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [morgan2012.fasta.gz](https://s3.us-east-2.amazonaws.com/knights-lab/public/MLRepo/fasta/morgan2012.fasta.gz) |
-| Raw metadata file | [mapping-orig.txt](../../blob/master/datasets/sokol/mapping-orig.txt) |
+| Raw metadata file | [mapping-orig.txt](./datasets/sokol/mapping-orig.txt) |
 | Raw sequence source | [https://www.ncbi.nlm.nih.gov/bioproject/82111](https://www.ncbi.nlm.nih.gov/bioproject/82111) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/23013615](https://www.ncbi.nlm.nih.gov/pubmed/23013615) |
 
