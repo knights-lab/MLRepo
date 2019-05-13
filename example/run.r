@@ -1,6 +1,6 @@
 # dependencies: pROC, reshape, ggplot2, cowplot, caret
 
-BASEDIR='/Users/pvangay/Dropbox/UMN/KnightsLab/MLRepo' # update to your containing folder
+BASEDIR='/Users/pvangay/MLRepo' # update to your containing folder
 
 setwd(BASEDIR)
 source(paste0(BASEDIR,'/example/lib/plot.rocs.r'))
