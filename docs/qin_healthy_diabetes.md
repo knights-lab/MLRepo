@@ -11,8 +11,8 @@
 | **Additional task details**   | Chinese patients                                  |
 | **Multiple samples per subject?** | No |
 | **Task mapping file**         | [task-healthy-diabetes.txt](../datasets/qin2012/task-healthy-diabetes.txt)                                 |
-| **OTU file** *gg97*           | [otutable.txt](.NA)                             |
-| **Taxa file** *gg97*          | [taxatable.txt](.NA)                          |
+| **OTU file** *gg97*           | NA                           |
+| **Taxa file** *gg97*          | NA                          |
 | **OTU file** *RefSeq*         | [otutable.txt](../datasets/qin2012/otutable.txt)                    |
 | **Taxa file** *RefSeq*        | [taxatable.txt](../datasets/qin2012/taxatable.txt)                  |
 
