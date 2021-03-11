@@ -20,7 +20,7 @@
 | Fraction of sequences mapped to database |  |
 | Processed sequences | [david2014.fasta.gz](http://metagenome.cs.umn.edu/public/MLRepo/fasta/david2014.fasta.gz) |
 | Raw metadata file | [mapping-orig.txt](../datasets/david/mapping-orig.txt) |
-| Raw sequence source | [http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=6248](http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeProject&project=6248) |
+| Raw sequence source | [https://www.mg-rast.org/linkin.cgi?project=mgp6248](https://www.mg-rast.org/linkin.cgi?project=mgp6248) |
 | Literature source | [https://www.ncbi.nlm.nih.gov/pubmed/24336217](https://www.ncbi.nlm.nih.gov/pubmed/24336217) |
 
 [back to task index](../README.md)
