@@ -113,3 +113,18 @@ Visit the [wiki page describing all MLRepo learning tasks](https://knights-lab.g
 
 ***
 Interested in adding a new dataset or task? [See our instructions](add-datasets-readme.md)
+
+If you use this package, make sure to cite at 
+```
+@article{vangay2019microbiome,
+  title={Microbiome Learning Repo (ML Repo): A public repository of microbiome regression and classification tasks},
+  author={Vangay, Pajau and Hillmann, Benjamin M and Knights, Dan},
+  journal={Gigascience},
+  volume={8},
+  number={5},
+  pages={giz042},
+  year={2019},
+  publisher={Oxford University Press}
+}
+
+```
